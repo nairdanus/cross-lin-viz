@@ -1,0 +1,422 @@
+0,Q: Is 'dry ice' hotter than 'freezer'? A: No
+1,Q: Is 'dry ice' hotter than 'white frost'? A: No
+2,Q: Is 'dry ice' hotter than 'snow'? A: No
+3,Q: Is 'dry ice' hotter than 'icecream'? A: No
+4,Q: Is 'dry ice' hotter than 'ice'? A: No
+5,Q: Is 'dry ice' hotter than 'refrigerator'? A: No
+6,Q: Is 'dry ice' hotter than 'room temperature'? A: No
+7,Q: Is 'dry ice' hotter than 'water'? A: No
+8,Q: Is 'dry ice' hotter than 'rain'? A: No
+9,Q: Is 'dry ice' hotter than 'melted butter'? A: No
+10,Q: Is 'dry ice' hotter than 'human body'? A: No
+11,Q: Is 'dry ice' hotter than 'simmering soup'? A: No
+12,Q: Is 'dry ice' hotter than 'water vapor'? A: No
+13,Q: Is 'dry ice' hotter than 'frying oil'? A: No
+14,Q: Is 'dry ice' hotter than 'deep red fire'? A: No
+15,Q: Is 'dry ice' hotter than 'melted aluminium'? A: No
+16,Q: Is 'dry ice' hotter than 'blue flame'? A: No
+17,Q: Is 'dry ice' hotter than 'melted steel'? A: No
+18,Q: Is 'dry ice' hotter than 'incandescent light bulb'? A: No
+19,Q: Is 'dry ice' hotter than 'sun'? A: No
+20,Q: Is 'dry ice' hotter than 'melted lead'? A: No
+21,Q: Is 'freezer' hotter than 'dry ice'? A: Yes
+22,Q: Is 'freezer' hotter than 'ice'? A: No
+23,Q: Is 'freezer' hotter than 'refrigerator'? A: No
+24,Q: Is 'freezer' hotter than 'room temperature'? A: No
+25,Q: Is 'freezer' hotter than 'water'? A: No
+26,Q: Is 'freezer' hotter than 'rain'? A: No
+27,Q: Is 'freezer' hotter than 'melted butter'? A: No
+28,Q: Is 'freezer' hotter than 'human body'? A: No
+29,Q: Is 'freezer' hotter than 'simmering soup'? A: No
+30,Q: Is 'freezer' hotter than 'water vapor'? A: No
+31,Q: Is 'freezer' hotter than 'frying oil'? A: No
+32,Q: Is 'freezer' hotter than 'deep red fire'? A: No
+33,Q: Is 'freezer' hotter than 'melted aluminium'? A: No
+34,Q: Is 'freezer' hotter than 'blue flame'? A: No
+35,Q: Is 'freezer' hotter than 'melted steel'? A: No
+36,Q: Is 'freezer' hotter than 'incandescent light bulb'? A: No
+37,Q: Is 'freezer' hotter than 'sun'? A: No
+38,Q: Is 'freezer' hotter than 'melted lead'? A: No
+39,Q: Is 'white frost' hotter than 'dry ice'? A: Yes
+40,Q: Is 'white frost' hotter than 'refrigerator'? A: No
+41,Q: Is 'white frost' hotter than 'room temperature'? A: No
+42,Q: Is 'white frost' hotter than 'water'? A: No
+43,Q: Is 'white frost' hotter than 'rain'? A: No
+44,Q: Is 'white frost' hotter than 'melted butter'? A: No
+45,Q: Is 'white frost' hotter than 'human body'? A: No
+46,Q: Is 'white frost' hotter than 'simmering soup'? A: No
+47,Q: Is 'white frost' hotter than 'water vapor'? A: No
+48,Q: Is 'white frost' hotter than 'frying oil'? A: No
+49,Q: Is 'white frost' hotter than 'deep red fire'? A: No
+50,Q: Is 'white frost' hotter than 'melted aluminium'? A: No
+51,Q: Is 'white frost' hotter than 'blue flame'? A: No
+52,Q: Is 'white frost' hotter than 'melted steel'? A: No
+53,Q: Is 'white frost' hotter than 'incandescent light bulb'? A: No
+54,Q: Is 'white frost' hotter than 'sun'? A: No
+55,Q: Is 'white frost' hotter than 'melted lead'? A: No
+56,Q: Is 'snow' hotter than 'dry ice'? A: Yes
+57,Q: Is 'snow' hotter than 'room temperature'? A: No
+58,Q: Is 'snow' hotter than 'water'? A: No
+59,Q: Is 'snow' hotter than 'rain'? A: No
+60,Q: Is 'snow' hotter than 'melted butter'? A: No
+61,Q: Is 'snow' hotter than 'human body'? A: No
+62,Q: Is 'snow' hotter than 'simmering soup'? A: No
+63,Q: Is 'snow' hotter than 'water vapor'? A: No
+64,Q: Is 'snow' hotter than 'frying oil'? A: No
+65,Q: Is 'snow' hotter than 'deep red fire'? A: No
+66,Q: Is 'snow' hotter than 'melted aluminium'? A: No
+67,Q: Is 'snow' hotter than 'blue flame'? A: No
+68,Q: Is 'snow' hotter than 'melted steel'? A: No
+69,Q: Is 'snow' hotter than 'incandescent light bulb'? A: No
+70,Q: Is 'snow' hotter than 'sun'? A: No
+71,Q: Is 'snow' hotter than 'melted lead'? A: No
+72,Q: Is 'icecream' hotter than 'dry ice'? A: Yes
+73,Q: Is 'icecream' hotter than 'room temperature'? A: No
+74,Q: Is 'icecream' hotter than 'water'? A: No
+75,Q: Is 'icecream' hotter than 'rain'? A: No
+76,Q: Is 'icecream' hotter than 'melted butter'? A: No
+77,Q: Is 'icecream' hotter than 'human body'? A: No
+78,Q: Is 'icecream' hotter than 'simmering soup'? A: No
+79,Q: Is 'icecream' hotter than 'water vapor'? A: No
+80,Q: Is 'icecream' hotter than 'frying oil'? A: No
+81,Q: Is 'icecream' hotter than 'deep red fire'? A: No
+82,Q: Is 'icecream' hotter than 'melted aluminium'? A: No
+83,Q: Is 'icecream' hotter than 'blue flame'? A: No
+84,Q: Is 'icecream' hotter than 'melted steel'? A: No
+85,Q: Is 'icecream' hotter than 'incandescent light bulb'? A: No
+86,Q: Is 'icecream' hotter than 'sun'? A: No
+87,Q: Is 'icecream' hotter than 'melted lead'? A: No
+88,Q: Is 'ice' hotter than 'dry ice'? A: Yes
+89,Q: Is 'ice' hotter than 'freezer'? A: Yes
+90,Q: Is 'ice' hotter than 'room temperature'? A: No
+91,Q: Is 'ice' hotter than 'water'? A: No
+92,Q: Is 'ice' hotter than 'rain'? A: No
+93,Q: Is 'ice' hotter than 'melted butter'? A: No
+94,Q: Is 'ice' hotter than 'human body'? A: No
+95,Q: Is 'ice' hotter than 'simmering soup'? A: No
+96,Q: Is 'ice' hotter than 'water vapor'? A: No
+97,Q: Is 'ice' hotter than 'frying oil'? A: No
+98,Q: Is 'ice' hotter than 'deep red fire'? A: No
+99,Q: Is 'ice' hotter than 'melted aluminium'? A: No
+100,Q: Is 'ice' hotter than 'blue flame'? A: No
+101,Q: Is 'ice' hotter than 'melted steel'? A: No
+102,Q: Is 'ice' hotter than 'incandescent light bulb'? A: No
+103,Q: Is 'ice' hotter than 'sun'? A: No
+104,Q: Is 'ice' hotter than 'melted lead'? A: No
+105,Q: Is 'refrigerator' hotter than 'dry ice'? A: Yes
+106,Q: Is 'refrigerator' hotter than 'freezer'? A: Yes
+107,Q: Is 'refrigerator' hotter than 'white frost'? A: Yes
+108,Q: Is 'refrigerator' hotter than 'room temperature'? A: No
+109,Q: Is 'refrigerator' hotter than 'water'? A: No
+110,Q: Is 'refrigerator' hotter than 'rain'? A: No
+111,Q: Is 'refrigerator' hotter than 'melted butter'? A: No
+112,Q: Is 'refrigerator' hotter than 'human body'? A: No
+113,Q: Is 'refrigerator' hotter than 'simmering soup'? A: No
+114,Q: Is 'refrigerator' hotter than 'water vapor'? A: No
+115,Q: Is 'refrigerator' hotter than 'frying oil'? A: No
+116,Q: Is 'refrigerator' hotter than 'deep red fire'? A: No
+117,Q: Is 'refrigerator' hotter than 'melted aluminium'? A: No
+118,Q: Is 'refrigerator' hotter than 'blue flame'? A: No
+119,Q: Is 'refrigerator' hotter than 'melted steel'? A: No
+120,Q: Is 'refrigerator' hotter than 'incandescent light bulb'? A: No
+121,Q: Is 'refrigerator' hotter than 'sun'? A: No
+122,Q: Is 'refrigerator' hotter than 'melted lead'? A: No
+123,Q: Is 'room temperature' hotter than 'dry ice'? A: Yes
+124,Q: Is 'room temperature' hotter than 'freezer'? A: Yes
+125,Q: Is 'room temperature' hotter than 'white frost'? A: Yes
+126,Q: Is 'room temperature' hotter than 'snow'? A: Yes
+127,Q: Is 'room temperature' hotter than 'icecream'? A: Yes
+128,Q: Is 'room temperature' hotter than 'ice'? A: Yes
+129,Q: Is 'room temperature' hotter than 'refrigerator'? A: Yes
+130,Q: Is 'room temperature' hotter than 'human body'? A: No
+131,Q: Is 'room temperature' hotter than 'simmering soup'? A: No
+132,Q: Is 'room temperature' hotter than 'water vapor'? A: No
+133,Q: Is 'room temperature' hotter than 'frying oil'? A: No
+134,Q: Is 'room temperature' hotter than 'deep red fire'? A: No
+135,Q: Is 'room temperature' hotter than 'melted aluminium'? A: No
+136,Q: Is 'room temperature' hotter than 'blue flame'? A: No
+137,Q: Is 'room temperature' hotter than 'melted steel'? A: No
+138,Q: Is 'room temperature' hotter than 'incandescent light bulb'? A: No
+139,Q: Is 'room temperature' hotter than 'sun'? A: No
+140,Q: Is 'room temperature' hotter than 'melted lead'? A: No
+141,Q: Is 'water' hotter than 'dry ice'? A: Yes
+142,Q: Is 'water' hotter than 'freezer'? A: Yes
+143,Q: Is 'water' hotter than 'white frost'? A: Yes
+144,Q: Is 'water' hotter than 'snow'? A: Yes
+145,Q: Is 'water' hotter than 'icecream'? A: Yes
+146,Q: Is 'water' hotter than 'ice'? A: Yes
+147,Q: Is 'water' hotter than 'refrigerator'? A: Yes
+148,Q: Is 'water' hotter than 'human body'? A: No
+149,Q: Is 'water' hotter than 'simmering soup'? A: No
+150,Q: Is 'water' hotter than 'water vapor'? A: No
+151,Q: Is 'water' hotter than 'frying oil'? A: No
+152,Q: Is 'water' hotter than 'deep red fire'? A: No
+153,Q: Is 'water' hotter than 'melted aluminium'? A: No
+154,Q: Is 'water' hotter than 'blue flame'? A: No
+155,Q: Is 'water' hotter than 'melted steel'? A: No
+156,Q: Is 'water' hotter than 'incandescent light bulb'? A: No
+157,Q: Is 'water' hotter than 'sun'? A: No
+158,Q: Is 'water' hotter than 'melted lead'? A: No
+159,Q: Is 'rain' hotter than 'dry ice'? A: Yes
+160,Q: Is 'rain' hotter than 'freezer'? A: Yes
+161,Q: Is 'rain' hotter than 'white frost'? A: Yes
+162,Q: Is 'rain' hotter than 'snow'? A: Yes
+163,Q: Is 'rain' hotter than 'icecream'? A: Yes
+164,Q: Is 'rain' hotter than 'ice'? A: Yes
+165,Q: Is 'rain' hotter than 'refrigerator'? A: Yes
+166,Q: Is 'rain' hotter than 'human body'? A: No
+167,Q: Is 'rain' hotter than 'simmering soup'? A: No
+168,Q: Is 'rain' hotter than 'water vapor'? A: No
+169,Q: Is 'rain' hotter than 'frying oil'? A: No
+170,Q: Is 'rain' hotter than 'deep red fire'? A: No
+171,Q: Is 'rain' hotter than 'melted aluminium'? A: No
+172,Q: Is 'rain' hotter than 'blue flame'? A: No
+173,Q: Is 'rain' hotter than 'melted steel'? A: No
+174,Q: Is 'rain' hotter than 'incandescent light bulb'? A: No
+175,Q: Is 'rain' hotter than 'sun'? A: No
+176,Q: Is 'rain' hotter than 'melted lead'? A: No
+177,Q: Is 'melted butter' hotter than 'dry ice'? A: Yes
+178,Q: Is 'melted butter' hotter than 'freezer'? A: Yes
+179,Q: Is 'melted butter' hotter than 'white frost'? A: Yes
+180,Q: Is 'melted butter' hotter than 'snow'? A: Yes
+181,Q: Is 'melted butter' hotter than 'icecream'? A: Yes
+182,Q: Is 'melted butter' hotter than 'ice'? A: Yes
+183,Q: Is 'melted butter' hotter than 'refrigerator'? A: Yes
+184,Q: Is 'melted butter' hotter than 'simmering soup'? A: No
+185,Q: Is 'melted butter' hotter than 'water vapor'? A: No
+186,Q: Is 'melted butter' hotter than 'frying oil'? A: No
+187,Q: Is 'melted butter' hotter than 'deep red fire'? A: No
+188,Q: Is 'melted butter' hotter than 'melted aluminium'? A: No
+189,Q: Is 'melted butter' hotter than 'blue flame'? A: No
+190,Q: Is 'melted butter' hotter than 'melted steel'? A: No
+191,Q: Is 'melted butter' hotter than 'incandescent light bulb'? A: No
+192,Q: Is 'melted butter' hotter than 'sun'? A: No
+193,Q: Is 'melted butter' hotter than 'melted lead'? A: No
+194,Q: Is 'human body' hotter than 'dry ice'? A: Yes
+195,Q: Is 'human body' hotter than 'freezer'? A: Yes
+196,Q: Is 'human body' hotter than 'white frost'? A: Yes
+197,Q: Is 'human body' hotter than 'snow'? A: Yes
+198,Q: Is 'human body' hotter than 'icecream'? A: Yes
+199,Q: Is 'human body' hotter than 'ice'? A: Yes
+200,Q: Is 'human body' hotter than 'refrigerator'? A: Yes
+201,Q: Is 'human body' hotter than 'room temperature'? A: Yes
+202,Q: Is 'human body' hotter than 'water'? A: Yes
+203,Q: Is 'human body' hotter than 'rain'? A: Yes
+204,Q: Is 'human body' hotter than 'simmering soup'? A: No
+205,Q: Is 'human body' hotter than 'water vapor'? A: No
+206,Q: Is 'human body' hotter than 'frying oil'? A: No
+207,Q: Is 'human body' hotter than 'deep red fire'? A: No
+208,Q: Is 'human body' hotter than 'melted aluminium'? A: No
+209,Q: Is 'human body' hotter than 'blue flame'? A: No
+210,Q: Is 'human body' hotter than 'melted steel'? A: No
+211,Q: Is 'human body' hotter than 'incandescent light bulb'? A: No
+212,Q: Is 'human body' hotter than 'sun'? A: No
+213,Q: Is 'human body' hotter than 'melted lead'? A: No
+214,Q: Is 'simmering soup' hotter than 'dry ice'? A: Yes
+215,Q: Is 'simmering soup' hotter than 'freezer'? A: Yes
+216,Q: Is 'simmering soup' hotter than 'white frost'? A: Yes
+217,Q: Is 'simmering soup' hotter than 'snow'? A: Yes
+218,Q: Is 'simmering soup' hotter than 'icecream'? A: Yes
+219,Q: Is 'simmering soup' hotter than 'ice'? A: Yes
+220,Q: Is 'simmering soup' hotter than 'refrigerator'? A: Yes
+221,Q: Is 'simmering soup' hotter than 'room temperature'? A: Yes
+222,Q: Is 'simmering soup' hotter than 'water'? A: Yes
+223,Q: Is 'simmering soup' hotter than 'rain'? A: Yes
+224,Q: Is 'simmering soup' hotter than 'melted butter'? A: Yes
+225,Q: Is 'simmering soup' hotter than 'human body'? A: Yes
+226,Q: Is 'simmering soup' hotter than 'frying oil'? A: No
+227,Q: Is 'simmering soup' hotter than 'deep red fire'? A: No
+228,Q: Is 'simmering soup' hotter than 'melted aluminium'? A: No
+229,Q: Is 'simmering soup' hotter than 'blue flame'? A: No
+230,Q: Is 'simmering soup' hotter than 'melted steel'? A: No
+231,Q: Is 'simmering soup' hotter than 'incandescent light bulb'? A: No
+232,Q: Is 'simmering soup' hotter than 'sun'? A: No
+233,Q: Is 'simmering soup' hotter than 'melted lead'? A: No
+234,Q: Is 'water vapor' hotter than 'dry ice'? A: Yes
+235,Q: Is 'water vapor' hotter than 'freezer'? A: Yes
+236,Q: Is 'water vapor' hotter than 'white frost'? A: Yes
+237,Q: Is 'water vapor' hotter than 'snow'? A: Yes
+238,Q: Is 'water vapor' hotter than 'icecream'? A: Yes
+239,Q: Is 'water vapor' hotter than 'ice'? A: Yes
+240,Q: Is 'water vapor' hotter than 'refrigerator'? A: Yes
+241,Q: Is 'water vapor' hotter than 'room temperature'? A: Yes
+242,Q: Is 'water vapor' hotter than 'water'? A: Yes
+243,Q: Is 'water vapor' hotter than 'rain'? A: Yes
+244,Q: Is 'water vapor' hotter than 'melted butter'? A: Yes
+245,Q: Is 'water vapor' hotter than 'human body'? A: Yes
+246,Q: Is 'water vapor' hotter than 'frying oil'? A: No
+247,Q: Is 'water vapor' hotter than 'deep red fire'? A: No
+248,Q: Is 'water vapor' hotter than 'melted aluminium'? A: No
+249,Q: Is 'water vapor' hotter than 'blue flame'? A: No
+250,Q: Is 'water vapor' hotter than 'melted steel'? A: No
+251,Q: Is 'water vapor' hotter than 'incandescent light bulb'? A: No
+252,Q: Is 'water vapor' hotter than 'sun'? A: No
+253,Q: Is 'water vapor' hotter than 'melted lead'? A: No
+254,Q: Is 'frying oil' hotter than 'dry ice'? A: Yes
+255,Q: Is 'frying oil' hotter than 'freezer'? A: Yes
+256,Q: Is 'frying oil' hotter than 'white frost'? A: Yes
+257,Q: Is 'frying oil' hotter than 'snow'? A: Yes
+258,Q: Is 'frying oil' hotter than 'icecream'? A: Yes
+259,Q: Is 'frying oil' hotter than 'ice'? A: Yes
+260,Q: Is 'frying oil' hotter than 'refrigerator'? A: Yes
+261,Q: Is 'frying oil' hotter than 'room temperature'? A: Yes
+262,Q: Is 'frying oil' hotter than 'water'? A: Yes
+263,Q: Is 'frying oil' hotter than 'rain'? A: Yes
+264,Q: Is 'frying oil' hotter than 'melted butter'? A: Yes
+265,Q: Is 'frying oil' hotter than 'human body'? A: Yes
+266,Q: Is 'frying oil' hotter than 'simmering soup'? A: Yes
+267,Q: Is 'frying oil' hotter than 'water vapor'? A: Yes
+268,Q: Is 'frying oil' hotter than 'deep red fire'? A: No
+269,Q: Is 'frying oil' hotter than 'melted aluminium'? A: No
+270,Q: Is 'frying oil' hotter than 'blue flame'? A: No
+271,Q: Is 'frying oil' hotter than 'melted steel'? A: No
+272,Q: Is 'frying oil' hotter than 'incandescent light bulb'? A: No
+273,Q: Is 'frying oil' hotter than 'sun'? A: No
+274,Q: Is 'frying oil' hotter than 'melted lead'? A: No
+275,Q: Is 'deep red fire' hotter than 'dry ice'? A: Yes
+276,Q: Is 'deep red fire' hotter than 'freezer'? A: Yes
+277,Q: Is 'deep red fire' hotter than 'white frost'? A: Yes
+278,Q: Is 'deep red fire' hotter than 'snow'? A: Yes
+279,Q: Is 'deep red fire' hotter than 'icecream'? A: Yes
+280,Q: Is 'deep red fire' hotter than 'ice'? A: Yes
+281,Q: Is 'deep red fire' hotter than 'refrigerator'? A: Yes
+282,Q: Is 'deep red fire' hotter than 'room temperature'? A: Yes
+283,Q: Is 'deep red fire' hotter than 'water'? A: Yes
+284,Q: Is 'deep red fire' hotter than 'rain'? A: Yes
+285,Q: Is 'deep red fire' hotter than 'melted butter'? A: Yes
+286,Q: Is 'deep red fire' hotter than 'human body'? A: Yes
+287,Q: Is 'deep red fire' hotter than 'simmering soup'? A: Yes
+288,Q: Is 'deep red fire' hotter than 'water vapor'? A: Yes
+289,Q: Is 'deep red fire' hotter than 'frying oil'? A: Yes
+290,Q: Is 'deep red fire' hotter than 'melted lead'? A: Yes
+291,Q: Is 'deep red fire' hotter than 'melted aluminium'? A: No
+292,Q: Is 'deep red fire' hotter than 'blue flame'? A: No
+293,Q: Is 'deep red fire' hotter than 'melted steel'? A: No
+294,Q: Is 'deep red fire' hotter than 'incandescent light bulb'? A: No
+295,Q: Is 'deep red fire' hotter than 'sun'? A: No
+296,Q: Is 'melted aluminium' hotter than 'dry ice'? A: Yes
+297,Q: Is 'melted aluminium' hotter than 'freezer'? A: Yes
+298,Q: Is 'melted aluminium' hotter than 'white frost'? A: Yes
+299,Q: Is 'melted aluminium' hotter than 'snow'? A: Yes
+300,Q: Is 'melted aluminium' hotter than 'icecream'? A: Yes
+301,Q: Is 'melted aluminium' hotter than 'ice'? A: Yes
+302,Q: Is 'melted aluminium' hotter than 'refrigerator'? A: Yes
+303,Q: Is 'melted aluminium' hotter than 'room temperature'? A: Yes
+304,Q: Is 'melted aluminium' hotter than 'water'? A: Yes
+305,Q: Is 'melted aluminium' hotter than 'rain'? A: Yes
+306,Q: Is 'melted aluminium' hotter than 'melted butter'? A: Yes
+307,Q: Is 'melted aluminium' hotter than 'human body'? A: Yes
+308,Q: Is 'melted aluminium' hotter than 'simmering soup'? A: Yes
+309,Q: Is 'melted aluminium' hotter than 'water vapor'? A: Yes
+310,Q: Is 'melted aluminium' hotter than 'frying oil'? A: Yes
+311,Q: Is 'melted aluminium' hotter than 'deep red fire'? A: Yes
+312,Q: Is 'melted aluminium' hotter than 'melted lead'? A: Yes
+313,Q: Is 'melted aluminium' hotter than 'blue flame'? A: No
+314,Q: Is 'melted aluminium' hotter than 'melted steel'? A: No
+315,Q: Is 'melted aluminium' hotter than 'incandescent light bulb'? A: No
+316,Q: Is 'melted aluminium' hotter than 'sun'? A: No
+317,Q: Is 'blue flame' hotter than 'dry ice'? A: Yes
+318,Q: Is 'blue flame' hotter than 'freezer'? A: Yes
+319,Q: Is 'blue flame' hotter than 'white frost'? A: Yes
+320,Q: Is 'blue flame' hotter than 'snow'? A: Yes
+321,Q: Is 'blue flame' hotter than 'icecream'? A: Yes
+322,Q: Is 'blue flame' hotter than 'ice'? A: Yes
+323,Q: Is 'blue flame' hotter than 'refrigerator'? A: Yes
+324,Q: Is 'blue flame' hotter than 'room temperature'? A: Yes
+325,Q: Is 'blue flame' hotter than 'water'? A: Yes
+326,Q: Is 'blue flame' hotter than 'rain'? A: Yes
+327,Q: Is 'blue flame' hotter than 'melted butter'? A: Yes
+328,Q: Is 'blue flame' hotter than 'human body'? A: Yes
+329,Q: Is 'blue flame' hotter than 'simmering soup'? A: Yes
+330,Q: Is 'blue flame' hotter than 'water vapor'? A: Yes
+331,Q: Is 'blue flame' hotter than 'frying oil'? A: Yes
+332,Q: Is 'blue flame' hotter than 'deep red fire'? A: Yes
+333,Q: Is 'blue flame' hotter than 'melted aluminium'? A: Yes
+334,Q: Is 'blue flame' hotter than 'melted lead'? A: Yes
+335,Q: Is 'blue flame' hotter than 'melted steel'? A: No
+336,Q: Is 'blue flame' hotter than 'incandescent light bulb'? A: No
+337,Q: Is 'blue flame' hotter than 'sun'? A: No
+338,Q: Is 'melted steel' hotter than 'dry ice'? A: Yes
+339,Q: Is 'melted steel' hotter than 'freezer'? A: Yes
+340,Q: Is 'melted steel' hotter than 'white frost'? A: Yes
+341,Q: Is 'melted steel' hotter than 'snow'? A: Yes
+342,Q: Is 'melted steel' hotter than 'icecream'? A: Yes
+343,Q: Is 'melted steel' hotter than 'ice'? A: Yes
+344,Q: Is 'melted steel' hotter than 'refrigerator'? A: Yes
+345,Q: Is 'melted steel' hotter than 'room temperature'? A: Yes
+346,Q: Is 'melted steel' hotter than 'water'? A: Yes
+347,Q: Is 'melted steel' hotter than 'rain'? A: Yes
+348,Q: Is 'melted steel' hotter than 'melted butter'? A: Yes
+349,Q: Is 'melted steel' hotter than 'human body'? A: Yes
+350,Q: Is 'melted steel' hotter than 'simmering soup'? A: Yes
+351,Q: Is 'melted steel' hotter than 'water vapor'? A: Yes
+352,Q: Is 'melted steel' hotter than 'frying oil'? A: Yes
+353,Q: Is 'melted steel' hotter than 'deep red fire'? A: Yes
+354,Q: Is 'melted steel' hotter than 'melted aluminium'? A: Yes
+355,Q: Is 'melted steel' hotter than 'blue flame'? A: Yes
+356,Q: Is 'melted steel' hotter than 'melted lead'? A: Yes
+357,Q: Is 'melted steel' hotter than 'incandescent light bulb'? A: No
+358,Q: Is 'melted steel' hotter than 'sun'? A: No
+359,Q: Is 'incandescent light bulb' hotter than 'dry ice'? A: Yes
+360,Q: Is 'incandescent light bulb' hotter than 'freezer'? A: Yes
+361,Q: Is 'incandescent light bulb' hotter than 'white frost'? A: Yes
+362,Q: Is 'incandescent light bulb' hotter than 'snow'? A: Yes
+363,Q: Is 'incandescent light bulb' hotter than 'icecream'? A: Yes
+364,Q: Is 'incandescent light bulb' hotter than 'ice'? A: Yes
+365,Q: Is 'incandescent light bulb' hotter than 'refrigerator'? A: Yes
+366,Q: Is 'incandescent light bulb' hotter than 'room temperature'? A: Yes
+367,Q: Is 'incandescent light bulb' hotter than 'water'? A: Yes
+368,Q: Is 'incandescent light bulb' hotter than 'rain'? A: Yes
+369,Q: Is 'incandescent light bulb' hotter than 'melted butter'? A: Yes
+370,Q: Is 'incandescent light bulb' hotter than 'human body'? A: Yes
+371,Q: Is 'incandescent light bulb' hotter than 'simmering soup'? A: Yes
+372,Q: Is 'incandescent light bulb' hotter than 'water vapor'? A: Yes
+373,Q: Is 'incandescent light bulb' hotter than 'frying oil'? A: Yes
+374,Q: Is 'incandescent light bulb' hotter than 'deep red fire'? A: Yes
+375,Q: Is 'incandescent light bulb' hotter than 'melted aluminium'? A: Yes
+376,Q: Is 'incandescent light bulb' hotter than 'blue flame'? A: Yes
+377,Q: Is 'incandescent light bulb' hotter than 'melted steel'? A: Yes
+378,Q: Is 'incandescent light bulb' hotter than 'melted lead'? A: Yes
+379,Q: Is 'incandescent light bulb' hotter than 'sun'? A: No
+380,Q: Is 'sun' hotter than 'dry ice'? A: Yes
+381,Q: Is 'sun' hotter than 'freezer'? A: Yes
+382,Q: Is 'sun' hotter than 'white frost'? A: Yes
+383,Q: Is 'sun' hotter than 'snow'? A: Yes
+384,Q: Is 'sun' hotter than 'icecream'? A: Yes
+385,Q: Is 'sun' hotter than 'ice'? A: Yes
+386,Q: Is 'sun' hotter than 'refrigerator'? A: Yes
+387,Q: Is 'sun' hotter than 'room temperature'? A: Yes
+388,Q: Is 'sun' hotter than 'water'? A: Yes
+389,Q: Is 'sun' hotter than 'rain'? A: Yes
+390,Q: Is 'sun' hotter than 'melted butter'? A: Yes
+391,Q: Is 'sun' hotter than 'human body'? A: Yes
+392,Q: Is 'sun' hotter than 'simmering soup'? A: Yes
+393,Q: Is 'sun' hotter than 'water vapor'? A: Yes
+394,Q: Is 'sun' hotter than 'frying oil'? A: Yes
+395,Q: Is 'sun' hotter than 'deep red fire'? A: Yes
+396,Q: Is 'sun' hotter than 'melted aluminium'? A: Yes
+397,Q: Is 'sun' hotter than 'blue flame'? A: Yes
+398,Q: Is 'sun' hotter than 'melted steel'? A: Yes
+399,Q: Is 'sun' hotter than 'incandescent light bulb'? A: Yes
+400,Q: Is 'sun' hotter than 'melted lead'? A: Yes
+401,Q: Is 'melted lead' hotter than 'dry ice'? A: Yes
+402,Q: Is 'melted lead' hotter than 'freezer'? A: Yes
+403,Q: Is 'melted lead' hotter than 'white frost'? A: Yes
+404,Q: Is 'melted lead' hotter than 'snow'? A: Yes
+405,Q: Is 'melted lead' hotter than 'icecream'? A: Yes
+406,Q: Is 'melted lead' hotter than 'ice'? A: Yes
+407,Q: Is 'melted lead' hotter than 'refrigerator'? A: Yes
+408,Q: Is 'melted lead' hotter than 'room temperature'? A: Yes
+409,Q: Is 'melted lead' hotter than 'water'? A: Yes
+410,Q: Is 'melted lead' hotter than 'rain'? A: Yes
+411,Q: Is 'melted lead' hotter than 'melted butter'? A: Yes
+412,Q: Is 'melted lead' hotter than 'human body'? A: Yes
+413,Q: Is 'melted lead' hotter than 'simmering soup'? A: Yes
+414,Q: Is 'melted lead' hotter than 'water vapor'? A: Yes
+415,Q: Is 'melted lead' hotter than 'frying oil'? A: Yes
+416,Q: Is 'melted lead' hotter than 'deep red fire'? A: No
+417,Q: Is 'melted lead' hotter than 'melted aluminium'? A: No
+418,Q: Is 'melted lead' hotter than 'blue flame'? A: No
+419,Q: Is 'melted lead' hotter than 'melted steel'? A: No
+420,Q: Is 'melted lead' hotter than 'incandescent light bulb'? A: No
+421,Q: Is 'melted lead' hotter than 'sun'? A: No

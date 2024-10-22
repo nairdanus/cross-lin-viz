@@ -1,0 +1,574 @@
+0,Q: ¿Cuál es el color de chaqueta: 'púrpura' o 'negro'? A: negro
+1,Q: ¿Cuál es el color de furgoneta: 'púrpura' o 'blanco'? A: blanco
+2,Q: ¿Cuál es el color de luz de la calle: 'púrpura' o 'negro'? A: negro
+3,Q: ¿Cuál es el color de polo: 'azul' o 'negro'? A: negro
+4,Q: ¿Cuál es el color de gabinete: 'blanco' o 'púrpura'? A: blanco
+5,Q: ¿Cuál es el color de cortina: 'blanco' o 'gris'? A: blanco
+6,Q: ¿Cuál es el color de cubrir: 'gris' o 'blanco'? A: blanco
+7,Q: ¿Cuál es el color de imagen: 'blanco' o 'plata'? A: blanco
+8,Q: ¿Cuál es el color de manzana: 'plata' o 'rojo'? A: rojo
+9,Q: ¿Cuál es el color de encimera: 'blanco' o 'verde'? A: blanco
+10,Q: ¿Cuál es el color de escribiendo: 'naranja' o 'blanco'? A: blanco
+11,Q: ¿Cuál es el color de auricular: 'rojo' o 'negro'? A: negro
+12,Q: ¿Cuál es el color de taza: 'plata' o 'blanco'? A: blanco
+13,Q: ¿Cuál es el color de grapadora: 'amarillo' o 'negro'? A: negro
+14,Q: ¿Cuál es el color de cargador: 'blanco' o 'naranja'? A: blanco
+15,Q: ¿Cuál es el color de abrigo: 'púrpura' o 'negro'? A: negro
+16,Q: ¿Cuál es el color de teclado de la computadora: 'azul' o 'blanco'? A: blanco
+17,Q: ¿Cuál es el color de botella de agua: 'azul' o 'marrón'? A: azul
+18,Q: ¿Cuál es el color de etiqueta engomada: 'blanco' o 'púrpura'? A: blanco
+19,Q: ¿Cuál es el color de cosa: 'blanco' o 'gris'? A: blanco
+20,Q: ¿Cuál es el color de altavoz: 'negro' o 'púrpura'? A: negro
+21,Q: ¿Cuál es el color de alarma de incendios: 'rojo' o 'negro'? A: rojo
+22,Q: ¿Cuál es el color de bufanda: 'amarillo' o 'rojo'? A: rojo
+23,Q: ¿Cuál es el color de pantalón: 'rojo' o 'negro'? A: negro
+24,Q: ¿Cuál es el color de bandera: 'gris' o 'blanco'? A: blanco
+25,Q: ¿Cuál es el color de iluminación: 'plata' o 'blanco'? A: blanco
+26,Q: ¿Cuál es el color de pino: 'verde' o 'amarillo'? A: verde
+27,Q: ¿Cuál es el color de vehículo: 'naranja' o 'blanco'? A: blanco
+28,Q: ¿Cuál es el color de blusa: 'blanco' o 'gris'? A: blanco
+29,Q: ¿Cuál es el color de agua: 'púrpura' o 'azul'? A: azul
+30,Q: ¿Cuál es el color de horno: 'rojo' o 'blanco'? A: blanco
+31,Q: ¿Cuál es el color de lavavajillas: 'blanco' o 'rosa'? A: blanco
+32,Q: ¿Cuál es el color de líquido: 'marrón' o 'rosa'? A: marrón
+33,Q: ¿Cuál es el color de cuadro: 'blanco' o 'gris'? A: blanco
+34,Q: ¿Cuál es el color de pava: 'plata' o 'gris'? A: plata
+35,Q: ¿Cuál es el color de refrigerador: 'naranja' o 'blanco'? A: blanco
+36,Q: ¿Cuál es el color de mezclador: 'gris' o 'blanco'? A: blanco
+37,Q: ¿Cuál es el color de cajón de la cocina: 'verde' o 'blanco'? A: blanco
+38,Q: ¿Cuál es el color de pierna: 'blanco' o 'rojo'? A: blanco
+39,Q: ¿Cuál es el color de pararse: 'azul' o 'negro'? A: negro
+40,Q: ¿Cuál es el color de semáforo: 'plata' o 'rojo'? A: rojo
+41,Q: ¿Cuál es el color de taxista: 'amarillo' o 'naranja'? A: amarillo
+42,Q: ¿Cuál es el color de cartera: 'naranja' o 'negro'? A: negro
+43,Q: ¿Cuál es el color de gafas de sol: 'verde' o 'negro'? A: negro
+44,Q: ¿Cuál es el color de nube: 'blanco' o 'marrón'? A: blanco
+45,Q: ¿Cuál es el color de teléfono: 'negro' o 'amarillo'? A: negro
+46,Q: ¿Cuál es el color de círculo: 'gris' o 'rojo'? A: rojo
+47,Q: ¿Cuál es el color de palabra: 'naranja' o 'blanco'? A: blanco
+48,Q: ¿Cuál es el color de bisagra: 'plata' o 'rojo'? A: plata
+49,Q: ¿Cuál es el color de encimera: 'púrpura' o 'blanco'? A: blanco
+50,Q: ¿Cuál es el color de bandeja: 'plata' o 'amarillo'? A: plata
+51,Q: ¿Cuál es el color de de oficina: 'rosa' o 'blanco'? A: blanco
+52,Q: ¿Cuál es el color de panel: 'blanco' o 'púrpura'? A: blanco
+53,Q: ¿Cuál es el color de estante: 'rosa' o 'plata'? A: plata
+54,Q: ¿Cuál es el color de marcar: 'negro' o 'púrpura'? A: negro
+55,Q: ¿Cuál es el color de vela: 'plata' o 'blanco'? A: blanco
+56,Q: ¿Cuál es el color de base de la lámpara: 'amarillo' o 'rosa'? A: amarillo
+57,Q: ¿Cuál es el color de estantería: 'marrón' o 'rojo'? A: marrón
+58,Q: ¿Cuál es el color de colchón: 'plata' o 'blanco'? A: blanco
+59,Q: ¿Cuál es el color de otomana: 'marrón' o 'púrpura'? A: marrón
+60,Q: ¿Cuál es el color de piano: 'negro' o 'azul'? A: negro
+61,Q: ¿Cuál es el color de llama: 'gris' o 'azul'? A: azul
+62,Q: ¿Cuál es el color de casa: 'negro' o 'blanco'? A: blanco
+63,Q: ¿Cuál es el color de suciedad: 'marrón' o 'azul'? A: marrón
+64,Q: ¿Cuál es el color de adaptador: 'negro' o 'blanco'? A: negro
+65,Q: ¿Cuál es el color de trofeo: 'verde' o 'amarillo'? A: amarillo
+66,Q: ¿Cuál es el color de cesta: 'rosa' o 'marrón'? A: marrón
+67,Q: ¿Cuál es el color de encimera: 'blanco' o 'rosa'? A: blanco
+68,Q: ¿Cuál es el color de espuma: 'plata' o 'blanco'? A: blanco
+69,Q: ¿Cuál es el color de arena: 'marrón' o 'plata'? A: marrón
+70,Q: ¿Cuál es el color de calificación: 'blanco' o 'gris'? A: blanco
+71,Q: ¿Cuál es el color de mantillo: 'marrón' o 'rosa'? A: marrón
+72,Q: ¿Cuál es el color de túnica: 'marrón' o 'blanco'? A: blanco
+73,Q: ¿Cuál es el color de borde: 'rosa' o 'plata'? A: plata
+74,Q: ¿Cuál es el color de en general: 'gris' o 'azul'? A: azul
+75,Q: ¿Cuál es el color de cable eléctrico: 'rosa' o 'negro'? A: negro
+76,Q: ¿Cuál es el color de Ventilador: 'blanco' o 'rojo'? A: blanco
+77,Q: ¿Cuál es el color de armario: 'marrón' o 'azul'? A: marrón
+78,Q: ¿Cuál es el color de bikini: 'negro' o 'plata'? A: negro
+79,Q: ¿Cuál es el color de sillón: 'azul' o 'amarillo'? A: azul
+80,Q: ¿Cuál es el color de barco de cabotaje: 'blanco' o 'amarillo'? A: blanco
+81,Q: ¿Cuál es el color de escenario: 'rosa' o 'negro'? A: negro
+82,Q: ¿Cuál es el color de escalera: 'verde' o 'plata'? A: plata
+83,Q: ¿Cuál es el color de calzada: 'blanco' o 'gris'? A: gris
+84,Q: ¿Cuál es el color de motocicleta: 'negro' o 'marrón'? A: negro
+85,Q: ¿Cuál es el color de césped: 'verde' o 'negro'? A: verde
+86,Q: ¿Cuál es el color de cubrir: 'blanco' o 'marrón'? A: blanco
+87,Q: ¿Cuál es el color de garaje: 'blanco' o 'naranja'? A: blanco
+88,Q: ¿Cuál es el color de detalle: 'plata' o 'amarillo'? A: amarillo
+89,Q: ¿Cuál es el color de bolsa de la compra: 'plata' o 'blanco'? A: blanco
+90,Q: ¿Cuál es el color de cámara: 'púrpura' o 'negro'? A: negro
+91,Q: ¿Cuál es el color de cuello: 'gris' o 'rojo'? A: rojo
+92,Q: ¿Cuál es el color de vagón: 'rojo' o 'amarillo'? A: rojo
+93,Q: ¿Cuál es el color de radiador: 'blanco' o 'marrón'? A: blanco
+94,Q: ¿Cuál es el color de obturador: 'negro' o 'gris'? A: negro
+95,Q: ¿Cuál es el color de cono: 'naranja' o 'gris'? A: naranja
+96,Q: ¿Cuál es el color de aglutinante: 'negro' o 'naranja'? A: negro
+97,Q: ¿Cuál es el color de cuna: 'amarillo' o 'blanco'? A: blanco
+98,Q: ¿Cuál es el color de patio: 'verde' o 'naranja'? A: verde
+99,Q: ¿Cuál es el color de pétalo: 'marrón' o 'rosa'? A: rosa
+100,Q: ¿Cuál es el color de cuerpo de agua: 'gris' o 'azul'? A: azul
+101,Q: ¿Cuál es el color de caña: 'plata' o 'marrón'? A: marrón
+102,Q: ¿Cuál es el color de volante: 'naranja' o 'negro'? A: negro
+103,Q: ¿Cuál es el color de hierba: 'gris' o 'verde'? A: verde
+104,Q: ¿Cuál es el color de porcelana: 'púrpura' o 'blanco'? A: blanco
+105,Q: ¿Cuál es el color de diseño: 'blanco' o 'gris'? A: blanco
+106,Q: ¿Cuál es el color de estufa: 'negro' o 'plata'? A: negro
+107,Q: ¿Cuál es el color de cajón: 'naranja' o 'plata'? A: plata
+108,Q: ¿Cuál es el color de nieve: 'plata' o 'blanco'? A: blanco
+109,Q: ¿Cuál es el color de hogar: 'verde' o 'blanco'? A: blanco
+110,Q: ¿Cuál es el color de sudadera: 'negro' o 'rosa'? A: negro
+111,Q: ¿Cuál es el color de metro: 'negro' o 'marrón'? A: negro
+112,Q: ¿Cuál es el color de sandalia: 'negro' o 'gris'? A: negro
+113,Q: ¿Cuál es el color de tejido de alfombra: 'amarillo' o 'marrón'? A: marrón
+114,Q: ¿Cuál es el color de hormigón: 'púrpura' o 'gris'? A: gris
+115,Q: ¿Cuál es el color de vía de la calle: 'azul' o 'rojo'? A: rojo
+116,Q: ¿Cuál es el color de estera: 'blanco' o 'plata'? A: blanco
+117,Q: ¿Cuál es el color de pedazo: 'blanco' o 'púrpura'? A: blanco
+118,Q: ¿Cuál es el color de alga: 'verde' o 'azul'? A: verde
+119,Q: ¿Cuál es el color de lata: 'marrón' o 'azul'? A: azul
+120,Q: ¿Cuál es el color de oso de peluche: 'marrón' o 'verde'? A: marrón
+121,Q: ¿Cuál es el color de etiqueta: 'blanco' o 'verde'? A: blanco
+122,Q: ¿Cuál es el color de Poste de luz: 'púrpura' o 'negro'? A: negro
+123,Q: ¿Cuál es el color de beber: 'naranja' o 'azul'? A: naranja
+124,Q: ¿Cuál es el color de neumático de goma: 'negro' o 'púrpura'? A: negro
+125,Q: ¿Cuál es el color de rostro: 'verde' o 'blanco'? A: blanco
+126,Q: ¿Cuál es el color de vegetación: 'blanco' o 'verde'? A: verde
+127,Q: ¿Cuál es el color de escalera: 'verde' o 'gris'? A: gris
+128,Q: ¿Cuál es el color de cuerpo: 'blanco' o 'naranja'? A: blanco
+129,Q: ¿Cuál es el color de cinta: 'rojo' o 'púrpura'? A: rojo
+130,Q: ¿Cuál es el color de sillón: 'gris' o 'marrón'? A: marrón
+131,Q: ¿Cuál es el color de falda de cama: 'blanco' o 'plata'? A: blanco
+132,Q: ¿Cuál es el color de patrón: 'naranja' o 'blanco'? A: blanco
+133,Q: ¿Cuál es el color de hardware: 'púrpura' o 'plata'? A: plata
+134,Q: ¿Cuál es el color de colcha: 'blanco' o 'púrpura'? A: blanco
+135,Q: ¿Cuál es el color de cesto: 'negro' o 'blanco'? A: blanco
+136,Q: ¿Cuál es el color de juguete: 'negro' o 'amarillo'? A: amarillo
+137,Q: ¿Cuál es el color de secador: 'naranja' o 'plata'? A: plata
+138,Q: ¿Cuál es el color de candelabro: 'púrpura' o 'negro'? A: negro
+139,Q: ¿Cuál es el color de tulipán: 'rojo' o 'verde'? A: rojo
+140,Q: ¿Cuál es el color de amadroncito: 'blanco' o 'rosa'? A: blanco
+141,Q: ¿Cuál es el color de embutido: 'plata' o 'marrón'? A: marrón
+142,Q: ¿Cuál es el color de i: 'amarillo' o 'blanco'? A: blanco
+143,Q: ¿Cuál es el color de edificio alto: 'púrpura' o 'blanco'? A: blanco
+144,Q: ¿Cuál es el color de Dosificadora: 'marrón' o 'blanco'? A: blanco
+145,Q: ¿Cuál es el color de luz trasera: 'rojo' o 'plata'? A: rojo
+146,Q: ¿Cuál es el color de pista: 'rosa' o 'gris'? A: gris
+147,Q: ¿Cuál es el color de avión: 'blanco' o 'naranja'? A: blanco
+148,Q: ¿Cuál es el color de nombre: 'blanco' o 'gris'? A: blanco
+149,Q: ¿Cuál es el color de alimento: 'azul' o 'marrón'? A: marrón
+150,Q: ¿Cuál es el color de balón: 'rojo' o 'gris'? A: rojo
+151,Q: ¿Cuál es el color de globo: 'azul' o 'negro'? A: azul
+152,Q: ¿Cuál es el color de jirafa: 'rosa' o 'marrón'? A: marrón
+153,Q: ¿Cuál es el color de casco: 'plata' o 'negro'? A: negro
+154,Q: ¿Cuál es el color de el mono: 'marrón' o 'púrpura'? A: marrón
+155,Q: ¿Cuál es el color de molino: 'blanco' o 'rosa'? A: blanco
+156,Q: ¿Cuál es el color de cordón: 'blanco' o 'marrón'? A: blanco
+157,Q: ¿Cuál es el color de cabra: 'blanco' o 'rojo'? A: blanco
+158,Q: ¿Cuál es el color de zapatilla de tenis: 'naranja' o 'blanco'? A: blanco
+159,Q: ¿Cuál es el color de riñonal: 'plata' o 'blanco'? A: blanco
+160,Q: ¿Cuál es el color de zapato atlético: 'blanco' o 'verde'? A: blanco
+161,Q: ¿Cuál es el color de baloncesto: 'naranja' o 'azul'? A: naranja
+162,Q: ¿Cuál es el color de pila de humo: 'negro' o 'rosa'? A: negro
+163,Q: ¿Cuál es el color de boya: 'negro' o 'rojo'? A: rojo
+164,Q: ¿Cuál es el color de signo peatonal: 'púrpura' o 'amarillo'? A: amarillo
+165,Q: ¿Cuál es el color de retroceso: 'verde' o 'amarillo'? A: amarillo
+166,Q: ¿Cuál es el color de cilindro: 'amarillo' o 'gris'? A: gris
+167,Q: ¿Cuál es el color de cartón de leche: 'blanco' o 'amarillo'? A: blanco
+168,Q: ¿Cuál es el color de raqueta: 'rosa' o 'negro'? A: negro
+169,Q: ¿Cuál es el color de lata de soda: 'rojo' o 'naranja'? A: rojo
+170,Q: ¿Cuál es el color de placa de interruptor: 'blanco' o 'azul'? A: blanco
+171,Q: ¿Cuál es el color de baldosa de techo: 'negro' o 'blanco'? A: blanco
+172,Q: ¿Cuál es el color de campanario: 'amarillo' o 'blanco'? A: blanco
+173,Q: ¿Cuál es el color de guante: 'negro' o 'verde'? A: negro
+174,Q: ¿Cuál es el color de levantar: 'blanco' o 'rosa'? A: blanco
+175,Q: ¿Cuál es el color de maleta: 'amarillo' o 'negro'? A: negro
+176,Q: ¿Cuál es el color de chica: 'gris' o 'blanco'? A: blanco
+177,Q: ¿Cuál es el color de chaqueta: 'rojo' o 'negro'? A: negro
+178,Q: ¿Cuál es el color de pastel: 'blanco' o 'naranja'? A: blanco
+179,Q: ¿Cuál es el color de esquina: 'verde' o 'negro'? A: negro
+180,Q: ¿Cuál es el color de taburete: 'negro' o 'rosa'? A: negro
+181,Q: ¿Cuál es el color de ramita: 'marrón' o 'verde'? A: marrón
+182,Q: ¿Cuál es el color de fecha: 'gris' o 'rojo'? A: rojo
+183,Q: ¿Cuál es el color de carril: 'blanco' o 'rosa'? A: blanco
+184,Q: ¿Cuál es el color de conducir: 'blanco' o 'amarillo'? A: blanco
+185,Q: ¿Cuál es el color de plataforma: 'plata' o 'gris'? A: gris
+186,Q: ¿Cuál es el color de signo azul: 'azul' o 'blanco'? A: blanco
+187,Q: ¿Cuál es el color de estrella: 'plata' o 'blanco'? A: blanco
+188,Q: ¿Cuál es el color de celúla: 'negro' o 'plata'? A: negro
+189,Q: ¿Cuál es el color de par de celdas: 'blanco' o 'marrón'? A: blanco
+190,Q: ¿Cuál es el color de cuello: 'plata' o 'blanco'? A: blanco
+191,Q: ¿Cuál es el color de arandela: 'blanco' o 'rojo'? A: blanco
+192,Q: ¿Cuál es el color de abrigo: 'blanco' o 'gris'? A: gris
+193,Q: ¿Cuál es el color de decoración: 'rosa' o 'amarillo'? A: amarillo
+194,Q: ¿Cuál es el color de taza de espuma de poliestireno: 'blanco' o 'púrpura'? A: blanco
+195,Q: ¿Cuál es el color de bikini: 'naranja' o 'negro'? A: negro
+196,Q: ¿Cuál es el color de cuenca: 'amarillo' o 'blanco'? A: blanco
+197,Q: ¿Cuál es el color de camisa de vestir: 'blanco' o 'plata'? A: blanco
+198,Q: ¿Cuál es el color de piso de madera dura: 'azul' o 'marrón'? A: marrón
+199,Q: ¿Cuál es el color de huésped: 'púrpura' o 'blanco'? A: blanco
+200,Q: ¿Cuál es el color de French Fry: 'amarillo' o 'naranja'? A: amarillo
+201,Q: ¿Cuál es el color de paquete: 'naranja' o 'blanco'? A: blanco
+202,Q: ¿Cuál es el color de imán: 'marrón' o 'rojo'? A: rojo
+203,Q: ¿Cuál es el color de moldura: 'blanco' o 'púrpura'? A: blanco
+204,Q: ¿Cuál es el color de acortar: 'negro' o 'púrpura'? A: negro
+205,Q: ¿Cuál es el color de salida eléctrica: 'blanco' o 'naranja'? A: blanco
+206,Q: ¿Cuál es el color de alarma: 'blanco' o 'rojo'? A: rojo
+207,Q: ¿Cuál es el color de camión de comida: 'negro' o 'blanco'? A: blanco
+208,Q: ¿Cuál es el color de taza de papel: 'blanco' o 'negro'? A: blanco
+209,Q: ¿Cuál es el color de plato: 'blanco' o 'naranja'? A: blanco
+210,Q: ¿Cuál es el color de estrellarse: 'blanco' o 'plata'? A: blanco
+211,Q: ¿Cuál es el color de letrero: 'plata' o 'azul'? A: azul
+212,Q: ¿Cuál es el color de pole telefónico: 'rojo' o 'marrón'? A: marrón
+213,Q: ¿Cuál es el color de luz trasera: 'rojo' o 'púrpura'? A: rojo
+214,Q: ¿Cuál es el color de divisor: 'rojo' o 'blanco'? A: blanco
+215,Q: ¿Cuál es el color de soporte: 'plata' o 'verde'? A: plata
+216,Q: ¿Cuál es el color de coche: 'marrón' o 'azul'? A: azul
+217,Q: ¿Cuál es el color de triángulo: 'rojo' o 'marrón'? A: rojo
+218,Q: ¿Cuál es el color de pintada: 'naranja' o 'negro'? A: negro
+219,Q: ¿Cuál es el color de ramo: 'blanco' o 'amarillo'? A: blanco
+220,Q: ¿Cuál es el color de texto: 'blanco' o 'rosa'? A: blanco
+221,Q: ¿Cuál es el color de muro de ladrillo: 'rojo' o 'rosa'? A: rojo
+222,Q: ¿Cuál es el color de folleto: 'azul' o 'rojo'? A: azul
+223,Q: ¿Cuál es el color de tarjeta de presentación: 'marrón' o 'blanco'? A: blanco
+224,Q: ¿Cuál es el color de cerrar: 'rojo' o 'plata'? A: plata
+225,Q: ¿Cuál es el color de billetera: 'naranja' o 'negro'? A: negro
+226,Q: ¿Cuál es el color de tablero base: 'blanco' o 'púrpura'? A: blanco
+227,Q: ¿Cuál es el color de ventana enmarcada: 'rosa' o 'blanco'? A: blanco
+228,Q: ¿Cuál es el color de umbral: 'púrpura' o 'blanco'? A: blanco
+229,Q: ¿Cuál es el color de planta de interior: 'plata' o 'verde'? A: verde
+230,Q: ¿Cuál es el color de armario: 'blanco' o 'plata'? A: blanco
+231,Q: ¿Cuál es el color de mecedora: 'marrón' o 'gris'? A: marrón
+232,Q: ¿Cuál es el color de caja eléctrica: 'púrpura' o 'gris'? A: gris
+233,Q: ¿Cuál es el color de lechada: 'verde' o 'blanco'? A: blanco
+234,Q: ¿Cuál es el color de diamante: 'blanco' o 'marrón'? A: blanco
+235,Q: ¿Cuál es el color de corcho: 'marrón' o 'amarillo'? A: marrón
+236,Q: ¿Cuál es el color de silenciador: 'plata' o 'marrón'? A: plata
+237,Q: ¿Cuál es el color de sección: 'naranja' o 'rojo'? A: rojo
+238,Q: ¿Cuál es el color de aguja de pino: 'verde' o 'naranja'? A: verde
+239,Q: ¿Cuál es el color de capó: 'blanco' o 'púrpura'? A: blanco
+240,Q: ¿Cuál es el color de signo direccional: 'azul' o 'blanco'? A: blanco
+241,Q: ¿Cuál es el color de mi: 'blanco' o 'amarillo'? A: blanco
+242,Q: ¿Cuál es el color de escape: 'rojo' o 'plata'? A: plata
+243,Q: ¿Cuál es el color de horizonte: 'amarillo' o 'azul'? A: azul
+244,Q: ¿Cuál es el color de cañón de manguera: 'amarillo' o 'negro'? A: negro
+245,Q: ¿Cuál es el color de edificio bronceado: 'blanco' o 'marrón'? A: marrón
+246,Q: ¿Cuál es el color de pata: 'verde' o 'blanco'? A: blanco
+247,Q: ¿Cuál es el color de ciervos: 'marrón' o 'rosa'? A: marrón
+248,Q: ¿Cuál es el color de ladera: 'verde' o 'gris'? A: verde
+249,Q: ¿Cuál es el color de vaca: 'marrón' o 'plata'? A: marrón
+250,Q: ¿Cuál es el color de escaparate: 'blanco' o 'azul'? A: azul
+251,Q: ¿Cuál es el color de pole de tráfico: 'negro' o 'gris'? A: negro
+252,Q: ¿Cuál es el color de sombrero de vaquero: 'verde' o 'blanco'? A: blanco
+253,Q: ¿Cuál es el color de jersey: 'rosa' o 'blanco'? A: blanco
+254,Q: ¿Cuál es el color de arco: 'blanco' o 'púrpura'? A: blanco
+255,Q: ¿Cuál es el color de divisor de carril: 'gris' o 'azul'? A: azul
+256,Q: ¿Cuál es el color de paquete: 'blanco' o 'marrón'? A: blanco
+257,Q: ¿Cuál es el color de neumático delantero: 'negro' o 'plata'? A: negro
+258,Q: ¿Cuál es el color de Sudadera con capucha: 'rosa' o 'gris'? A: gris
+259,Q: ¿Cuál es el color de parar: 'blanco' o 'marrón'? A: blanco
+260,Q: ¿Cuál es el color de mordaz: 'azul' o 'negro'? A: negro
+261,Q: ¿Cuál es el color de volantes: 'blanco' o 'negro'? A: blanco
+262,Q: ¿Cuál es el color de estallido: 'negro' o 'rosa'? A: negro
+263,Q: ¿Cuál es el color de puesto de periódicos: 'rojo' o 'negro'? A: rojo
+264,Q: ¿Cuál es el color de vehículo de construcción: 'verde' o 'amarillo'? A: amarillo
+265,Q: ¿Cuál es el color de pintadas: 'púrpura' o 'rojo'? A: rojo
+266,Q: ¿Cuál es el color de botella de cerveza: 'rosa' o 'marrón'? A: marrón
+267,Q: ¿Cuál es el color de cola de avión: 'verde' o 'azul'? A: azul
+268,Q: ¿Cuál es el color de basura: 'negro' o 'gris'? A: negro
+269,Q: ¿Cuál es el color de slack: 'naranja' o 'gris'? A: gris
+270,Q: ¿Cuál es el color de sandles: 'marrón' o 'blanco'? A: marrón
+271,Q: ¿Cuál es el color de dejar: 'verde' o 'rosa'? A: verde
+272,Q: ¿Cuál es el color de miembro: 'naranja' o 'verde'? A: verde
+273,Q: ¿Cuál es el color de mota: 'amarillo' o 'negro'? A: negro
+274,Q: ¿Cuál es el color de verdura: 'verde' o 'marrón'? A: verde
+275,Q: ¿Cuál es el color de rosquilla: 'marrón' o 'naranja'? A: marrón
+276,Q: ¿Cuál es el color de taxista: 'negro' o 'blanco'? A: blanco
+277,Q: ¿Cuál es el color de abrigo de invierno: 'púrpura' o 'negro'? A: negro
+278,Q: ¿Cuál es el color de cresta: 'púrpura' o 'blanco'? A: blanco
+279,Q: ¿Cuál es el color de podio: 'verde' o 'negro'? A: negro
+280,Q: ¿Cuál es el color de pista de tenis: 'amarillo' o 'verde'? A: verde
+281,Q: ¿Cuál es el color de baño de baño: 'blanco' o 'rojo'? A: blanco
+282,Q: ¿Cuál es el color de obra de arte: 'negro' o 'gris'? A: negro
+283,Q: ¿Cuál es el color de taburete: 'blanco' o 'naranja'? A: blanco
+284,Q: ¿Cuál es el color de silla de ruedas: 'blanco' o 'negro'? A: negro
+285,Q: ¿Cuál es el color de sirena: 'rojo' o 'verde'? A: rojo
+286,Q: ¿Cuál es el color de blanqueador: 'negro' o 'azul'? A: azul
+287,Q: ¿Cuál es el color de hoja de plátano: 'verde' o 'amarillo'? A: verde
+288,Q: ¿Cuál es el color de jarrón de flores: 'verde' o 'gris'? A: verde
+289,Q: ¿Cuál es el color de ganado: 'rosa' o 'marrón'? A: marrón
+290,Q: ¿Cuál es el color de nublado: 'blanco' o 'púrpura'? A: blanco
+291,Q: ¿Cuál es el color de debajo de: 'gris' o 'blanco'? A: blanco
+292,Q: ¿Cuál es el color de asiento para el automóvil: 'gris' o 'amarillo'? A: gris
+293,Q: ¿Cuál es el color de tablón: 'naranja' o 'marrón'? A: marrón
+294,Q: ¿Cuál es el color de siglo: 'púrpura' o 'verde'? A: verde
+295,Q: ¿Cuál es el color de copo de nieve: 'blanco' o 'azul'? A: blanco
+296,Q: ¿Cuál es el color de pulsera: 'rosa' o 'blanco'? A: blanco
+297,Q: ¿Cuál es el color de jean de mezclilla: 'púrpura' o 'azul'? A: azul
+298,Q: ¿Cuál es el color de zapatilla: 'negro' o 'gris'? A: negro
+299,Q: ¿Cuál es el color de concha: 'púrpura' o 'blanco'? A: blanco
+300,Q: ¿Cuál es el color de fantasma: 'rojo' o 'naranja'? A: rojo
+301,Q: ¿Cuál es el color de pimentero: 'blanco' o 'púrpura'? A: blanco
+302,Q: ¿Cuál es el color de puerta del congelador: 'blanco' o 'marrón'? A: blanco
+303,Q: ¿Cuál es el color de verificador: 'negro' o 'verde'? A: negro
+304,Q: ¿Cuál es el color de baya: 'rojo' o 'amarillo'? A: rojo
+305,Q: ¿Cuál es el color de dálmata: 'amarillo' o 'blanco'? A: blanco
+306,Q: ¿Cuál es el color de signo de cruce: 'negro' o 'azul'? A: negro
+307,Q: ¿Cuál es el color de cometa: 'marrón' o 'rojo'? A: rojo
+308,Q: ¿Cuál es el color de visera: 'púrpura' o 'blanco'? A: blanco
+309,Q: ¿Cuál es el color de traje de neopreno: 'negro' o 'rosa'? A: negro
+310,Q: ¿Cuál es el color de relleno: 'azul' o 'blanco'? A: blanco
+311,Q: ¿Cuál es el color de BUN: 'azul' o 'marrón'? A: marrón
+312,Q: ¿Cuál es el color de frisbee: 'blanco' o 'púrpura'? A: blanco
+313,Q: ¿Cuál es el color de cráneo: 'negro' o 'blanco'? A: blanco
+314,Q: ¿Cuál es el color de traje húmedo: 'negro' o 'naranja'? A: negro
+315,Q: ¿Cuál es el color de bolsa de basura: 'negro' o 'marrón'? A: negro
+316,Q: ¿Cuál es el color de cola de gato: 'verde' o 'negro'? A: negro
+317,Q: ¿Cuál es el color de alféizar de la ventana: 'azul' o 'blanco'? A: blanco
+318,Q: ¿Cuál es el color de mocasín: 'rosa' o 'marrón'? A: marrón
+319,Q: ¿Cuál es el color de asiento del estadio: 'negro' o 'blanco'? A: blanco
+320,Q: ¿Cuál es el color de diente de león: 'rojo' o 'amarillo'? A: amarillo
+321,Q: ¿Cuál es el color de bozal: 'rosa' o 'negro'? A: negro
+322,Q: ¿Cuál es el color de bolsa: 'rojo' o 'plata'? A: rojo
+323,Q: ¿Cuál es el color de etiqueta de nombre: 'blanco' o 'verde'? A: blanco
+324,Q: ¿Cuál es el color de tabla de nieve: 'naranja' o 'blanco'? A: blanco
+325,Q: ¿Cuál es el color de poste de esquí: 'rosa' o 'negro'? A: negro
+326,Q: ¿Cuál es el color de coche de pasajeros: 'gris' o 'rojo'? A: rojo
+327,Q: ¿Cuál es el color de tren de pasajeros: 'amarillo' o 'plata'? A: amarillo
+328,Q: ¿Cuál es el color de b: 'gris' o 'blanco'? A: blanco
+329,Q: ¿Cuál es el color de esquí: 'blanco' o 'plata'? A: blanco
+330,Q: ¿Cuál es el color de carlinga: 'naranja' o 'blanco'? A: blanco
+331,Q: ¿Cuál es el color de cordón: 'marrón' o 'blanco'? A: blanco
+332,Q: ¿Cuál es el color de ala de avión: 'blanco' o 'plata'? A: blanco
+333,Q: ¿Cuál es el color de bolsa de silla de montar: 'amarillo' o 'negro'? A: negro
+334,Q: ¿Cuál es el color de Wiimote: 'blanco' o 'naranja'? A: blanco
+335,Q: ¿Cuál es el color de grifo de agua: 'plata' o 'amarillo'? A: plata
+336,Q: ¿Cuál es el color de correa de cámara: 'negro' o 'rosa'? A: negro
+337,Q: ¿Cuál es el color de reproductor de DVD: 'plata' o 'verde'? A: plata
+338,Q: ¿Cuál es el color de collar de camisa: 'amarillo' o 'blanco'? A: blanco
+339,Q: ¿Cuál es el color de computadora portátil: 'rojo' o 'negro'? A: negro
+340,Q: ¿Cuál es el color de cono de carretera: 'rosa' o 'naranja'? A: naranja
+341,Q: ¿Cuál es el color de número 3: 'negro' o 'marrón'? A: negro
+342,Q: ¿Cuál es el color de soda: 'naranja' o 'púrpura'? A: naranja
+343,Q: ¿Cuál es el color de espolvorear: 'blanco' o 'marrón'? A: blanco
+344,Q: ¿Cuál es el color de chanclas: 'plata' o 'negro'? A: negro
+345,Q: ¿Cuál es el color de plato: 'blanco' o 'azul'? A: blanco
+346,Q: ¿Cuál es el color de corbata: 'azul' o 'marrón'? A: azul
+347,Q: ¿Cuál es el color de pimiento: 'rojo' o 'marrón'? A: rojo
+348,Q: ¿Cuál es el color de publicidad: 'blanco' o 'púrpura'? A: blanco
+349,Q: ¿Cuál es el color de cuchilla: 'púrpura' o 'plata'? A: plata
+350,Q: ¿Cuál es el color de cara de reloj: 'blanco' o 'naranja'? A: blanco
+351,Q: ¿Cuál es el color de cebollino: 'verde' o 'blanco'? A: verde
+352,Q: ¿Cuál es el color de letrero de neón: 'negro' o 'rojo'? A: rojo
+353,Q: ¿Cuál es el color de menta: 'gris' o 'verde'? A: verde
+354,Q: ¿Cuál es el color de bomba de gas: 'blanco' o 'plata'? A: blanco
+355,Q: ¿Cuál es el color de fotografía: 'amarillo' o 'blanco'? A: blanco
+356,Q: ¿Cuál es el color de tanque de baño: 'plata' o 'blanco'? A: blanco
+357,Q: ¿Cuál es el color de impermeable: 'gris' o 'negro'? A: negro
+358,Q: ¿Cuál es el color de vinculante: 'azul' o 'blanco'? A: blanco
+359,Q: ¿Cuál es el color de lavado de manos: 'blanco' o 'verde'? A: blanco
+360,Q: ¿Cuál es el color de alfombra de baño: 'blanco' o 'marrón'? A: blanco
+361,Q: ¿Cuál es el color de logotipo de Apple: 'blanco' o 'púrpura'? A: blanco
+362,Q: ¿Cuál es el color de chaleco: 'blanco' o 'naranja'? A: naranja
+363,Q: ¿Cuál es el color de calabaza: 'verde' o 'azul'? A: verde
+364,Q: ¿Cuál es el color de bandeja de comida: 'rojo' o 'verde'? A: rojo
+365,Q: ¿Cuál es el color de polo de la cerca: 'plata' o 'gris'? A: plata
+366,Q: ¿Cuál es el color de espátula: 'naranja' o 'plata'? A: plata
+367,Q: ¿Cuál es el color de línea de oro: 'amarillo' o 'púrpura'? A: amarillo
+368,Q: ¿Cuál es el color de Carta A: 'azul' o 'blanco'? A: blanco
+369,Q: ¿Cuál es el color de raqueta: 'negro' o 'marrón'? A: negro
+370,Q: ¿Cuál es el color de asiento para bicicletas: 'púrpura' o 'negro'? A: negro
+371,Q: ¿Cuál es el color de pavo: 'naranja' o 'marrón'? A: marrón
+372,Q: ¿Cuál es el color de bicicleta de tierra: 'rojo' o 'azul'? A: rojo
+373,Q: ¿Cuál es el color de goma: 'negro' o 'amarillo'? A: negro
+374,Q: ¿Cuál es el color de talla: 'blanco' o 'amarillo'? A: amarillo
+375,Q: ¿Cuál es el color de almohadilla: 'amarillo' o 'negro'? A: negro
+376,Q: ¿Cuál es el color de estanque: 'azul' o 'blanco'? A: azul
+377,Q: ¿Cuál es el color de horno tostador: 'negro' o 'rosa'? A: negro
+378,Q: ¿Cuál es el color de caja de pizza: 'plata' o 'blanco'? A: blanco
+379,Q: ¿Cuál es el color de autobús de pasajeros: 'verde' o 'blanco'? A: blanco
+380,Q: ¿Cuál es el color de locomotora: 'plateado' o 'negro'? A: negro
+381,Q: ¿Cuál es el color de moño hot dog: 'rojo' o 'marrón'? A: marrón
+382,Q: ¿Cuál es el color de número 8: 'naranja' o 'blanco'? A: blanco
+383,Q: ¿Cuál es el color de estaño: 'plata' o 'púrpura'? A: plata
+384,Q: ¿Cuál es el color de paso superior: 'azul' o 'negro'? A: azul
+385,Q: ¿Cuál es el color de cordón: 'blanco' o 'gris'? A: blanco
+386,Q: ¿Cuál es el color de atuendo: 'rosa' o 'negro'? A: negro
+387,Q: ¿Cuál es el color de walkie talkie: 'marrón' o 'negro'? A: negro
+388,Q: ¿Cuál es el color de calendario: 'blanco' o 'rosa'? A: blanco
+389,Q: ¿Cuál es el color de registro: 'blanco' o 'púrpura'? A: blanco
+390,Q: ¿Cuál es el color de carro de la compra: 'verde' o 'rojo'? A: rojo
+391,Q: ¿Cuál es el color de sombrero de punto: 'plata' o 'negro'? A: negro
+392,Q: ¿Cuál es el color de aleta de cola: 'azul' o 'verde'? A: azul
+393,Q: ¿Cuál es el color de sobrecama: 'blanco' o 'rojo'? A: blanco
+394,Q: ¿Cuál es el color de marcador de seguridad: 'naranja' o 'gris'? A: naranja
+395,Q: ¿Cuál es el color de armario: 'marrón' o 'gris'? A: marrón
+396,Q: ¿Cuál es el color de VAS: 'blanco' o 'naranja'? A: blanco
+397,Q: ¿Cuál es el color de esmalte: 'blanco' o 'rosa'? A: blanco
+398,Q: ¿Cuál es el color de estuche de guitarra: 'negro' o 'naranja'? A: negro
+399,Q: ¿Cuál es el color de tapa del tanque: 'negro' o 'blanco'? A: blanco
+400,Q: ¿Cuál es el color de malla: 'marrón' o 'negro'? A: negro
+401,Q: ¿Cuál es el color de medallón: 'púrpura' o 'amarillo'? A: amarillo
+402,Q: ¿Cuál es el color de plátano: 'verde' o 'gris'? A: verde
+403,Q: ¿Cuál es el color de plantación: 'blanco' o 'verde'? A: verde
+404,Q: ¿Cuál es el color de hombres: 'blanco' o 'naranja'? A: blanco
+405,Q: ¿Cuál es el color de quebrar: 'negro' o 'plata'? A: plata
+406,Q: ¿Cuál es el color de Catchers Mitt: 'marrón' o 'blanco'? A: marrón
+407,Q: ¿Cuál es el color de uniforme de béisbol: 'amarillo' o 'blanco'? A: blanco
+408,Q: ¿Cuál es el color de espacio: 'verde' o 'amarillo'? A: verde
+409,Q: ¿Cuál es el color de remolino: 'blanco' o 'plata'? A: blanco
+410,Q: ¿Cuál es el color de freno: 'plata' o 'azul'? A: plata
+411,Q: ¿Cuál es el color de signo discapacitado: 'azul' o 'naranja'? A: azul
+412,Q: ¿Cuál es el color de H: 'blanco' o 'gris'? A: blanco
+413,Q: ¿Cuál es el color de tacón alto: 'negro' o 'verde'? A: negro
+414,Q: ¿Cuál es el color de contramuslo: 'azul' o 'blanco'? A: blanco
+415,Q: ¿Cuál es el color de espinaca: 'gris' o 'verde'? A: verde
+416,Q: ¿Cuál es el color de limpiador: 'rojo' o 'blanco'? A: blanco
+417,Q: ¿Cuál es el color de cerveza: 'amarillo' o 'marrón'? A: marrón
+418,Q: ¿Cuál es el color de tostada: 'negro' o 'marrón'? A: marrón
+419,Q: ¿Cuál es el color de auricular: 'blanco' o 'naranja'? A: blanco
+420,Q: ¿Cuál es el color de césped: 'blanco' o 'verde'? A: verde
+421,Q: ¿Cuál es el color de florete de brócoli: 'azul' o 'verde'? A: verde
+422,Q: ¿Cuál es el color de crujiente: 'naranja' o 'negro'? A: negro
+423,Q: ¿Cuál es el color de edredón: 'blanco' o 'amarillo'? A: blanco
+424,Q: ¿Cuál es el color de sombrero de invierno: 'gris' o 'negro'? A: negro
+425,Q: ¿Cuál es el color de pole eléctrico: 'marrón' o 'púrpura'? A: marrón
+426,Q: ¿Cuál es el color de hierba verde: 'naranja' o 'marrón'? A: marrón
+427,Q: ¿Cuál es el color de ojo de gato: 'blanco' o 'verde'? A: verde
+428,Q: ¿Cuál es el color de gobernante: 'blanco' o 'verde'? A: blanco
+429,Q: ¿Cuál es el color de ojo de jirafa: 'rosa' o 'negro'? A: negro
+430,Q: ¿Cuál es el color de miga: 'plata' o 'marrón'? A: marrón
+431,Q: ¿Cuál es el color de envase: 'blanco' o 'marrón'? A: blanco
+432,Q: ¿Cuál es el color de Hot dog: 'amarillo' o 'marrón'? A: marrón
+433,Q: ¿Cuál es el color de tornillo: 'marrón' o 'plata'? A: plata
+434,Q: ¿Cuál es el color de línea de tráfico: 'blanco' o 'negro'? A: blanco
+435,Q: ¿Cuál es el color de tren de aterrizaje: 'negro' o 'púrpura'? A: negro
+436,Q: ¿Cuál es el color de letrero: 'rojo' o 'blanco'? A: blanco
+437,Q: ¿Cuál es el color de base: 'blanco' o 'negro'? A: blanco
+438,Q: ¿Cuál es el color de engranaje de la cabeza: 'naranja' o 'negro'? A: negro
+439,Q: ¿Cuál es el color de guardia de espinilla: 'negro' o 'plata'? A: negro
+440,Q: ¿Cuál es el color de neblina: 'blanco' o 'amarillo'? A: blanco
+441,Q: ¿Cuál es el color de albahaca: 'verde' o 'amarillo'? A: verde
+442,Q: ¿Cuál es el color de shingle: 'negro' o 'verde'? A: negro
+443,Q: ¿Cuál es el color de 1: 'negro' o 'rosa'? A: negro
+444,Q: ¿Cuál es el color de Cono de precaución: 'púrpura' o 'naranja'? A: naranja
+445,Q: ¿Cuál es el color de cepillo para el baño: 'blanco' o 'rosa'? A: blanco
+446,Q: ¿Cuál es el color de sustancia: 'blanco' o 'púrpura'? A: blanco
+447,Q: ¿Cuál es el color de rana: 'verde' o 'blanco'? A: verde
+448,Q: ¿Cuál es el color de guardia: 'naranja' o 'negro'? A: negro
+449,Q: ¿Cuál es el color de Coco: 'blanco' o 'rosa'? A: blanco
+450,Q: ¿Cuál es el color de fútbol americano: 'marrón' o 'naranja'? A: marrón
+451,Q: ¿Cuál es el color de sendero de humo: 'blanco' o 'marrón'? A: blanco
+452,Q: ¿Cuál es el color de tacón de béisbol: 'negro' o 'púrpura'? A: negro
+453,Q: ¿Cuál es el color de almohadilla: 'rojo' o 'naranja'? A: rojo
+454,Q: ¿Cuál es el color de tiza: 'blanco' o 'rojo'? A: blanco
+455,Q: ¿Cuál es el color de langosta: 'blanco' o 'rojo'? A: rojo
+456,Q: ¿Cuál es el color de enjuagar: 'púrpura' o 'plata'? A: plata
+457,Q: ¿Cuál es el color de segunda mano: 'plata' o 'rojo'? A: rojo
+458,Q: ¿Cuál es el color de navegar: 'blanco' o 'rojo'? A: blanco
+459,Q: ¿Cuál es el color de narciso: 'amarillo' o 'negro'? A: amarillo
+460,Q: ¿Cuál es el color de apertura: 'negro' o 'naranja'? A: negro
+461,Q: ¿Cuál es el color de Carta B: 'blanco' o 'negro'? A: blanco
+462,Q: ¿Cuál es el color de nupcial: 'negro' o 'rosa'? A: negro
+463,Q: ¿Cuál es el color de panel: 'marrón' o 'negro'? A: negro
+464,Q: ¿Cuál es el color de wakeboard: 'plata' o 'rojo'? A: rojo
+465,Q: ¿Cuál es el color de conector: 'negro' o 'púrpura'? A: negro
+466,Q: ¿Cuál es el color de plato de pared: 'naranja' o 'blanco'? A: blanco
+467,Q: ¿Cuál es el color de salsa de tomate: 'naranja' o 'rojo'? A: rojo
+468,Q: ¿Cuál es el color de Rúcula: 'gris' o 'verde'? A: verde
+469,Q: ¿Cuál es el color de cilantro: 'rosa' o 'verde'? A: verde
+470,Q: ¿Cuál es el color de poni: 'rosa' o 'marrón'? A: marrón
+471,Q: ¿Cuál es el color de pata delantera: 'plata' o 'blanco'? A: blanco
+472,Q: ¿Cuál es el color de frijol de cuerda: 'azul' o 'verde'? A: verde
+473,Q: ¿Cuál es el color de refugio subterráneo: 'marrón' o 'verde'? A: verde
+474,Q: ¿Cuál es el color de línea de límite: 'azul' o 'blanco'? A: blanco
+475,Q: ¿Cuál es el color de puerta de madera: 'naranja' o 'marrón'? A: marrón
+476,Q: ¿Cuál es el color de llave de computadora: 'blanco' o 'gris'? A: blanco
+477,Q: ¿Cuál es el color de icono: 'blanco' o 'naranja'? A: blanco
+478,Q: ¿Cuál es el color de teléfono inteligente: 'negro' o 'púrpura'? A: negro
+479,Q: ¿Cuál es el color de planta: 'verde' o 'negro'? A: verde
+480,Q: ¿Cuál es el color de zapato deportivo: 'blanco' o 'púrpura'? A: blanco
+481,Q: ¿Cuál es el color de rueda trasera: 'negro' o 'plata'? A: negro
+482,Q: ¿Cuál es el color de bisonte: 'marrón' o 'púrpura'? A: marrón
+483,Q: ¿Cuál es el color de antepecho: 'blanco' o 'negro'? A: blanco
+484,Q: ¿Cuál es el color de tofu: 'naranja' o 'blanco'? A: blanco
+485,Q: ¿Cuál es el color de fuente: 'blanco' o 'gris'? A: blanco
+486,Q: ¿Cuál es el color de abertura: 'rosa' o 'negro'? A: negro
+487,Q: ¿Cuál es el color de melón: 'verde' o 'azul'? A: verde
+488,Q: ¿Cuál es el color de Lillie: 'verde' o 'plata'? A: verde
+489,Q: ¿Cuál es el color de sábanas: 'plata' o 'blanco'? A: blanco
+490,Q: ¿Cuál es el color de reloj de abuelo: 'marrón' o 'amarillo'? A: marrón
+491,Q: ¿Cuál es el color de pantalón de carga: 'marrón' o 'blanco'? A: marrón
+492,Q: ¿Cuál es el color de capa: 'blanco' o 'rojo'? A: rojo
+493,Q: ¿Cuál es el color de tobillo: 'marrón' o 'blanco'? A: blanco
+494,Q: ¿Cuál es el color de tomate: 'negro' o 'rojo'? A: rojo
+495,Q: ¿Cuál es el color de guante de esquí: 'púrpura' o 'negro'? A: negro
+496,Q: ¿Cuál es el color de letra l: 'amarillo' o 'blanco'? A: blanco
+497,Q: ¿Cuál es el color de Carta N: 'blanco' o 'verde'? A: blanco
+498,Q: ¿Cuál es el color de estuche: 'amarillo' o 'negro'? A: negro
+499,Q: ¿Cuál es el color de cruce: 'blanco' o 'plata'? A: blanco
+500,Q: ¿Cuál es el color de frente del tren: 'amarillo' o 'naranja'? A: amarillo
+501,Q: ¿Cuál es el color de Publica nota: 'verde' o 'amarillo'? A: amarillo
+502,Q: ¿Cuál es el color de palo de esquí: 'gris' o 'verde'? A: verde
+503,Q: ¿Cuál es el color de pizca: 'azul' o 'plata'? A: plata
+504,Q: ¿Cuál es el color de anadón: 'marrón' o 'amarillo'? A: marrón
+505,Q: ¿Cuál es el color de pedazo: 'rojo' o 'blanco'? A: blanco
+506,Q: ¿Cuál es el color de niebla: 'gris' o 'plata'? A: gris
+507,Q: ¿Cuál es el color de ranura para monedas: 'gris' o 'rojo'? A: gris
+508,Q: ¿Cuál es el color de controlar: 'marrón' o 'blanco'? A: blanco
+509,Q: ¿Cuál es el color de tapa de la tienda: 'blanco' o 'amarillo'? A: blanco
+510,Q: ¿Cuál es el color de bife: 'gris' o 'marrón'? A: marrón
+511,Q: ¿Cuál es el color de tapa del baño: 'blanco' o 'púrpura'? A: blanco
+512,Q: ¿Cuál es el color de perforación: 'plata' o 'azul'? A: plata
+513,Q: ¿Cuál es el color de grafitti: 'azul' o 'plata'? A: azul
+514,Q: ¿Cuál es el color de bota de vaquero: 'marrón' o 'blanco'? A: marrón
+515,Q: ¿Cuál es el color de enlace: 'verde' o 'plata'? A: plata
+516,Q: ¿Cuál es el color de moño hot dog: 'rojo' o 'marrón'? A: marrón
+517,Q: ¿Cuál es el color de guía de béisbol: 'marrón' o 'púrpura'? A: marrón
+518,Q: ¿Cuál es el color de Camisa de la mujer: 'negro' o 'azul'? A: negro
+519,Q: ¿Cuál es el color de mensaje: 'verde' o 'blanco'? A: blanco
+520,Q: ¿Cuál es el color de colmillo: 'negro' o 'blanco'? A: blanco
+521,Q: ¿Cuál es el color de sábana: 'naranja' o 'blanco'? A: blanco
+522,Q: ¿Cuál es el color de nariz del perro: 'negro' o 'amarillo'? A: negro
+523,Q: ¿Cuál es el color de tazón de cerámica: 'blanco' o 'rojo'? A: blanco
+524,Q: ¿Cuál es el color de cámara de video: 'negro' o 'rojo'? A: negro
+525,Q: ¿Cuál es el color de silueta: 'blanco' o 'negro'? A: negro
+526,Q: ¿Cuál es el color de ñu: 'marrón' o 'rojo'? A: marrón
+527,Q: ¿Cuál es el color de gaviota: 'blanco' o 'rojo'? A: blanco
+528,Q: ¿Cuál es el color de Abeto: 'negro' o 'verde'? A: verde
+529,Q: ¿Cuál es el color de barbijo: 'azul' o 'marrón'? A: azul
+530,Q: ¿Cuál es el color de lanzadera: 'gris' o 'blanco'? A: blanco
+531,Q: ¿Cuál es el color de numeración: 'negro' o 'marrón'? A: negro
+532,Q: ¿Cuál es el color de camino de tierra: 'marrón' o 'blanco'? A: marrón
+533,Q: ¿Cuál es el color de plato para servir: 'blanco' o 'rosa'? A: blanco
+534,Q: ¿Cuál es el color de derechos de autor: 'blanco' o 'azul'? A: blanco
+535,Q: ¿Cuál es el color de lanza de brócoli: 'naranja' o 'verde'? A: verde
+536,Q: ¿Cuál es el color de croissant: 'plata' o 'marrón'? A: marrón
+537,Q: ¿Cuál es el color de Santa Sombrero: 'rojo' o 'azul'? A: rojo
+538,Q: ¿Cuál es el color de logotipo de restaurante: 'marrón' o 'rojo'? A: rojo
+539,Q: ¿Cuál es el color de grupo de plátano: 'rojo' o 'amarillo'? A: amarillo
+540,Q: ¿Cuál es el color de pelota de golf: 'púrpura' o 'amarillo'? A: amarillo
+541,Q: ¿Cuál es el color de berenjena: 'plata' o 'púrpura'? A: púrpura
+542,Q: ¿Cuál es el color de potro: 'púrpura' o 'marrón'? A: marrón
+543,Q: ¿Cuál es el color de pista de esquí: 'azul' o 'blanco'? A: blanco
+544,Q: ¿Cuál es el color de servidor de pastel: 'blanco' o 'plata'? A: plata
+545,Q: ¿Cuál es el color de gaviota: 'verde' o 'blanco'? A: blanco
+546,Q: ¿Cuál es el color de motor a reacción: 'azul' o 'blanco'? A: azul
+547,Q: ¿Cuál es el color de señal: 'verde' o 'gris'? A: verde
+548,Q: ¿Cuál es el color de brazo del reloj: 'naranja' o 'negro'? A: negro
+549,Q: ¿Cuál es el color de erupción: 'negro' o 'marrón'? A: negro
+550,Q: ¿Cuál es el color de línea de precaución: 'amarillo' o 'púrpura'? A: amarillo
+551,Q: ¿Cuál es el color de top de zanahoria: 'verde' o 'marrón'? A: verde
+552,Q: ¿Cuál es el color de bronceado corto: 'naranja' o 'marrón'? A: marrón
+553,Q: ¿Cuál es el color de garrapata: 'negro' o 'rojo'? A: negro
+554,Q: ¿Cuál es el color de raya de cebra: 'negro' o 'rosa'? A: negro
+555,Q: ¿Cuál es el color de pedal de flores: 'púrpura' o 'blanco'? A: púrpura
+556,Q: ¿Cuál es el color de sombrero de bronceado: 'amarillo' o 'marrón'? A: marrón
+557,Q: ¿Cuál es el color de guante de nieve: 'negro' o 'gris'? A: negro
+558,Q: ¿Cuál es el color de bronceado: 'azul' o 'marrón'? A: marrón
+559,Q: ¿Cuál es el color de cresta de onda: 'gris' o 'blanco'? A: blanco
+560,Q: ¿Cuál es el color de polígono: 'verde' o 'marrón'? A: marrón
+561,Q: ¿Cuál es el color de piso de tejas: 'negro' o 'blanco'? A: blanco
+562,Q: ¿Cuál es el color de barril de tráfico: 'púrpura' o 'naranja'? A: naranja
+563,Q: ¿Cuál es el color de cebra bebé: 'blanco' o 'naranja'? A: blanco
+564,Q: ¿Cuál es el color de fregadero: 'blanco' o 'gris'? A: blanco
+565,Q: ¿Cuál es el color de pared de baño: 'púrpura' o 'blanco'? A: blanco
+566,Q: ¿Cuál es el color de Ala de pájaro: 'verde' o 'negro'? A: negro
+567,Q: ¿Cuál es el color de aspersor: 'rosa' o 'azul'? A: azul
+568,Q: ¿Cuál es el color de animal salvaje: 'rojo' o 'negro'? A: negro
+569,Q: ¿Cuál es el color de punta: 'negro' o 'naranja'? A: negro
+570,Q: ¿Cuál es el color de punta de metal: 'plata' o 'negro'? A: plata
+571,Q: ¿Cuál es el color de ola de río: 'azul' o 'gris'? A: gris
+572,Q: ¿Cuál es el color de luz de inundación: 'plata' o 'gris'? A: plata
+573,Q: ¿Cuál es el color de grupo de plátano: 'blanco' o 'verde'? A: verde

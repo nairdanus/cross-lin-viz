@@ -1,0 +1,574 @@
+0,Q: Welche Farbe hat Jacke: 'lila' oder 'schwarz'? A: schwarz
+1,Q: Welche Farbe hat Van: 'weiß' oder 'lila'? A: weiß
+2,Q: Welche Farbe hat Straßenlicht: 'schwarz' oder 'lila'? A: schwarz
+3,Q: Welche Farbe hat Pole: 'schwarz' oder 'blau'? A: schwarz
+4,Q: Welche Farbe hat Kabinett: 'weiß' oder 'lila'? A: weiß
+5,Q: Welche Farbe hat Vorhang: 'weiß' oder 'grau'? A: weiß
+6,Q: Welche Farbe hat drapieren: 'weiß' oder 'grau'? A: weiß
+7,Q: Welche Farbe hat Bild: 'weiß' oder 'silber'? A: weiß
+8,Q: Welche Farbe hat Apfel: 'rot' oder 'silber'? A: rot
+9,Q: Welche Farbe hat Schalter: 'grün' oder 'weiß'? A: weiß
+10,Q: Welche Farbe hat Schreiben: 'weiß' oder 'orange'? A: weiß
+11,Q: Welche Farbe hat Kopfhörer: 'schwarz' oder 'rot'? A: schwarz
+12,Q: Welche Farbe hat Tasse: 'weiß' oder 'silber'? A: weiß
+13,Q: Welche Farbe hat Hefter: 'gelb' oder 'schwarz'? A: schwarz
+14,Q: Welche Farbe hat Ladegerät: 'weiß' oder 'orange'? A: weiß
+15,Q: Welche Farbe hat Mantel: 'schwarz' oder 'lila'? A: schwarz
+16,Q: Welche Farbe hat Computertastatur: 'weiß' oder 'blau'? A: weiß
+17,Q: Welche Farbe hat Wasserflasche: 'blau' oder 'braun'? A: blau
+18,Q: Welche Farbe hat Aufkleber: 'weiß' oder 'lila'? A: weiß
+19,Q: Welche Farbe hat Ding: 'grau' oder 'weiß'? A: weiß
+20,Q: Welche Farbe hat Lautsprecher: 'lila' oder 'schwarz'? A: schwarz
+21,Q: Welche Farbe hat Feueralarm: 'rot' oder 'schwarz'? A: rot
+22,Q: Welche Farbe hat Schal: 'gelb' oder 'rot'? A: rot
+23,Q: Welche Farbe hat Hose: 'schwarz' oder 'rot'? A: schwarz
+24,Q: Welche Farbe hat Banner: 'weiß' oder 'grau'? A: weiß
+25,Q: Welche Farbe hat Beleuchtung: 'weiß' oder 'silber'? A: weiß
+26,Q: Welche Farbe hat Kiefer: 'gelb' oder 'grün'? A: grün
+27,Q: Welche Farbe hat Fahrzeug: 'weiß' oder 'orange'? A: weiß
+28,Q: Welche Farbe hat Bluse: 'grau' oder 'weiß'? A: weiß
+29,Q: Welche Farbe hat Wasser: 'blau' oder 'lila'? A: blau
+30,Q: Welche Farbe hat Ofen: 'rot' oder 'weiß'? A: weiß
+31,Q: Welche Farbe hat Spülmaschine: 'rosa' oder 'weiß'? A: weiß
+32,Q: Welche Farbe hat flüssig: 'rosa' oder 'braun'? A: braun
+33,Q: Welche Farbe hat Malerei: 'grau' oder 'weiß'? A: weiß
+34,Q: Welche Farbe hat Wasserkocher: 'silber' oder 'grau'? A: silber
+35,Q: Welche Farbe hat Kühlschrank: 'orange' oder 'weiß'? A: weiß
+36,Q: Welche Farbe hat Mischer: 'weiß' oder 'grau'? A: weiß
+37,Q: Welche Farbe hat Küchenschublade: 'grün' oder 'weiß'? A: weiß
+38,Q: Welche Farbe hat Bein: 'weiß' oder 'rot'? A: weiß
+39,Q: Welche Farbe hat Stand: 'blau' oder 'schwarz'? A: schwarz
+40,Q: Welche Farbe hat Ampel: 'silber' oder 'rot'? A: rot
+41,Q: Welche Farbe hat Taxi: 'gelb' oder 'orange'? A: gelb
+42,Q: Welche Farbe hat Geldbeutel: 'schwarz' oder 'orange'? A: schwarz
+43,Q: Welche Farbe hat Sonnenbrille: 'grün' oder 'schwarz'? A: schwarz
+44,Q: Welche Farbe hat Wolke: 'braun' oder 'weiß'? A: weiß
+45,Q: Welche Farbe hat Telefon: 'schwarz' oder 'gelb'? A: schwarz
+46,Q: Welche Farbe hat Kreis: 'grau' oder 'rot'? A: rot
+47,Q: Welche Farbe hat Wort: 'weiß' oder 'orange'? A: weiß
+48,Q: Welche Farbe hat Scharnier: 'silber' oder 'rot'? A: silber
+49,Q: Welche Farbe hat obere Top: 'lila' oder 'weiß'? A: weiß
+50,Q: Welche Farbe hat Tablett: 'silber' oder 'gelb'? A: silber
+51,Q: Welche Farbe hat Desktop: 'rosa' oder 'weiß'? A: weiß
+52,Q: Welche Farbe hat Panel: 'lila' oder 'weiß'? A: weiß
+53,Q: Welche Farbe hat Gestell: 'silber' oder 'rosa'? A: silber
+54,Q: Welche Farbe hat wählen: 'lila' oder 'schwarz'? A: schwarz
+55,Q: Welche Farbe hat Kerze: 'silber' oder 'weiß'? A: weiß
+56,Q: Welche Farbe hat Lampenbasis: 'gelb' oder 'rosa'? A: gelb
+57,Q: Welche Farbe hat Bücherregal: 'rot' oder 'braun'? A: braun
+58,Q: Welche Farbe hat Matratze: 'silber' oder 'weiß'? A: weiß
+59,Q: Welche Farbe hat Ottomane: 'lila' oder 'braun'? A: braun
+60,Q: Welche Farbe hat Klavier: 'schwarz' oder 'blau'? A: schwarz
+61,Q: Welche Farbe hat Flamme: 'blau' oder 'grau'? A: blau
+62,Q: Welche Farbe hat Haus: 'schwarz' oder 'weiß'? A: weiß
+63,Q: Welche Farbe hat Schmutz: 'blau' oder 'braun'? A: braun
+64,Q: Welche Farbe hat Adapter: 'weiß' oder 'schwarz'? A: schwarz
+65,Q: Welche Farbe hat Trophäe: 'grün' oder 'gelb'? A: gelb
+66,Q: Welche Farbe hat Korb: 'rosa' oder 'braun'? A: braun
+67,Q: Welche Farbe hat Arbeitsplatte: 'rosa' oder 'weiß'? A: weiß
+68,Q: Welche Farbe hat Schaum: 'silber' oder 'weiß'? A: weiß
+69,Q: Welche Farbe hat Sand: 'braun' oder 'silber'? A: braun
+70,Q: Welche Farbe hat Markierung: 'grau' oder 'weiß'? A: weiß
+71,Q: Welche Farbe hat Laubdecke: 'rosa' oder 'braun'? A: braun
+72,Q: Welche Farbe hat Robe: 'braun' oder 'weiß'? A: weiß
+73,Q: Welche Farbe hat Rand: 'silber' oder 'rosa'? A: silber
+74,Q: Welche Farbe hat gesamt: 'blau' oder 'grau'? A: blau
+75,Q: Welche Farbe hat elektrisches Kabel: 'schwarz' oder 'rosa'? A: schwarz
+76,Q: Welche Farbe hat Lüfter: 'rot' oder 'weiß'? A: weiß
+77,Q: Welche Farbe hat Kleiderschrank: 'blau' oder 'braun'? A: braun
+78,Q: Welche Farbe hat Bikini -Top: 'silber' oder 'schwarz'? A: schwarz
+79,Q: Welche Farbe hat Lounge -Stuhl: 'gelb' oder 'blau'? A: blau
+80,Q: Welche Farbe hat Untersetzer: 'gelb' oder 'weiß'? A: weiß
+81,Q: Welche Farbe hat Bühne: 'schwarz' oder 'rosa'? A: schwarz
+82,Q: Welche Farbe hat Leiter: 'grün' oder 'silber'? A: silber
+83,Q: Welche Farbe hat Fahrbahn: 'weiß' oder 'grau'? A: grau
+84,Q: Welche Farbe hat Motorrad: 'braun' oder 'schwarz'? A: schwarz
+85,Q: Welche Farbe hat Rasen: 'grün' oder 'schwarz'? A: grün
+86,Q: Welche Farbe hat Abdeckung: 'weiß' oder 'braun'? A: weiß
+87,Q: Welche Farbe hat Garage: 'orange' oder 'weiß'? A: weiß
+88,Q: Welche Farbe hat Detail: 'silber' oder 'gelb'? A: gelb
+89,Q: Welche Farbe hat Einkaufstasche: 'silber' oder 'weiß'? A: weiß
+90,Q: Welche Farbe hat Kamera: 'lila' oder 'schwarz'? A: schwarz
+91,Q: Welche Farbe hat Kragen: 'rot' oder 'grau'? A: rot
+92,Q: Welche Farbe hat Wagon: 'gelb' oder 'rot'? A: rot
+93,Q: Welche Farbe hat Kühler: 'braun' oder 'weiß'? A: weiß
+94,Q: Welche Farbe hat Verschluss: 'grau' oder 'schwarz'? A: schwarz
+95,Q: Welche Farbe hat Kegel: 'grau' oder 'orange'? A: orange
+96,Q: Welche Farbe hat Bindemittel: 'orange' oder 'schwarz'? A: schwarz
+97,Q: Welche Farbe hat Krippe: 'weiß' oder 'gelb'? A: weiß
+98,Q: Welche Farbe hat Hof: 'grün' oder 'orange'? A: grün
+99,Q: Welche Farbe hat Blütenblatt: 'braun' oder 'rosa'? A: rosa
+100,Q: Welche Farbe hat Gewässer: 'grau' oder 'blau'? A: blau
+101,Q: Welche Farbe hat Stock: 'braun' oder 'silber'? A: braun
+102,Q: Welche Farbe hat Lenkrad: 'schwarz' oder 'orange'? A: schwarz
+103,Q: Welche Farbe hat Unkraut: 'grau' oder 'grün'? A: grün
+104,Q: Welche Farbe hat China: 'lila' oder 'weiß'? A: weiß
+105,Q: Welche Farbe hat Design: 'weiß' oder 'grau'? A: weiß
+106,Q: Welche Farbe hat Herd: 'schwarz' oder 'silber'? A: schwarz
+107,Q: Welche Farbe hat Schublade ziehen: 'silber' oder 'orange'? A: silber
+108,Q: Welche Farbe hat Schnee: 'weiß' oder 'silber'? A: weiß
+109,Q: Welche Farbe hat heim: 'weiß' oder 'grün'? A: weiß
+110,Q: Welche Farbe hat Kapuzenpullover: 'schwarz' oder 'rosa'? A: schwarz
+111,Q: Welche Farbe hat Meter: 'braun' oder 'schwarz'? A: schwarz
+112,Q: Welche Farbe hat Sandale: 'schwarz' oder 'grau'? A: schwarz
+113,Q: Welche Farbe hat Teppichböden: 'braun' oder 'gelb'? A: braun
+114,Q: Welche Farbe hat Beton: 'lila' oder 'grau'? A: grau
+115,Q: Welche Farbe hat Straßenlaterne: 'rot' oder 'blau'? A: rot
+116,Q: Welche Farbe hat Matte: 'weiß' oder 'silber'? A: weiß
+117,Q: Welche Farbe hat Stück: 'weiß' oder 'lila'? A: weiß
+118,Q: Welche Farbe hat Algen: 'blau' oder 'grün'? A: grün
+119,Q: Welche Farbe hat Plane: 'braun' oder 'blau'? A: blau
+120,Q: Welche Farbe hat Teddybär: 'grün' oder 'braun'? A: braun
+121,Q: Welche Farbe hat Namensschall: 'grün' oder 'weiß'? A: weiß
+122,Q: Welche Farbe hat Laternenpfahl: 'lila' oder 'schwarz'? A: schwarz
+123,Q: Welche Farbe hat trinken: 'orange' oder 'blau'? A: orange
+124,Q: Welche Farbe hat Gummireifen: 'schwarz' oder 'lila'? A: schwarz
+125,Q: Welche Farbe hat Gesicht: 'grün' oder 'weiß'? A: weiß
+126,Q: Welche Farbe hat Vegetation: 'weiß' oder 'grün'? A: grün
+127,Q: Welche Farbe hat Treppe: 'grün' oder 'grau'? A: grau
+128,Q: Welche Farbe hat Körper: 'weiß' oder 'orange'? A: weiß
+129,Q: Welche Farbe hat Schleife: 'rot' oder 'lila'? A: rot
+130,Q: Welche Farbe hat Armstuhl: 'braun' oder 'grau'? A: braun
+131,Q: Welche Farbe hat Bettrock: 'weiß' oder 'silber'? A: weiß
+132,Q: Welche Farbe hat Muster: 'weiß' oder 'orange'? A: weiß
+133,Q: Welche Farbe hat Hardware: 'lila' oder 'silber'? A: silber
+134,Q: Welche Farbe hat Decke: 'lila' oder 'weiß'? A: weiß
+135,Q: Welche Farbe hat Korb: 'schwarz' oder 'weiß'? A: weiß
+136,Q: Welche Farbe hat Spielzeug: 'schwarz' oder 'gelb'? A: gelb
+137,Q: Welche Farbe hat Flowtrockner: 'silber' oder 'orange'? A: silber
+138,Q: Welche Farbe hat Kerzenhalter: 'lila' oder 'schwarz'? A: schwarz
+139,Q: Welche Farbe hat Tulpe: 'grün' oder 'rot'? A: rot
+140,Q: Welche Farbe hat Liebesseat: 'rosa' oder 'weiß'? A: weiß
+141,Q: Welche Farbe hat Wurst: 'silber' oder 'braun'? A: braun
+142,Q: Welche Farbe hat ich: 'weiß' oder 'gelb'? A: weiß
+143,Q: Welche Farbe hat Großes Gebäude: 'weiß' oder 'lila'? A: weiß
+144,Q: Welche Farbe hat Spülmittelspender: 'braun' oder 'weiß'? A: weiß
+145,Q: Welche Farbe hat Rücklicht: 'silber' oder 'rot'? A: rot
+146,Q: Welche Farbe hat Asphalt: 'rosa' oder 'grau'? A: grau
+147,Q: Welche Farbe hat Flugzeug: 'weiß' oder 'orange'? A: weiß
+148,Q: Welche Farbe hat Name: 'weiß' oder 'grau'? A: weiß
+149,Q: Welche Farbe hat Essen: 'braun' oder 'blau'? A: braun
+150,Q: Welche Farbe hat Ballon: 'rot' oder 'grau'? A: rot
+151,Q: Welche Farbe hat Ballon: 'blau' oder 'schwarz'? A: blau
+152,Q: Welche Farbe hat Giraffe: 'rosa' oder 'braun'? A: braun
+153,Q: Welche Farbe hat Huf: 'silber' oder 'schwarz'? A: schwarz
+154,Q: Welche Farbe hat Affe: 'braun' oder 'lila'? A: braun
+155,Q: Welche Farbe hat Windmühle: 'rosa' oder 'weiß'? A: weiß
+156,Q: Welche Farbe hat Spitze: 'braun' oder 'weiß'? A: weiß
+157,Q: Welche Farbe hat Ziege: 'weiß' oder 'rot'? A: weiß
+158,Q: Welche Farbe hat Tennisschuh: 'orange' oder 'weiß'? A: weiß
+159,Q: Welche Farbe hat R: 'silber' oder 'white'? A: white
+160,Q: Welche Farbe hat Sportschuh: 'weiß' oder 'grün'? A: weiß
+161,Q: Welche Farbe hat Basketball: 'blau' oder 'orange'? A: orange
+162,Q: Welche Farbe hat Rauchstapel: 'schwarz' oder 'rosa'? A: schwarz
+163,Q: Welche Farbe hat Boje: 'rot' oder 'schwarz'? A: rot
+164,Q: Welche Farbe hat Fußgängerzeichen: 'gelb' oder 'lila'? A: gelb
+165,Q: Welche Farbe hat Bagger: 'grün' oder 'gelb'? A: gelb
+166,Q: Welche Farbe hat Zylinder: 'grau' oder 'gelb'? A: grau
+167,Q: Welche Farbe hat Milchkarton: 'weiß' oder 'gelb'? A: weiß
+168,Q: Welche Farbe hat Schläger: 'schwarz' oder 'rosa'? A: schwarz
+169,Q: Welche Farbe hat Soda kann: 'rot' oder 'orange'? A: rot
+170,Q: Welche Farbe hat Schalterplatte: 'blau' oder 'weiß'? A: weiß
+171,Q: Welche Farbe hat Deckenfliesen: 'schwarz' oder 'weiß'? A: weiß
+172,Q: Welche Farbe hat Kirchturm: 'gelb' oder 'weiß'? A: weiß
+173,Q: Welche Farbe hat Handschuh: 'grün' oder 'schwarz'? A: schwarz
+174,Q: Welche Farbe hat abholen: 'weiß' oder 'rosa'? A: weiß
+175,Q: Welche Farbe hat Koffer: 'schwarz' oder 'gelb'? A: schwarz
+176,Q: Welche Farbe hat Mädchen: 'weiß' oder 'grau'? A: weiß
+177,Q: Welche Farbe hat Anzugjacke: 'schwarz' oder 'rot'? A: schwarz
+178,Q: Welche Farbe hat Kuchen: 'weiß' oder 'orange'? A: weiß
+179,Q: Welche Farbe hat Ecke: 'grün' oder 'schwarz'? A: schwarz
+180,Q: Welche Farbe hat Barhocker: 'schwarz' oder 'rosa'? A: schwarz
+181,Q: Welche Farbe hat Zweig: 'braun' oder 'grün'? A: braun
+182,Q: Welche Farbe hat Datum: 'grau' oder 'rot'? A: rot
+183,Q: Welche Farbe hat Fahrbahn: 'rosa' oder 'weiß'? A: weiß
+184,Q: Welche Farbe hat fahren: 'weiß' oder 'gelb'? A: weiß
+185,Q: Welche Farbe hat Plattform: 'grau' oder 'silber'? A: grau
+186,Q: Welche Farbe hat Blaues Zeichen: 'blau' oder 'weiß'? A: weiß
+187,Q: Welche Farbe hat Stern: 'silber' oder 'weiß'? A: weiß
+188,Q: Welche Farbe hat Zelle: 'schwarz' oder 'silber'? A: schwarz
+189,Q: Welche Farbe hat Zellenraube: 'weiß' oder 'braun'? A: weiß
+190,Q: Welche Farbe hat Nacken: 'silber' oder 'weiß'? A: weiß
+191,Q: Welche Farbe hat Waschmaschine: 'rot' oder 'weiß'? A: weiß
+192,Q: Welche Farbe hat Anzugmantel: 'grau' oder 'weiß'? A: grau
+193,Q: Welche Farbe hat Dekoration: 'rosa' oder 'gelb'? A: gelb
+194,Q: Welche Farbe hat Styroporbecher: 'weiß' oder 'lila'? A: weiß
+195,Q: Welche Farbe hat Bikini: 'orange' oder 'schwarz'? A: schwarz
+196,Q: Welche Farbe hat Becken: 'weiß' oder 'gelb'? A: weiß
+197,Q: Welche Farbe hat Hemd: 'silber' oder 'weiß'? A: weiß
+198,Q: Welche Farbe hat Hartholzboden: 'braun' oder 'blau'? A: braun
+199,Q: Welche Farbe hat Boarder: 'weiß' oder 'lila'? A: weiß
+200,Q: Welche Farbe hat Französisch braten: 'gelb' oder 'orange'? A: gelb
+201,Q: Welche Farbe hat Paket: 'orange' oder 'weiß'? A: weiß
+202,Q: Welche Farbe hat Magnet: 'braun' oder 'rot'? A: rot
+203,Q: Welche Farbe hat Formen: 'lila' oder 'weiß'? A: weiß
+204,Q: Welche Farbe hat Clip: 'lila' oder 'schwarz'? A: schwarz
+205,Q: Welche Farbe hat Elektrik: 'weiß' oder 'orange'? A: weiß
+206,Q: Welche Farbe hat Alarm: 'weiß' oder 'rot'? A: rot
+207,Q: Welche Farbe hat Imbisswagen: 'weiß' oder 'schwarz'? A: weiß
+208,Q: Welche Farbe hat Pappbecher: 'weiß' oder 'schwarz'? A: weiß
+209,Q: Welche Farbe hat Teller: 'weiß' oder 'orange'? A: weiß
+210,Q: Welche Farbe hat Bindestrich: 'silber' oder 'weiß'? A: weiß
+211,Q: Welche Farbe hat offenes Zeichen: 'silber' oder 'blau'? A: blau
+212,Q: Welche Farbe hat Telefonmast: 'braun' oder 'rot'? A: braun
+213,Q: Welche Farbe hat Rücklicht: 'rot' oder 'lila'? A: rot
+214,Q: Welche Farbe hat Teiler: 'weiß' oder 'rot'? A: weiß
+215,Q: Welche Farbe hat Klammer: 'grün' oder 'silber'? A: silber
+216,Q: Welche Farbe hat Kastenauto: 'braun' oder 'blau'? A: blau
+217,Q: Welche Farbe hat Dreieck: 'braun' oder 'rot'? A: rot
+218,Q: Welche Farbe hat Graffiti: 'schwarz' oder 'orange'? A: schwarz
+219,Q: Welche Farbe hat Strauß: 'gelb' oder 'weiß'? A: weiß
+220,Q: Welche Farbe hat Text: 'weiß' oder 'rosa'? A: weiß
+221,Q: Welche Farbe hat Ziegelmauer: 'rot' oder 'rosa'? A: rot
+222,Q: Welche Farbe hat Broschüre: 'rot' oder 'blau'? A: blau
+223,Q: Welche Farbe hat Visitenkarte: 'weiß' oder 'braun'? A: weiß
+224,Q: Welche Farbe hat sperren: 'silber' oder 'rot'? A: silber
+225,Q: Welche Farbe hat Geldbörse: 'orange' oder 'schwarz'? A: schwarz
+226,Q: Welche Farbe hat Basisbrett: 'lila' oder 'weiß'? A: weiß
+227,Q: Welche Farbe hat gerahmtes Fenster: 'rosa' oder 'weiß'? A: weiß
+228,Q: Welche Farbe hat Schwelle: 'weiß' oder 'lila'? A: weiß
+229,Q: Welche Farbe hat Hauspflanze: 'silber' oder 'grün'? A: grün
+230,Q: Welche Farbe hat Schrank: 'silber' oder 'weiß'? A: weiß
+231,Q: Welche Farbe hat Schaukelstuhl: 'grau' oder 'braun'? A: braun
+232,Q: Welche Farbe hat Elektrokasten: 'lila' oder 'grau'? A: grau
+233,Q: Welche Farbe hat Fugenmörtel: 'grün' oder 'weiß'? A: weiß
+234,Q: Welche Farbe hat Diamant: 'braun' oder 'weiß'? A: weiß
+235,Q: Welche Farbe hat Kork: 'braun' oder 'gelb'? A: braun
+236,Q: Welche Farbe hat Schalldämpfer: 'braun' oder 'silber'? A: silber
+237,Q: Welche Farbe hat Abschnitt: 'rot' oder 'orange'? A: rot
+238,Q: Welche Farbe hat Kiefernnadel: 'orange' oder 'grün'? A: grün
+239,Q: Welche Farbe hat Motorhaube: 'weiß' oder 'lila'? A: weiß
+240,Q: Welche Farbe hat Richtungszeichen: 'blau' oder 'weiß'? A: weiß
+241,Q: Welche Farbe hat e: 'weiß' oder 'gelb'? A: weiß
+242,Q: Welche Farbe hat Auspuff: 'rot' oder 'silber'? A: silber
+243,Q: Welche Farbe hat Horizont: 'blau' oder 'gelb'? A: blau
+244,Q: Welche Farbe hat Tanktop: 'gelb' oder 'schwarz'? A: schwarz
+245,Q: Welche Farbe hat Bräune Gebäude: 'braun' oder 'weiß'? A: braun
+246,Q: Welche Farbe hat Pfote: 'weiß' oder 'grün'? A: weiß
+247,Q: Welche Farbe hat Reh: 'rosa' oder 'braun'? A: braun
+248,Q: Welche Farbe hat Hang: 'grün' oder 'grau'? A: grün
+249,Q: Welche Farbe hat Kuh: 'silber' oder 'braun'? A: braun
+250,Q: Welche Farbe hat Ladenfront: 'blau' oder 'weiß'? A: blau
+251,Q: Welche Farbe hat Verkehrsmast: 'grau' oder 'schwarz'? A: schwarz
+252,Q: Welche Farbe hat Cowboyhut: 'grün' oder 'weiß'? A: weiß
+253,Q: Welche Farbe hat Jersey: 'weiß' oder 'rosa'? A: weiß
+254,Q: Welche Farbe hat Bogen: 'weiß' oder 'lila'? A: weiß
+255,Q: Welche Farbe hat Spurteiler: 'blau' oder 'grau'? A: blau
+256,Q: Welche Farbe hat Paket: 'weiß' oder 'braun'? A: weiß
+257,Q: Welche Farbe hat Frontreifen: 'silber' oder 'schwarz'? A: schwarz
+258,Q: Welche Farbe hat Hoody: 'grau' oder 'rosa'? A: grau
+259,Q: Welche Farbe hat Stall: 'weiß' oder 'braun'? A: weiß
+260,Q: Welche Farbe hat Schlammklappe: 'schwarz' oder 'blau'? A: schwarz
+261,Q: Welche Farbe hat Flyer: 'weiß' oder 'schwarz'? A: weiß
+262,Q: Welche Farbe hat Knall: 'schwarz' oder 'rosa'? A: schwarz
+263,Q: Welche Farbe hat Zeitungskiosk: 'rot' oder 'schwarz'? A: rot
+264,Q: Welche Farbe hat Baufahrzeug: 'grün' oder 'gelb'? A: gelb
+265,Q: Welche Farbe hat gestrichen: 'rot' oder 'lila'? A: rot
+266,Q: Welche Farbe hat Bierflasche: 'rosa' oder 'braun'? A: braun
+267,Q: Welche Farbe hat Flugzeugschwanz: 'grün' oder 'blau'? A: blau
+268,Q: Welche Farbe hat mülleimer: 'schwarz' oder 'grau'? A: schwarz
+269,Q: Welche Farbe hat locker: 'grau' oder 'orange'? A: grau
+270,Q: Welche Farbe hat Sandles: 'weiß' oder 'braun'? A: braun
+271,Q: Welche Farbe hat verlassen: 'grün' oder 'rosa'? A: grün
+272,Q: Welche Farbe hat Glied: 'orange' oder 'grün'? A: grün
+273,Q: Welche Farbe hat Speck: 'gelb' oder 'schwarz'? A: schwarz
+274,Q: Welche Farbe hat Gemüse: 'braun' oder 'grün'? A: grün
+275,Q: Welche Farbe hat Bagel: 'orange' oder 'braun'? A: braun
+276,Q: Welche Farbe hat LKW -Taxi: 'schwarz' oder 'weiß'? A: weiß
+277,Q: Welche Farbe hat Wintermantel: 'schwarz' oder 'lila'? A: schwarz
+278,Q: Welche Farbe hat Kamm: 'lila' oder 'weiß'? A: weiß
+279,Q: Welche Farbe hat Podium: 'grün' oder 'schwarz'? A: schwarz
+280,Q: Welche Farbe hat Tennisplatz: 'grün' oder 'gelb'? A: grün
+281,Q: Welche Farbe hat Badezimmertoilette: 'weiß' oder 'rot'? A: weiß
+282,Q: Welche Farbe hat Kunstwerk: 'grau' oder 'schwarz'? A: schwarz
+283,Q: Welche Farbe hat Stiefstuhl: 'weiß' oder 'orange'? A: weiß
+284,Q: Welche Farbe hat Rollstuhl: 'schwarz' oder 'weiß'? A: schwarz
+285,Q: Welche Farbe hat Sirene: 'grün' oder 'rot'? A: rot
+286,Q: Welche Farbe hat Tribüne: 'blau' oder 'schwarz'? A: blau
+287,Q: Welche Farbe hat Bananenblatt: 'gelb' oder 'grün'? A: grün
+288,Q: Welche Farbe hat Blumenvase: 'grau' oder 'grün'? A: grün
+289,Q: Welche Farbe hat Vieh: 'rosa' oder 'braun'? A: braun
+290,Q: Welche Farbe hat wolkig: 'lila' oder 'weiß'? A: weiß
+291,Q: Welche Farbe hat Unter Hemd: 'weiß' oder 'grau'? A: weiß
+292,Q: Welche Farbe hat Autositz: 'gelb' oder 'grau'? A: grau
+293,Q: Welche Farbe hat Planke: 'orange' oder 'braun'? A: braun
+294,Q: Welche Farbe hat Straßenzeichen: 'lila' oder 'grün'? A: grün
+295,Q: Welche Farbe hat Schneeflocke: 'blau' oder 'weiß'? A: weiß
+296,Q: Welche Farbe hat Armband: 'weiß' oder 'rosa'? A: weiß
+297,Q: Welche Farbe hat Denim Jean: 'blau' oder 'lila'? A: blau
+298,Q: Welche Farbe hat Slipper: 'grau' oder 'schwarz'? A: schwarz
+299,Q: Welche Farbe hat Muschel: 'weiß' oder 'lila'? A: weiß
+300,Q: Welche Farbe hat Geist: 'orange' oder 'rot'? A: rot
+301,Q: Welche Farbe hat Pfefferschüttler: 'weiß' oder 'lila'? A: weiß
+302,Q: Welche Farbe hat Gefrierentür: 'weiß' oder 'braun'? A: weiß
+303,Q: Welche Farbe hat Checker: 'grün' oder 'schwarz'? A: schwarz
+304,Q: Welche Farbe hat Beere: 'gelb' oder 'rot'? A: rot
+305,Q: Welche Farbe hat Dalmatiner: 'weiß' oder 'gelb'? A: weiß
+306,Q: Welche Farbe hat Kreuzungszeichen: 'blau' oder 'schwarz'? A: schwarz
+307,Q: Welche Farbe hat Drachen: 'rot' oder 'braun'? A: rot
+308,Q: Welche Farbe hat Visier: 'lila' oder 'weiß'? A: weiß
+309,Q: Welche Farbe hat Neoprenanzug: 'schwarz' oder 'rosa'? A: schwarz
+310,Q: Welche Farbe hat Füllung: 'blau' oder 'weiß'? A: weiß
+311,Q: Welche Farbe hat Brötchen: 'braun' oder 'blau'? A: braun
+312,Q: Welche Farbe hat Frisbee: 'lila' oder 'weiß'? A: weiß
+313,Q: Welche Farbe hat Schädel: 'weiß' oder 'schwarz'? A: weiß
+314,Q: Welche Farbe hat Neoprenanzug: 'orange' oder 'schwarz'? A: schwarz
+315,Q: Welche Farbe hat Müllsack: 'schwarz' oder 'braun'? A: schwarz
+316,Q: Welche Farbe hat Katzenschwanz: 'schwarz' oder 'grün'? A: schwarz
+317,Q: Welche Farbe hat Fensterbrett: 'weiß' oder 'blau'? A: weiß
+318,Q: Welche Farbe hat Loafer: 'braun' oder 'rosa'? A: braun
+319,Q: Welche Farbe hat Stadionsitz: 'weiß' oder 'schwarz'? A: weiß
+320,Q: Welche Farbe hat Löwenzahn: 'rot' oder 'gelb'? A: gelb
+321,Q: Welche Farbe hat Schnauze: 'schwarz' oder 'rosa'? A: schwarz
+322,Q: Welche Farbe hat Tasche: 'silber' oder 'rot'? A: rot
+323,Q: Welche Farbe hat Name Tag: 'weiß' oder 'grün'? A: weiß
+324,Q: Welche Farbe hat Schneebrett: 'weiß' oder 'orange'? A: weiß
+325,Q: Welche Farbe hat Skistange: 'schwarz' oder 'rosa'? A: schwarz
+326,Q: Welche Farbe hat Passagierauto: 'rot' oder 'grau'? A: rot
+327,Q: Welche Farbe hat Passagierzug: 'silber' oder 'gelb'? A: gelb
+328,Q: Welche Farbe hat B: 'grau' oder 'weiß'? A: weiß
+329,Q: Welche Farbe hat Skiis: 'silber' oder 'weiß'? A: weiß
+330,Q: Welche Farbe hat Cockpit: 'orange' oder 'weiß'? A: weiß
+331,Q: Welche Farbe hat Schnürsenkel: 'braun' oder 'weiß'? A: weiß
+332,Q: Welche Farbe hat Flugzeugflügel: 'silber' oder 'weiß'? A: weiß
+333,Q: Welche Farbe hat Satteltasche: 'schwarz' oder 'gelb'? A: schwarz
+334,Q: Welche Farbe hat Wii Remote: 'orange' oder 'weiß'? A: weiß
+335,Q: Welche Farbe hat Wasserhahn: 'silber' oder 'gelb'? A: silber
+336,Q: Welche Farbe hat Kamerariemen: 'schwarz' oder 'pink'? A: schwarz
+337,Q: Welche Farbe hat DVD -Spieler: 'grün' oder 'silber'? A: silber
+338,Q: Welche Farbe hat Hemdkragen: 'gelb' oder 'weiß'? A: weiß
+339,Q: Welche Farbe hat Laptop -Computer: 'rot' oder 'schwarz'? A: schwarz
+340,Q: Welche Farbe hat Straßenkegel: 'orange' oder 'rosa'? A: orange
+341,Q: Welche Farbe hat Nummer 3: 'braun' oder 'schwarz'? A: schwarz
+342,Q: Welche Farbe hat Soda: 'orange' oder 'lila'? A: orange
+343,Q: Welche Farbe hat streuen: 'weiß' oder 'braun'? A: weiß
+344,Q: Welche Farbe hat Flipflop: 'schwarz' oder 'silber'? A: schwarz
+345,Q: Welche Farbe hat Heimteller: 'weiß' oder 'blau'? A: weiß
+346,Q: Welche Farbe hat Haarkrawatte: 'blau' oder 'braun'? A: blau
+347,Q: Welche Farbe hat Paprika: 'rot' oder 'braun'? A: rot
+348,Q: Welche Farbe hat Werbung: 'lila' oder 'weiß'? A: weiß
+349,Q: Welche Farbe hat Messerklinge: 'lila' oder 'silber'? A: silber
+350,Q: Welche Farbe hat Clockface: 'weiß' oder 'orange'? A: weiß
+351,Q: Welche Farbe hat Schnittlauch: 'grün' oder 'weiß'? A: grün
+352,Q: Welche Farbe hat Leuchtreklame: 'rot' oder 'schwarz'? A: rot
+353,Q: Welche Farbe hat Minze: 'grau' oder 'grün'? A: grün
+354,Q: Welche Farbe hat Zapfsäule: 'weiß' oder 'silber'? A: weiß
+355,Q: Welche Farbe hat Foto: 'gelb' oder 'weiß'? A: weiß
+356,Q: Welche Farbe hat Toilettenpanzer: 'weiß' oder 'silber'? A: weiß
+357,Q: Welche Farbe hat Regenmantel: 'grau' oder 'schwarz'? A: schwarz
+358,Q: Welche Farbe hat Bindung: 'weiß' oder 'blau'? A: weiß
+359,Q: Welche Farbe hat Handwäsche: 'grün' oder 'weiß'? A: weiß
+360,Q: Welche Farbe hat Badematte: 'braun' oder 'weiß'? A: weiß
+361,Q: Welche Farbe hat Apple Logo: 'weiß' oder 'lila'? A: weiß
+362,Q: Welche Farbe hat Lebenswache: 'weiß' oder 'orange'? A: orange
+363,Q: Welche Farbe hat Kürbis: 'blau' oder 'grün'? A: grün
+364,Q: Welche Farbe hat Lebensmittelschale: 'grün' oder 'rot'? A: rot
+365,Q: Welche Farbe hat Zaunstange: 'grau' oder 'silber'? A: silber
+366,Q: Welche Farbe hat Spatel: 'orange' oder 'silber'? A: silber
+367,Q: Welche Farbe hat Goldlinie: 'lila' oder 'gelb'? A: gelb
+368,Q: Welche Farbe hat Brief a: 'blau' oder 'weiß'? A: weiß
+369,Q: Welche Farbe hat Schläger: 'braun' oder 'schwarz'? A: schwarz
+370,Q: Welche Farbe hat Fahrradsitz: 'schwarz' oder 'lila'? A: schwarz
+371,Q: Welche Farbe hat Truthahn: 'orange' oder 'braun'? A: braun
+372,Q: Welche Farbe hat Dirtbike: 'blau' oder 'rot'? A: rot
+373,Q: Welche Farbe hat Gummi: 'schwarz' oder 'gelb'? A: schwarz
+374,Q: Welche Farbe hat Carving: 'weiß' oder 'gelb'? A: gelb
+375,Q: Welche Farbe hat Kniescheibe: 'schwarz' oder 'gelb'? A: schwarz
+376,Q: Welche Farbe hat Teich: 'weiß' oder 'blau'? A: blau
+377,Q: Welche Farbe hat Toaster Ofen: 'rosa' oder 'schwarz'? A: schwarz
+378,Q: Welche Farbe hat Pizza -Schachtel: 'weiß' oder 'silber'? A: weiß
+379,Q: Welche Farbe hat Passagierbus: 'weiß' oder 'grün'? A: weiß
+380,Q: Welche Farbe hat Lokomotive: 'silber' oder 'schwarz'? A: schwarz
+381,Q: Welche Farbe hat Hotdogbrötchen: 'braun' oder 'rot'? A: braun
+382,Q: Welche Farbe hat Nummer 8: 'weiß' oder 'orange'? A: weiß
+383,Q: Welche Farbe hat Zinn: 'silber' oder 'lila'? A: silber
+384,Q: Welche Farbe hat Überführung: 'blau' oder 'schwarz'? A: blau
+385,Q: Welche Farbe hat Tunnelzug: 'weiß' oder 'grau'? A: weiß
+386,Q: Welche Farbe hat Kleidung: 'schwarz' oder 'rosa'? A: schwarz
+387,Q: Welche Farbe hat Walkie Talkie: 'braun' oder 'schwarz'? A: schwarz
+388,Q: Welche Farbe hat Kalender: 'rosa' oder 'weiß'? A: weiß
+389,Q: Welche Farbe hat registrieren: 'lila' oder 'weiß'? A: weiß
+390,Q: Welche Farbe hat Einkaufswagen: 'rot' oder 'grün'? A: rot
+391,Q: Welche Farbe hat Strickhut: 'schwarz' oder 'silber'? A: schwarz
+392,Q: Welche Farbe hat Schwanzflosse: 'grün' oder 'blau'? A: blau
+393,Q: Welche Farbe hat Verdeck: 'weiß' oder 'rot'? A: weiß
+394,Q: Welche Farbe hat Sicherheitsmarker: 'orange' oder 'grau'? A: orange
+395,Q: Welche Farbe hat Armeire: 'braun' oder 'grau'? A: braun
+396,Q: Welche Farbe hat Vas: 'weiß' oder 'orange'? A: weiß
+397,Q: Welche Farbe hat Glasur: 'rosa' oder 'weiß'? A: weiß
+398,Q: Welche Farbe hat Gitarrenkoffer: 'schwarz' oder 'orange'? A: schwarz
+399,Q: Welche Farbe hat Tankdeckel: 'weiß' oder 'schwarz'? A: weiß
+400,Q: Welche Farbe hat Netz: 'schwarz' oder 'braun'? A: schwarz
+401,Q: Welche Farbe hat Medaillon: 'lila' oder 'gelb'? A: gelb
+402,Q: Welche Farbe hat Wegerich: 'grün' oder 'grau'? A: grün
+403,Q: Welche Farbe hat Plantage: 'grün' oder 'weiß'? A: grün
+404,Q: Welche Farbe hat Männer: 'orange' oder 'weiß'? A: weiß
+405,Q: Welche Farbe hat Schnappnahme: 'silber' oder 'schwarz'? A: silber
+406,Q: Welche Farbe hat Fänger Mitt: 'braun' oder 'weiß'? A: braun
+407,Q: Welche Farbe hat Baseball -Uniform: 'gelb' oder 'weiß'? A: weiß
+408,Q: Welche Farbe hat Raum: 'grün' oder 'gelb'? A: grün
+409,Q: Welche Farbe hat Strudel: 'weiß' oder 'silber'? A: weiß
+410,Q: Welche Farbe hat Bremse: 'blau' oder 'silber'? A: silber
+411,Q: Welche Farbe hat behindertes Zeichen: 'blau' oder 'orange'? A: blau
+412,Q: Welche Farbe hat H: 'grau' oder 'weiß'? A: weiß
+413,Q: Welche Farbe hat High Heel: 'schwarz' oder 'grün'? A: schwarz
+414,Q: Welche Farbe hat Oberschenkel: 'blau' oder 'weiß'? A: weiß
+415,Q: Welche Farbe hat Spinat: 'grün' oder 'grau'? A: grün
+416,Q: Welche Farbe hat Reiniger : 'rot' oder 'weiß'? A: weiß
+417,Q: Welche Farbe hat Bier: 'gelb' oder 'braun'? A: braun
+418,Q: Welche Farbe hat Toast: 'braun' oder 'schwarz'? A: braun
+419,Q: Welche Farbe hat Ohrhörer: 'orange' oder 'weiß'? A: weiß
+420,Q: Welche Farbe hat Rasen: 'grün' oder 'weiß'? A: grün
+421,Q: Welche Farbe hat Brokkoli -Blüte: 'grün' oder 'blau'? A: grün
+422,Q: Welche Farbe hat haargummi: 'orange' oder 'schwarz'? A: schwarz
+423,Q: Welche Farbe hat Bettdecke: 'gelb' oder 'weiß'? A: weiß
+424,Q: Welche Farbe hat Winterhut: 'grau' oder 'schwarz'? A: schwarz
+425,Q: Welche Farbe hat Elektromast: 'lila' oder 'braun'? A: braun
+426,Q: Welche Farbe hat grünes Gras: 'braun' oder 'orange'? A: braun
+427,Q: Welche Farbe hat Katzenauge: 'grün' oder 'weiß'? A: grün
+428,Q: Welche Farbe hat Lineal: 'grün' oder 'weiß'? A: weiß
+429,Q: Welche Farbe hat Giraffes Auge: 'schwarz' oder 'rosa'? A: schwarz
+430,Q: Welche Farbe hat Krume: 'braun' oder 'silber'? A: braun
+431,Q: Welche Farbe hat Verpackung: 'braun' oder 'weiß'? A: weiß
+432,Q: Welche Farbe hat Hotdog: 'gelb' oder 'braun'? A: braun
+433,Q: Welche Farbe hat schrauben: 'braun' oder 'silber'? A: silber
+434,Q: Welche Farbe hat Verkehrslinie: 'weiß' oder 'schwarz'? A: weiß
+435,Q: Welche Farbe hat Fahrwerk: 'schwarz' oder 'lila'? A: schwarz
+436,Q: Welche Farbe hat Zeichenbrett: 'weiß' oder 'rot'? A: weiß
+437,Q: Welche Farbe hat Grundlinie: 'weiß' oder 'schwarz'? A: weiß
+438,Q: Welche Farbe hat Kopfgetriebe: 'schwarz' oder 'orange'? A: schwarz
+439,Q: Welche Farbe hat Schienbeinwache: 'silber' oder 'schwarz'? A: schwarz
+440,Q: Welche Farbe hat Nebel: 'weiß' oder 'gelb'? A: weiß
+441,Q: Welche Farbe hat Basilikum: 'grün' oder 'gelb'? A: grün
+442,Q: Welche Farbe hat Shinguard: 'grün' oder 'schwarz'? A: schwarz
+443,Q: Welche Farbe hat 1: 'schwarz' oder 'rosa'? A: schwarz
+444,Q: Welche Farbe hat Vorsichtskegel: 'lila' oder 'orange'? A: orange
+445,Q: Welche Farbe hat Klobürste: 'rosa' oder 'weiß'? A: weiß
+446,Q: Welche Farbe hat Substanz: 'weiß' oder 'lila'? A: weiß
+447,Q: Welche Farbe hat Frosch: 'weiß' oder 'grün'? A: grün
+448,Q: Welche Farbe hat bewachen: 'orange' oder 'schwarz'? A: schwarz
+449,Q: Welche Farbe hat Kokosnuss: 'rosa' oder 'weiß'? A: weiß
+450,Q: Welche Farbe hat Fußball: 'orange' oder 'braun'? A: braun
+451,Q: Welche Farbe hat Rauchfahne: 'weiß' oder 'braun'? A: weiß
+452,Q: Welche Farbe hat Baseball -Klima: 'lila' oder 'schwarz'? A: schwarz
+453,Q: Welche Farbe hat Schienbein: 'rot' oder 'orange'? A: rot
+454,Q: Welche Farbe hat Kreide: 'weiß' oder 'rot'? A: weiß
+455,Q: Welche Farbe hat Hummer: 'rot' oder 'weiß'? A: rot
+456,Q: Welche Farbe hat spülen: 'silber' oder 'lila'? A: silber
+457,Q: Welche Farbe hat aus zweiter Hand: 'silber' oder 'rot'? A: rot
+458,Q: Welche Farbe hat surfen: 'rot' oder 'weiß'? A: weiß
+459,Q: Welche Farbe hat Narzisse: 'gelb' oder 'schwarz'? A: gelb
+460,Q: Welche Farbe hat Öffnung: 'schwarz' oder 'orange'? A: schwarz
+461,Q: Welche Farbe hat Brief b: 'schwarz' oder 'weiß'? A: weiß
+462,Q: Welche Farbe hat Braut-: 'rosa' oder 'schwarz'? A: schwarz
+463,Q: Welche Farbe hat Armaturenbrett: 'braun' oder 'schwarz'? A: schwarz
+464,Q: Welche Farbe hat Wakeboard: 'rot' oder 'silber'? A: rot
+465,Q: Welche Farbe hat Stecker: 'schwarz' oder 'lila'? A: schwarz
+466,Q: Welche Farbe hat Wandplatte: 'orange' oder 'weiß'? A: weiß
+467,Q: Welche Farbe hat Tomatensauce: 'orange' oder 'rot'? A: rot
+468,Q: Welche Farbe hat Rucola: 'grün' oder 'grau'? A: grün
+469,Q: Welche Farbe hat Koriander: 'grün' oder 'rosa'? A: grün
+470,Q: Welche Farbe hat Pony: 'rosa' oder 'braun'? A: braun
+471,Q: Welche Farbe hat Vorderpfote: 'silber' oder 'weiß'? A: weiß
+472,Q: Welche Farbe hat Saitenbohne: 'grün' oder 'blau'? A: grün
+473,Q: Welche Farbe hat Einbaum: 'grün' oder 'braun'? A: grün
+474,Q: Welche Farbe hat Grenzlinie: 'weiß' oder 'blau'? A: weiß
+475,Q: Welche Farbe hat Holztür: 'braun' oder 'orange'? A: braun
+476,Q: Welche Farbe hat Computerschlüssel: 'grau' oder 'weiß'? A: weiß
+477,Q: Welche Farbe hat Symbol: 'weiß' oder 'orange'? A: weiß
+478,Q: Welche Farbe hat Smartphone: 'schwarz' oder 'lila'? A: schwarz
+479,Q: Welche Farbe hat Hauspflanze: 'schwarz' oder 'grün'? A: grün
+480,Q: Welche Farbe hat Sportschuh: 'weiß' oder 'lila'? A: weiß
+481,Q: Welche Farbe hat Hinterrad: 'schwarz' oder 'silber'? A: schwarz
+482,Q: Welche Farbe hat Bison: 'lila' oder 'braun'? A: braun
+483,Q: Welche Farbe hat Fensterbank: 'weiß' oder 'schwarz'? A: weiß
+484,Q: Welche Farbe hat Tofu: 'orange' oder 'weiß'? A: weiß
+485,Q: Welche Farbe hat Schriftart: 'grau' oder 'weiß'? A: weiß
+486,Q: Welche Farbe hat Schlitz: 'schwarz' oder 'rosa'? A: schwarz
+487,Q: Welche Farbe hat Melone: 'grün' oder 'blau'? A: grün
+488,Q: Welche Farbe hat Lillie: 'grün' oder 'silber'? A: grün
+489,Q: Welche Farbe hat Bettlaken: 'weiß' oder 'silber'? A: weiß
+490,Q: Welche Farbe hat Standuhr: 'braun' oder 'gelb'? A: braun
+491,Q: Welche Farbe hat Frachthose: 'braun' oder 'weiß'? A: braun
+492,Q: Welche Farbe hat Mantel: 'rot' oder 'weiß'? A: rot
+493,Q: Welche Farbe hat Knöchel: 'braun' oder 'weiß'? A: weiß
+494,Q: Welche Farbe hat Tomate: 'schwarz' oder 'rot'? A: rot
+495,Q: Welche Farbe hat Skihandschuh: 'schwarz' oder 'lila'? A: schwarz
+496,Q: Welche Farbe hat Brief l: 'gelb' oder 'weiß'? A: weiß
+497,Q: Welche Farbe hat Brief n: 'weiß' oder 'grün'? A: weiß
+498,Q: Welche Farbe hat Tragenfall: 'gelb' oder 'schwarz'? A: schwarz
+499,Q: Welche Farbe hat Kreuzung: 'weiß' oder 'silber'? A: weiß
+500,Q: Welche Farbe hat vor dem Zug: 'gelb' oder 'orange'? A: gelb
+501,Q: Welche Farbe hat poste it Notiz: 'grün' oder 'gelb'? A: gelb
+502,Q: Welche Farbe hat Skistock: 'grün' oder 'grau'? A: grün
+503,Q: Welche Farbe hat Pizza: 'silber' oder 'blau'? A: silber
+504,Q: Welche Farbe hat Entlein: 'braun' oder 'gelb'? A: braun
+505,Q: Welche Farbe hat Chunk: 'weiß' oder 'rot'? A: weiß
+506,Q: Welche Farbe hat Nebel: 'silber' oder 'grau'? A: grau
+507,Q: Welche Farbe hat Münzschlitz: 'grau' oder 'rot'? A: grau
+508,Q: Welche Farbe hat überprüfen: 'braun' oder 'weiß'? A: weiß
+509,Q: Welche Farbe hat Zelt oben: 'gelb' oder 'weiß'? A: weiß
+510,Q: Welche Farbe hat Steak: 'grau' oder 'braun'? A: braun
+511,Q: Welche Farbe hat Toilettenabdeckung: 'weiß' oder 'lila'? A: weiß
+512,Q: Welche Farbe hat Piercing: 'blau' oder 'silber'? A: silber
+513,Q: Welche Farbe hat Grafitti: 'silber' oder 'blau'? A: blau
+514,Q: Welche Farbe hat Cowboy -Stiefel: 'weiß' oder 'braun'? A: braun
+515,Q: Welche Farbe hat Link: 'silber' oder 'grün'? A: silber
+516,Q: Welche Farbe hat Hot Dog Bun: 'braun' oder 'rot'? A: braun
+517,Q: Welche Farbe hat Baseballschuh: 'braun' oder 'lila'? A: braun
+518,Q: Welche Farbe hat Frauenhemd: 'schwarz' oder 'blau'? A: schwarz
+519,Q: Welche Farbe hat Nachricht: 'weiß' oder 'grün'? A: weiß
+520,Q: Welche Farbe hat Fang: 'schwarz' oder 'weiß'? A: weiß
+521,Q: Welche Farbe hat Bettlaken: 'orange' oder 'weiß'? A: weiß
+522,Q: Welche Farbe hat Hunde Nase: 'gelb' oder 'schwarz'? A: schwarz
+523,Q: Welche Farbe hat Keramikschale: 'weiß' oder 'rot'? A: weiß
+524,Q: Welche Farbe hat Videokamera: 'schwarz' oder 'rot'? A: schwarz
+525,Q: Welche Farbe hat Silhouette: 'weiß' oder 'schwarz'? A: schwarz
+526,Q: Welche Farbe hat wellebeest: 'braun' oder 'rot'? A: braun
+527,Q: Welche Farbe hat Meerestöckchen: 'rot' oder 'weiß'? A: weiß
+528,Q: Welche Farbe hat Tannenbaum: 'grün' oder 'schwarz'? A: grün
+529,Q: Welche Farbe hat Kopftuch: 'braun' oder 'blau'? A: blau
+530,Q: Welche Farbe hat pendeln: 'weiß' oder 'grau'? A: weiß
+531,Q: Welche Farbe hat Nummerierung: 'schwarz' oder 'braun'? A: schwarz
+532,Q: Welche Farbe hat Dreckstraße: 'braun' oder 'weiß'? A: braun
+533,Q: Welche Farbe hat Servierplatte: 'rosa' oder 'weiß'? A: weiß
+534,Q: Welche Farbe hat Copyright: 'blau' oder 'weiß'? A: weiß
+535,Q: Welche Farbe hat Brokkoli Speer: 'orange' oder 'grün'? A: grün
+536,Q: Welche Farbe hat Croissant: 'silber' oder 'braun'? A: braun
+537,Q: Welche Farbe hat Santa Hut: 'blau' oder 'rot'? A: rot
+538,Q: Welche Farbe hat Restaurantlogo: 'braun' oder 'rot'? A: rot
+539,Q: Welche Farbe hat Banana Bündel: 'rot' oder 'gelb'? A: gelb
+540,Q: Welche Farbe hat Golfball: 'lila' oder 'gelb'? A: gelb
+541,Q: Welche Farbe hat Aubergine: 'silber' oder 'lila'? A: lila
+542,Q: Welche Farbe hat Fohlen: 'braun' oder 'lila'? A: braun
+543,Q: Welche Farbe hat Skispur: 'blau' oder 'weiß'? A: weiß
+544,Q: Welche Farbe hat Kuchenserver: 'weiß' oder 'silber'? A: silber
+545,Q: Welche Farbe hat Möwe: 'weiß' oder 'grün'? A: weiß
+546,Q: Welche Farbe hat Düsenmotor: 'blau' oder 'weiß'? A: blau
+547,Q: Welche Farbe hat Go Signal: 'grau' oder 'grün'? A: grün
+548,Q: Welche Farbe hat Taktarm: 'schwarz' oder 'orange'? A: schwarz
+549,Q: Welche Farbe hat Rashguard: 'braun' oder 'schwarz'? A: schwarz
+550,Q: Welche Farbe hat Vorsichtslinie: 'lila' oder 'gelb'? A: gelb
+551,Q: Welche Farbe hat Karotten -Top: 'grün' oder 'braun'? A: grün
+552,Q: Welche Farbe hat Tan Short: 'orange' oder 'braun'? A: braun
+553,Q: Welche Farbe hat Tick: 'schwarz' oder 'rot'? A: schwarz
+554,Q: Welche Farbe hat Zebra -Streifen: 'rosa' oder 'schwarz'? A: schwarz
+555,Q: Welche Farbe hat Blumenpedal: 'lila' oder 'weiß'? A: lila
+556,Q: Welche Farbe hat brauner Hut: 'braun' oder 'gelb'? A: braun
+557,Q: Welche Farbe hat Schneetollhose: 'schwarz' oder 'grau'? A: schwarz
+558,Q: Welche Farbe hat brauner Ziegel: 'braun' oder 'blau'? A: braun
+559,Q: Welche Farbe hat Wellenkamm: 'grau' oder 'weiß'? A: weiß
+560,Q: Welche Farbe hat Polygon: 'grün' oder 'braun'? A: braun
+561,Q: Welche Farbe hat gefliester Boden: 'weiß' oder 'schwarz'? A: weiß
+562,Q: Welche Farbe hat Verkehrsfass: 'lila' oder 'orange'? A: orange
+563,Q: Welche Farbe hat Baby Zebra: 'weiß' oder 'orange'? A: weiß
+564,Q: Welche Farbe hat Waschbeckenschale: 'grau' oder 'weiß'? A: weiß
+565,Q: Welche Farbe hat Badezimmerwand: 'weiß' oder 'lila'? A: weiß
+566,Q: Welche Farbe hat Vogelflügel: 'grün' oder 'schwarz'? A: schwarz
+567,Q: Welche Farbe hat Sprinkler: 'rosa' oder 'blau'? A: blau
+568,Q: Welche Farbe hat Wildtiere: 'rot' oder 'schwarz'? A: schwarz
+569,Q: Welche Farbe hat Schuhspitze: 'orange' oder 'schwarz'? A: schwarz
+570,Q: Welche Farbe hat Metallspitze: 'silber' oder 'schwarz'? A: silber
+571,Q: Welche Farbe hat Flusswelle: 'blau' oder 'grau'? A: grau
+572,Q: Welche Farbe hat Flutlicht: 'grau' oder 'silber'? A: silber
+573,Q: Welche Farbe hat Bananencluster: 'grün' oder 'weiß'? A: grün
