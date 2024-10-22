@@ -1,4 +1,5 @@
 from datasets import load_dataset
+import random
 
 
 SEED = 42 # TODO: Only for testing.
@@ -31,7 +32,7 @@ def load_data(lan: str, concept: str):
 
     return ds
 
-def create_few_shots(concept: str, amount: int):
+def create_few_shots(concept: str, amount=0):
     """
     Takes a concepts and returns a list of random few shots in english.
 
@@ -41,21 +42,45 @@ def create_few_shots(concept: str, amount: int):
                                                       'temperature', 'hardness' 
     """
     ds = load_data(concept=concept, lan='en')
-    ds_samples = ds.shuffle(seed=SEED).select(range(amount))
+    if amount != 0:
+        ds_samples = ds.shuffle(seed=SEED).select(range(amount))
+    else:
+        ds.shuffle(seed=SEED)
+        ds_samples = ds
+
 
     def write_prompt(e):
         if "obj1" in ds_samples.column_names: # Comparing data (obj1 v obj2)
-            pass # TODO
-        else:
-            return f"{e['obj']} has the {e['relation']} {e['positive']}"
+            match e['relation']:
+                case 'temperature':
+                    return f"Q: Is '{e['obj1']}' hotter than '{e['obj2']}'? A: {'Yes' if e['label'] else 'No'}"
+                case 'size':
+                    return f"Q: Is '{e['obj1']}' bigger than '{e['obj2']}'? A: {'Yes' if e['label'] else 'No'}"
+                case 'mass':
+                    return f"Q: Is '{e['obj1']}' heavier than '{e['obj2']}'? A: {'Yes' if e['label'] else 'No'}"
+                case 'height':
+                    return f"Q: Is '{e['obj1']}' taller than '{e['obj2']}'? A: {'Yes' if e['label'] else 'No'}"
+                case 'hardness':
+                    return f"Q: Is '{e['obj1']}' harder than '{e['obj2']}'? A: {'Yes' if e['label'] else 'No'}"
+                case _:
+                    raise ValueError("Wrong relation!")
+        
+        else: # color, material, shape
+            if random.random() > 0.5:
+                # return f"Q: Does {e['obj']} have the {e['relation']} '{e['positive']}' or '{e['negative']}'? A: {e['positive']}" 
+                return f"Q: What is the {e['relation']} of {e['obj']}: '{e['positive']}' or '{e['negative']}'? A: {e['positive']}" 
+            else:
+                return f"Q: What is the {e['relation']} of {e['obj']}: '{e['negative']}' or '{e['positive']}'? A: {e['positive']}" 
 
     for entry in ds_samples:
         yield write_prompt(entry)
 
 
 if __name__ == "__main__":
-    for p in create_few_shots("color", 3):
-        print(p)
+    for c in ['color', 'size', 'shape', 'height', 'material', 'mass', 'temperature', 'hardness']:
+        for p in create_few_shots(c):
+            with open("dataset/english_prompts_" + c + ".txt", "a") as f:
+                f.write(p+"\n")
 
 
 

@@ -1,0 +1,284 @@
+Q: What is the material of chair: 'wood' or 'jade'? A: wood
+Q: What is the material of lid: 'denim' or 'plastic'? A: plastic
+Q: What is the material of shelf: 'gold' or 'wood'? A: wood
+Q: What is the material of bookshelf: 'wood' or 'tin'? A: wood
+Q: What is the material of wall: 'jade' or 'stone'? A: stone
+Q: What is the material of mug: 'wood' or 'glass'? A: glass
+Q: What is the material of candle holder: 'glass' or 'ceramic'? A: glass
+Q: What is the material of leg: 'metal' or 'glass'? A: metal
+Q: What is the material of knob: 'stone' or 'gold'? A: gold
+Q: What is the material of tray: 'denim' or 'metal'? A: metal
+Q: What is the material of vent: 'metal' or 'plastic'? A: metal
+Q: What is the material of sink: 'leather' or 'metal'? A: metal
+Q: What is the material of placemat: 'rubber' or 'cloth'? A: cloth
+Q: What is the material of tire: 'rubber' or 'tin'? A: rubber
+Q: What is the material of countertop: 'tin' or 'wood'? A: wood
+Q: What is the material of fence: 'paper' or 'metal'? A: metal
+Q: What is the material of cable: 'ceramic' or 'metal'? A: metal
+Q: What is the material of spoon: 'metal' or 'iron'? A: metal
+Q: What is the material of lamp post: 'metal' or 'glass'? A: metal
+Q: What is the material of pant: 'denim' or 'paper'? A: denim
+Q: What is the material of holder: 'tin' or 'metal'? A: metal
+Q: What is the material of rod: 'metal' or 'plastic'? A: metal
+Q: What is the material of light pole: 'metal' or 'cloth'? A: metal
+Q: What is the material of futon: 'cloth' or 'wood'? A: wood
+Q: What is the material of door hinge: 'bronze' or 'metal'? A: metal
+Q: What is the material of base: 'metal' or 'ceramic'? A: metal
+Q: What is the material of goblet: 'ceramic' or 'glass'? A: glass
+Q: What is the material of computer desk: 'bronze' or 'wood'? A: wood
+Q: What is the material of post: 'wood' or 'bronze'? A: wood
+Q: What is the material of walkway: 'paper' or 'concrete'? A: concrete
+Q: What is the material of light: 'cotton' or 'metal'? A: metal
+Q: What is the material of roll: 'paper' or 'gold'? A: paper
+Q: What is the material of leaf: 'denim' or 'gold'? A: gold
+Q: What is the material of grid: 'metal' or 'leather'? A: metal
+Q: What is the material of elephant: 'gold' or 'paper'? A: gold
+Q: What is the material of chandelier: 'glass' or 'tin'? A: glass
+Q: What is the material of pillar: 'tin' or 'concrete'? A: concrete
+Q: What is the material of bucket: 'jade' or 'plastic'? A: plastic
+Q: What is the material of pillow: 'paper' or 'gold'? A: gold
+Q: What is the material of dresser: 'wood' or 'tin'? A: wood
+Q: What is the material of lamp base: 'gold' or 'paper'? A: gold
+Q: What is the material of bedside table: 'ceramic' or 'wood'? A: wood
+Q: What is the material of candlestick: 'gold' or 'rubber'? A: gold
+Q: What is the material of floor lamp: 'metal' or 'wood'? A: metal
+Q: What is the material of paddle: 'wood' or 'denim'? A: wood
+Q: What is the material of park bench: 'wood' or 'glass'? A: wood
+Q: What is the material of block: 'wood' or 'tin'? A: wood
+Q: What is the material of barricade: 'metal' or 'iron'? A: metal
+Q: What is the material of carrier: 'metal' or 'leather'? A: metal
+Q: What is the material of downspout: 'gold' or 'metal'? A: metal
+Q: What is the material of garbage can: 'metal' or 'jade'? A: metal
+Q: What is the material of utility pole: 'denim' or 'wood'? A: wood
+Q: What is the material of board: 'leather' or 'wood'? A: wood
+Q: What is the material of monitor: 'iron' or 'plastic'? A: plastic
+Q: What is the material of cushion: 'metal' or 'leather'? A: leather
+Q: What is the material of sectional: 'jade' or 'leather'? A: leather
+Q: What is the material of podium: 'wood' or 'denim'? A: wood
+Q: What is the material of cart: 'cloth' or 'metal'? A: metal
+Q: What is the material of scarf: 'gold' or 'paper'? A: gold
+Q: What is the material of case: 'glass' or 'stone'? A: glass
+Q: What is the material of decanter: 'glass' or 'iron'? A: glass
+Q: What is the material of blender: 'glass' or 'gold'? A: glass
+Q: What is the material of kitchen table: 'jade' or 'wood'? A: wood
+Q: What is the material of window frame: 'cotton' or 'wood'? A: wood
+Q: What is the material of paneled wall: 'tin' or 'wood'? A: wood
+Q: What is the material of cabinet door: 'tin' or 'wood'? A: wood
+Q: What is the material of part: 'cotton' or 'metal'? A: metal
+Q: What is the material of pipe: 'metal' or 'jade'? A: metal
+Q: What is the material of hand railing: 'leather' or 'metal'? A: metal
+Q: What is the material of guard rail: 'metal' or 'leather'? A: metal
+Q: What is the material of moulding: 'glass' or 'wood'? A: wood
+Q: What is the material of filing cabinet: 'metal' or 'glass'? A: metal
+Q: What is the material of foundation: 'bronze' or 'stone'? A: stone
+Q: What is the material of lettering: 'jade' or 'gold'? A: gold
+Q: What is the material of bannister: 'paper' or 'wood'? A: wood
+Q: What is the material of handrail: 'metal' or 'jade'? A: metal
+Q: What is the material of drawer handle: 'metal' or 'jade'? A: metal
+Q: What is the material of entertainment center: 'metal' or 'wood'? A: wood
+Q: What is the material of bracket: 'jade' or 'metal'? A: metal
+Q: What is the material of tool: 'metal' or 'rubber'? A: metal
+Q: What is the material of island: 'wood' or 'tin'? A: wood
+Q: What is the material of dish: 'concrete' or 'glass'? A: glass
+Q: What is the material of side walk: 'plastic' or 'concrete'? A: concrete
+Q: What is the material of bus: 'concrete' or 'gold'? A: gold
+Q: What is the material of stick: 'wood' or 'ceramic'? A: wood
+Q: What is the material of stake: 'bronze' or 'wood'? A: wood
+Q: What is the material of letter: 'gold' or 'stone'? A: gold
+Q: What is the material of bike: 'cotton' or 'metal'? A: metal
+Q: What is the material of median: 'concrete' or 'ceramic'? A: concrete
+Q: What is the material of bell: 'metal' or 'iron'? A: metal
+Q: What is the material of crate: 'jade' or 'wood'? A: wood
+Q: What is the material of ash tray: 'paper' or 'glass'? A: glass
+Q: What is the material of jar: 'glass' or 'jade'? A: glass
+Q: What is the material of vehicle: 'gold' or 'denim'? A: gold
+Q: What is the material of mulch: 'wood' or 'denim'? A: wood
+Q: What is the material of entryway: 'bronze' or 'stone'? A: stone
+Q: What is the material of covering: 'leather' or 'plastic'? A: plastic
+Q: What is the material of accent: 'gold' or 'denim'? A: gold
+Q: What is the material of figure: 'bronze' or 'ceramic'? A: ceramic
+Q: What is the material of cone: 'plastic' or 'bronze'? A: plastic
+Q: What is the material of bedpost: 'wood' or 'glass'? A: wood
+Q: What is the material of rug: 'metal' or 'gold'? A: gold
+Q: What is the material of church pew: 'leather' or 'wood'? A: wood
+Q: What is the material of stud: 'gold' or 'metal'? A: metal
+Q: What is the material of kitchen sink: 'metal' or 'tin'? A: metal
+Q: What is the material of appliance: 'metal' or 'wood'? A: metal
+Q: What is the material of table leg: 'wood' or 'stone'? A: wood
+Q: What is the material of chair leg: 'metal' or 'gold'? A: metal
+Q: What is the material of curtain rod: 'wood' or 'metal'? A: metal
+Q: What is the material of storage box: 'wood' or 'leather'? A: wood
+Q: What is the material of flagpole: 'metal' or 'paper'? A: metal
+Q: What is the material of white rail: 'iron' or 'metal'? A: metal
+Q: What is the material of saucer: 'ceramic' or 'cloth'? A: ceramic
+Q: What is the material of tip: 'wood' or 'metal'? A: metal
+Q: What is the material of window pane: 'glass' or 'iron'? A: glass
+Q: What is the material of tea kettle: 'metal' or 'gold'? A: metal
+Q: What is the material of skateboard: 'paper' or 'wood'? A: wood
+Q: What is the material of skateboard ramp: 'concrete' or 'iron'? A: concrete
+Q: What is the material of bolt: 'metal' or 'ceramic'? A: metal
+Q: What is the material of debris: 'denim' or 'wood'? A: wood
+Q: What is the material of salt shaker: 'jade' or 'glass'? A: glass
+Q: What is the material of train track: 'metal' or 'iron'? A: metal
+Q: What is the material of tarmac: 'rubber' or 'concrete'? A: concrete
+Q: What is the material of entertainment stand: 'plastic' or 'wood'? A: wood
+Q: What is the material of stall: 'plastic' or 'wood'? A: wood
+Q: What is the material of spring: 'tin' or 'metal'? A: metal
+Q: What is the material of toilet seat: 'plastic' or 'leather'? A: plastic
+Q: What is the material of trash bag: 'wood' or 'plastic'? A: plastic
+Q: What is the material of walker: 'metal' or 'leather'? A: metal
+Q: What is the material of picnic table: 'glass' or 'wood'? A: wood
+Q: What is the material of garbage: 'metal' or 'tin'? A: metal
+Q: What is the material of hubcap: 'ceramic' or 'metal'? A: metal
+Q: What is the material of emblem: 'cloth' or 'gold'? A: gold
+Q: What is the material of bunkbed: 'denim' or 'wood'? A: wood
+Q: What is the material of saddle: 'leather' or 'ceramic'? A: leather
+Q: What is the material of harness: 'cloth' or 'leather'? A: leather
+Q: What is the material of overhang: 'metal' or 'tin'? A: metal
+Q: What is the material of bead: 'plastic' or 'paper'? A: plastic
+Q: What is the material of package: 'glass' or 'plastic'? A: plastic
+Q: What is the material of book case: 'wood' or 'denim'? A: wood
+Q: What is the material of carving: 'wood' or 'ceramic'? A: wood
+Q: What is the material of paver: 'ceramic' or 'stone'? A: stone
+Q: What is the material of wine rack: 'cotton' or 'wood'? A: wood
+Q: What is the material of bedspread: 'gold' or 'jade'? A: gold
+Q: What is the material of dumpster: 'gold' or 'metal'? A: metal
+Q: What is the material of bangle: 'gold' or 'tin'? A: gold
+Q: What is the material of spatula: 'glass' or 'metal'? A: metal
+Q: What is the material of sunglass: 'plastic' or 'leather'? A: plastic
+Q: What is the material of pizza cutter: 'metal' or 'plastic'? A: metal
+Q: What is the material of clocktower: 'bronze' or 'stone'? A: stone
+Q: What is the material of table lamp: 'metal' or 'paper'? A: metal
+Q: What is the material of background: 'iron' or 'wood'? A: wood
+Q: What is the material of napkin holder: 'metal' or 'glass'? A: metal
+Q: What is the material of place mat: 'paper' or 'glass'? A: paper
+Q: What is the material of head board: 'denim' or 'wood'? A: wood
+Q: What is the material of dining chair: 'wood' or 'denim'? A: wood
+Q: What is the material of patch: 'gold' or 'iron'? A: gold
+Q: What is the material of pizza pan: 'stone' or 'metal'? A: metal
+Q: What is the material of detail: 'gold' or 'metal'? A: gold
+Q: What is the material of uniform: 'gold' or 'cotton'? A: gold
+Q: What is the material of end: 'metal' or 'ceramic'? A: metal
+Q: What is the material of toilet tank: 'ceramic' or 'metal'? A: ceramic
+Q: What is the material of mitt: 'cotton' or 'leather'? A: leather
+Q: What is the material of pack: 'paper' or 'wood'? A: paper
+Q: What is the material of towel rack: 'rubber' or 'metal'? A: metal
+Q: What is the material of chair back: 'wood' or 'glass'? A: wood
+Q: What is the material of bird cage: 'concrete' or 'metal'? A: metal
+Q: What is the material of guitar: 'glass' or 'wood'? A: wood
+Q: What is the material of owl: 'glass' or 'ceramic'? A: ceramic
+Q: What is the material of coil: 'metal' or 'tin'? A: metal
+Q: What is the material of cloth: 'gold' or 'bronze'? A: gold
+Q: What is the material of dinosaur: 'cloth' or 'plastic'? A: plastic
+Q: What is the material of thing: 'plastic' or 'ceramic'? A: plastic
+Q: What is the material of window sill: 'paper' or 'wood'? A: wood
+Q: What is the material of petal: 'cotton' or 'glass'? A: glass
+Q: What is the material of sheep: 'stone' or 'plastic'? A: plastic
+Q: What is the material of shower: 'gold' or 'glass'? A: glass
+Q: What is the material of cord: 'glass' or 'plastic'? A: plastic
+Q: What is the material of bed spread: 'gold' or 'iron'? A: gold
+Q: What is the material of bed post: 'wood' or 'metal'? A: wood
+Q: What is the material of shield: 'glass' or 'tin'? A: glass
+Q: What is the material of swing: 'paper' or 'wood'? A: wood
+Q: What is the material of animal: 'iron' or 'plastic'? A: plastic
+Q: What is the material of soap: 'plastic' or 'rubber'? A: plastic
+Q: What is the material of ice bucket: 'metal' or 'leather'? A: metal
+Q: What is the material of clock face: 'gold' or 'leather'? A: gold
+Q: What is the material of giraffe: 'plastic' or 'metal'? A: metal
+Q: What is the material of sippy cup: 'denim' or 'plastic'? A: plastic
+Q: What is the material of baking pan: 'metal' or 'gold'? A: metal
+Q: What is the material of room: 'wood' or 'tin'? A: wood
+Q: What is the material of name: 'cotton' or 'gold'? A: gold
+Q: What is the material of lining: 'rubber' or 'plastic'? A: plastic
+Q: What is the material of wiper: 'cotton' or 'metal'? A: metal
+Q: What is the material of truss: 'concrete' or 'iron'? A: concrete
+Q: What is the material of bunk bed: 'gold' or 'wood'? A: wood
+Q: What is the material of crib: 'wood' or 'rubber'? A: wood
+Q: What is the material of grandfather clock: 'cotton' or 'wood'? A: wood
+Q: What is the material of floor board: 'wood' or 'metal'? A: wood
+Q: What is the material of fabric: 'gold' or 'metal'? A: gold
+Q: What is the material of feeder: 'ceramic' or 'metal'? A: metal
+Q: What is the material of penny: 'bronze' or 'concrete'? A: bronze
+Q: What is the material of gas cap: 'metal' or 'rubber'? A: metal
+Q: What is the material of broom: 'concrete' or 'wood'? A: wood
+Q: What is the material of toothpick: 'wood' or 'bronze'? A: wood
+Q: What is the material of roller: 'leather' or 'gold'? A: gold
+Q: What is the material of water tower: 'metal' or 'cloth'? A: metal
+Q: What is the material of paper dispenser: 'metal' or 'leather'? A: metal
+Q: What is the material of egg: 'gold' or 'cotton'? A: gold
+Q: What is the material of wedding band: 'stone' or 'gold'? A: gold
+Q: What is the material of axle: 'metal' or 'denim'? A: metal
+Q: What is the material of lounge chair: 'wood' or 'ceramic'? A: wood
+Q: What is the material of windscreen: 'metal' or 'glass'? A: glass
+Q: What is the material of exhaust pipe: 'ceramic' or 'metal'? A: metal
+Q: What is the material of mit: 'gold' or 'leather'? A: leather
+Q: What is the material of drive: 'iron' or 'concrete'? A: concrete
+Q: What is the material of tail pipe: 'metal' or 'stone'? A: metal
+Q: What is the material of sheeting: 'concrete' or 'plastic'? A: plastic
+Q: What is the material of panel wall: 'ceramic' or 'wood'? A: wood
+Q: What is the material of court: 'tin' or 'concrete'? A: concrete
+Q: What is the material of sky: 'ceramic' or 'gold'? A: gold
+Q: What is the material of medical stick: 'wood' or 'paper'? A: wood
+Q: What is the material of note: 'wood' or 'paper'? A: paper
+Q: What is the material of shape: 'gold' or 'metal'? A: gold
+Q: What is the material of section: 'concrete' or 'denim'? A: concrete
+Q: What is the material of toilet bowl: 'metal' or 'ceramic'? A: ceramic
+Q: What is the material of baseball helmet: 'gold' or 'plastic'? A: plastic
+Q: What is the material of metal: 'concrete' or 'bronze'? A: bronze
+Q: What is the material of sun: 'plastic' or 'gold'? A: gold
+Q: What is the material of muffler: 'metal' or 'stone'? A: metal
+Q: What is the material of hoop: 'gold' or 'metal'? A: metal
+Q: What is the material of tennis court: 'concrete' or 'jade'? A: concrete
+Q: What is the material of street pole: 'metal' or 'rubber'? A: metal
+Q: What is the material of wall paper: 'gold' or 'plastic'? A: gold
+Q: What is the material of cement: 'concrete' or 'ceramic'? A: concrete
+Q: What is the material of yoke: 'metal' or 'wood'? A: wood
+Q: What is the material of toilet lid: 'plastic' or 'concrete'? A: plastic
+Q: What is the material of concrete: 'stone' or 'ceramic'? A: stone
+Q: What is the material of white door: 'wood' or 'tin'? A: wood
+Q: What is the material of luggage container: 'metal' or 'cotton'? A: metal
+Q: What is the material of safety railing: 'rubber' or 'metal'? A: metal
+Q: What is the material of shadow: 'glass' or 'bronze'? A: glass
+Q: What is the material of satchel: 'leather' or 'wood'? A: leather
+Q: What is the material of grip: 'stone' or 'metal'? A: metal
+Q: What is the material of cave: 'stone' or 'bronze'? A: stone
+Q: What is the material of cake: 'gold' or 'glass'? A: gold
+Q: What is the material of chain link: 'plastic' or 'metal'? A: metal
+Q: What is the material of pepper grinder: 'wood' or 'rubber'? A: wood
+Q: What is the material of footer: 'concrete' or 'bronze'? A: concrete
+Q: What is the material of boarder: 'gold' or 'denim'? A: gold
+Q: What is the material of baseball mitt: 'plastic' or 'leather'? A: leather
+Q: What is the material of tee shirt: 'concrete' or 'cotton'? A: cotton
+Q: What is the material of toilet handle: 'leather' or 'metal'? A: metal
+Q: What is the material of doily: 'paper' or 'cotton'? A: paper
+Q: What is the material of framed picture: 'gold' or 'tin'? A: gold
+Q: What is the material of shaving: 'iron' or 'wood'? A: wood
+Q: What is the material of scrollwork: 'metal' or 'jade'? A: metal
+Q: What is the material of skewer: 'wood' or 'leather'? A: wood
+Q: What is the material of pendant: 'ceramic' or 'gold'? A: gold
+Q: What is the material of aquarium: 'glass' or 'stone'? A: glass
+Q: What is the material of badge: 'rubber' or 'gold'? A: gold
+Q: What is the material of flatbed: 'metal' or 'leather'? A: metal
+Q: What is the material of controller: 'stone' or 'plastic'? A: plastic
+Q: What is the material of desk top: 'wood' or 'gold'? A: wood
+Q: What is the material of rubber ducky: 'bronze' or 'plastic'? A: plastic
+Q: What is the material of brown bag: 'paper' or 'concrete'? A: paper
+Q: What is the material of table surface: 'glass' or 'wood'? A: wood
+Q: What is the material of playground: 'wood' or 'iron'? A: wood
+Q: What is the material of pocket book: 'jade' or 'leather'? A: leather
+Q: What is the material of mold: 'wood' or 'bronze'? A: bronze
+Q: What is the material of framed window: 'wood' or 'iron'? A: wood
+Q: What is the material of black pole: 'rubber' or 'metal'? A: metal
+Q: What is the material of pump: 'plastic' or 'cloth'? A: plastic
+Q: What is the material of oven knob: 'iron' or 'metal'? A: metal
+Q: What is the material of brake: 'stone' or 'metal'? A: metal
+Q: What is the material of chock: 'leather' or 'wood'? A: wood
+Q: What is the material of s: 'rubber' or 'gold'? A: gold
+Q: What is the material of mark: 'bronze' or 'gold'? A: gold
+Q: What is the material of sleeper: 'rubber' or 'wood'? A: wood
+Q: What is the material of chair slat: 'cloth' or 'wood'? A: wood
+Q: What is the material of sundae dish: 'glass' or 'plastic'? A: glass
+Q: What is the material of hendge: 'concrete' or 'metal'? A: metal
+Q: What is the material of hand ring: 'plastic' or 'jade'? A: plastic
+Q: What is the material of banister slat: 'wood' or 'iron'? A: wood
+Q: What is the material of art piece: 'glass' or 'bronze'? A: glass

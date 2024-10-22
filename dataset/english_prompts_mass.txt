@@ -1,0 +1,654 @@
+Q: Is 'red lego brick' heavier than 'hammer'? A: No
+Q: Is 'red lego brick' heavier than 'big bowl'? A: No
+Q: Is 'red lego brick' heavier than 'big elephant toy'? A: No
+Q: Is 'red lego brick' heavier than 'hair dryer'? A: No
+Q: Is 'red lego brick' heavier than 'dali clock'? A: No
+Q: Is 'red lego brick' heavier than 'umbrella'? A: No
+Q: Is 'red lego brick' heavier than 'pillow'? A: No
+Q: Is 'red lego brick' heavier than 'keyboard'? A: No
+Q: Is 'red lego brick' heavier than 'toaster'? A: No
+Q: Is 'red lego brick' heavier than 'drill'? A: No
+Q: Is 'green lego brick' heavier than 'hammer'? A: No
+Q: Is 'green lego brick' heavier than 'big bowl'? A: No
+Q: Is 'green lego brick' heavier than 'big elephant toy'? A: No
+Q: Is 'green lego brick' heavier than 'hair dryer'? A: No
+Q: Is 'green lego brick' heavier than 'dali clock'? A: No
+Q: Is 'green lego brick' heavier than 'umbrella'? A: No
+Q: Is 'green lego brick' heavier than 'pillow'? A: No
+Q: Is 'green lego brick' heavier than 'keyboard'? A: No
+Q: Is 'green lego brick' heavier than 'toaster'? A: No
+Q: Is 'green lego brick' heavier than 'drill'? A: No
+Q: Is 'safety razer' heavier than 'big bowl'? A: No
+Q: Is 'safety razer' heavier than 'big elephant toy'? A: No
+Q: Is 'safety razer' heavier than 'hair dryer'? A: No
+Q: Is 'safety razer' heavier than 'dali clock'? A: No
+Q: Is 'safety razer' heavier than 'umbrella'? A: No
+Q: Is 'safety razer' heavier than 'pillow'? A: No
+Q: Is 'safety razer' heavier than 'keyboard'? A: No
+Q: Is 'safety razer' heavier than 'toaster'? A: No
+Q: Is 'safety razer' heavier than 'drill'? A: No
+Q: Is 'back scratcher' heavier than 'big bowl'? A: No
+Q: Is 'back scratcher' heavier than 'big elephant toy'? A: No
+Q: Is 'back scratcher' heavier than 'hair dryer'? A: No
+Q: Is 'back scratcher' heavier than 'dali clock'? A: No
+Q: Is 'back scratcher' heavier than 'umbrella'? A: No
+Q: Is 'back scratcher' heavier than 'pillow'? A: No
+Q: Is 'back scratcher' heavier than 'keyboard'? A: No
+Q: Is 'back scratcher' heavier than 'toaster'? A: No
+Q: Is 'back scratcher' heavier than 'drill'? A: No
+Q: Is 'little stapler' heavier than 'big bowl'? A: No
+Q: Is 'little stapler' heavier than 'big elephant toy'? A: No
+Q: Is 'little stapler' heavier than 'hair dryer'? A: No
+Q: Is 'little stapler' heavier than 'dali clock'? A: No
+Q: Is 'little stapler' heavier than 'umbrella'? A: No
+Q: Is 'little stapler' heavier than 'pillow'? A: No
+Q: Is 'little stapler' heavier than 'keyboard'? A: No
+Q: Is 'little stapler' heavier than 'toaster'? A: No
+Q: Is 'little stapler' heavier than 'drill'? A: No
+Q: Is 'presentaiton remote' heavier than 'big bowl'? A: No
+Q: Is 'presentaiton remote' heavier than 'big elephant toy'? A: No
+Q: Is 'presentaiton remote' heavier than 'hair dryer'? A: No
+Q: Is 'presentaiton remote' heavier than 'dali clock'? A: No
+Q: Is 'presentaiton remote' heavier than 'umbrella'? A: No
+Q: Is 'presentaiton remote' heavier than 'pillow'? A: No
+Q: Is 'presentaiton remote' heavier than 'keyboard'? A: No
+Q: Is 'presentaiton remote' heavier than 'toaster'? A: No
+Q: Is 'presentaiton remote' heavier than 'drill'? A: No
+Q: Is 'wooden train track' heavier than 'big bowl'? A: No
+Q: Is 'wooden train track' heavier than 'big elephant toy'? A: No
+Q: Is 'wooden train track' heavier than 'hair dryer'? A: No
+Q: Is 'wooden train track' heavier than 'dali clock'? A: No
+Q: Is 'wooden train track' heavier than 'umbrella'? A: No
+Q: Is 'wooden train track' heavier than 'pillow'? A: No
+Q: Is 'wooden train track' heavier than 'keyboard'? A: No
+Q: Is 'wooden train track' heavier than 'toaster'? A: No
+Q: Is 'wooden train track' heavier than 'drill'? A: No
+Q: Is 'wooden spoon' heavier than 'big bowl'? A: No
+Q: Is 'wooden spoon' heavier than 'big elephant toy'? A: No
+Q: Is 'wooden spoon' heavier than 'hair dryer'? A: No
+Q: Is 'wooden spoon' heavier than 'dali clock'? A: No
+Q: Is 'wooden spoon' heavier than 'umbrella'? A: No
+Q: Is 'wooden spoon' heavier than 'pillow'? A: No
+Q: Is 'wooden spoon' heavier than 'keyboard'? A: No
+Q: Is 'wooden spoon' heavier than 'toaster'? A: No
+Q: Is 'wooden spoon' heavier than 'drill'? A: No
+Q: Is 'chip clip' heavier than 'big bowl'? A: No
+Q: Is 'chip clip' heavier than 'big elephant toy'? A: No
+Q: Is 'chip clip' heavier than 'hair dryer'? A: No
+Q: Is 'chip clip' heavier than 'dali clock'? A: No
+Q: Is 'chip clip' heavier than 'umbrella'? A: No
+Q: Is 'chip clip' heavier than 'pillow'? A: No
+Q: Is 'chip clip' heavier than 'keyboard'? A: No
+Q: Is 'chip clip' heavier than 'toaster'? A: No
+Q: Is 'chip clip' heavier than 'drill'? A: No
+Q: Is 'rope bundle' heavier than 'big bowl'? A: No
+Q: Is 'rope bundle' heavier than 'big elephant toy'? A: No
+Q: Is 'rope bundle' heavier than 'hair dryer'? A: No
+Q: Is 'rope bundle' heavier than 'dali clock'? A: No
+Q: Is 'rope bundle' heavier than 'umbrella'? A: No
+Q: Is 'rope bundle' heavier than 'pillow'? A: No
+Q: Is 'rope bundle' heavier than 'keyboard'? A: No
+Q: Is 'rope bundle' heavier than 'toaster'? A: No
+Q: Is 'rope bundle' heavier than 'drill'? A: No
+Q: Is 'google cardboard' heavier than 'big bowl'? A: No
+Q: Is 'google cardboard' heavier than 'big elephant toy'? A: No
+Q: Is 'google cardboard' heavier than 'hair dryer'? A: No
+Q: Is 'google cardboard' heavier than 'dali clock'? A: No
+Q: Is 'google cardboard' heavier than 'umbrella'? A: No
+Q: Is 'google cardboard' heavier than 'pillow'? A: No
+Q: Is 'google cardboard' heavier than 'keyboard'? A: No
+Q: Is 'google cardboard' heavier than 'toaster'? A: No
+Q: Is 'google cardboard' heavier than 'drill'? A: No
+Q: Is 'baby shoe' heavier than 'big bowl'? A: No
+Q: Is 'baby shoe' heavier than 'big elephant toy'? A: No
+Q: Is 'baby shoe' heavier than 'hair dryer'? A: No
+Q: Is 'baby shoe' heavier than 'dali clock'? A: No
+Q: Is 'baby shoe' heavier than 'umbrella'? A: No
+Q: Is 'baby shoe' heavier than 'pillow'? A: No
+Q: Is 'baby shoe' heavier than 'keyboard'? A: No
+Q: Is 'baby shoe' heavier than 'toaster'? A: No
+Q: Is 'baby shoe' heavier than 'drill'? A: No
+Q: Is '15 puzzle' heavier than 'big bowl'? A: No
+Q: Is '15 puzzle' heavier than 'big elephant toy'? A: No
+Q: Is '15 puzzle' heavier than 'hair dryer'? A: No
+Q: Is '15 puzzle' heavier than 'dali clock'? A: No
+Q: Is '15 puzzle' heavier than 'umbrella'? A: No
+Q: Is '15 puzzle' heavier than 'pillow'? A: No
+Q: Is '15 puzzle' heavier than 'keyboard'? A: No
+Q: Is '15 puzzle' heavier than 'toaster'? A: No
+Q: Is '15 puzzle' heavier than 'drill'? A: No
+Q: Is 'lighter' heavier than 'big bowl'? A: No
+Q: Is 'lighter' heavier than 'big elephant toy'? A: No
+Q: Is 'lighter' heavier than 'hair dryer'? A: No
+Q: Is 'lighter' heavier than 'dali clock'? A: No
+Q: Is 'lighter' heavier than 'umbrella'? A: No
+Q: Is 'lighter' heavier than 'pillow'? A: No
+Q: Is 'lighter' heavier than 'keyboard'? A: No
+Q: Is 'lighter' heavier than 'toaster'? A: No
+Q: Is 'lighter' heavier than 'drill'? A: No
+Q: Is 'twine' heavier than 'big bowl'? A: No
+Q: Is 'twine' heavier than 'big elephant toy'? A: No
+Q: Is 'twine' heavier than 'hair dryer'? A: No
+Q: Is 'twine' heavier than 'dali clock'? A: No
+Q: Is 'twine' heavier than 'umbrella'? A: No
+Q: Is 'twine' heavier than 'pillow'? A: No
+Q: Is 'twine' heavier than 'keyboard'? A: No
+Q: Is 'twine' heavier than 'toaster'? A: No
+Q: Is 'twine' heavier than 'drill'? A: No
+Q: Is 'hat' heavier than 'big bowl'? A: No
+Q: Is 'hat' heavier than 'big elephant toy'? A: No
+Q: Is 'hat' heavier than 'hair dryer'? A: No
+Q: Is 'hat' heavier than 'dali clock'? A: No
+Q: Is 'hat' heavier than 'umbrella'? A: No
+Q: Is 'hat' heavier than 'pillow'? A: No
+Q: Is 'hat' heavier than 'keyboard'? A: No
+Q: Is 'hat' heavier than 'toaster'? A: No
+Q: Is 'hat' heavier than 'drill'? A: No
+Q: Is 'kitchen knife' heavier than 'big bowl'? A: No
+Q: Is 'kitchen knife' heavier than 'big elephant toy'? A: No
+Q: Is 'kitchen knife' heavier than 'hair dryer'? A: No
+Q: Is 'kitchen knife' heavier than 'dali clock'? A: No
+Q: Is 'kitchen knife' heavier than 'umbrella'? A: No
+Q: Is 'kitchen knife' heavier than 'pillow'? A: No
+Q: Is 'kitchen knife' heavier than 'keyboard'? A: No
+Q: Is 'kitchen knife' heavier than 'toaster'? A: No
+Q: Is 'kitchen knife' heavier than 'drill'? A: No
+Q: Is 'screwdriver' heavier than 'big bowl'? A: No
+Q: Is 'screwdriver' heavier than 'big elephant toy'? A: No
+Q: Is 'screwdriver' heavier than 'hair dryer'? A: No
+Q: Is 'screwdriver' heavier than 'dali clock'? A: No
+Q: Is 'screwdriver' heavier than 'umbrella'? A: No
+Q: Is 'screwdriver' heavier than 'pillow'? A: No
+Q: Is 'screwdriver' heavier than 'keyboard'? A: No
+Q: Is 'screwdriver' heavier than 'toaster'? A: No
+Q: Is 'screwdriver' heavier than 'drill'? A: No
+Q: Is 'bar of soap' heavier than 'big bowl'? A: No
+Q: Is 'bar of soap' heavier than 'big elephant toy'? A: No
+Q: Is 'bar of soap' heavier than 'hair dryer'? A: No
+Q: Is 'bar of soap' heavier than 'dali clock'? A: No
+Q: Is 'bar of soap' heavier than 'umbrella'? A: No
+Q: Is 'bar of soap' heavier than 'pillow'? A: No
+Q: Is 'bar of soap' heavier than 'keyboard'? A: No
+Q: Is 'bar of soap' heavier than 'toaster'? A: No
+Q: Is 'bar of soap' heavier than 'drill'? A: No
+Q: Is 'view master' heavier than 'big elephant toy'? A: No
+Q: Is 'view master' heavier than 'hair dryer'? A: No
+Q: Is 'view master' heavier than 'dali clock'? A: No
+Q: Is 'view master' heavier than 'umbrella'? A: No
+Q: Is 'view master' heavier than 'pillow'? A: No
+Q: Is 'view master' heavier than 'keyboard'? A: No
+Q: Is 'view master' heavier than 'toaster'? A: No
+Q: Is 'view master' heavier than 'drill'? A: No
+Q: Is 'box of soap' heavier than 'big elephant toy'? A: No
+Q: Is 'box of soap' heavier than 'hair dryer'? A: No
+Q: Is 'box of soap' heavier than 'dali clock'? A: No
+Q: Is 'box of soap' heavier than 'umbrella'? A: No
+Q: Is 'box of soap' heavier than 'pillow'? A: No
+Q: Is 'box of soap' heavier than 'keyboard'? A: No
+Q: Is 'box of soap' heavier than 'toaster'? A: No
+Q: Is 'box of soap' heavier than 'drill'? A: No
+Q: Is 'bottle brush' heavier than 'big elephant toy'? A: No
+Q: Is 'bottle brush' heavier than 'hair dryer'? A: No
+Q: Is 'bottle brush' heavier than 'dali clock'? A: No
+Q: Is 'bottle brush' heavier than 'umbrella'? A: No
+Q: Is 'bottle brush' heavier than 'pillow'? A: No
+Q: Is 'bottle brush' heavier than 'keyboard'? A: No
+Q: Is 'bottle brush' heavier than 'toaster'? A: No
+Q: Is 'bottle brush' heavier than 'drill'? A: No
+Q: Is 'ivan's phone' heavier than 'hair dryer'? A: No
+Q: Is 'ivan's phone' heavier than 'dali clock'? A: No
+Q: Is 'ivan's phone' heavier than 'umbrella'? A: No
+Q: Is 'ivan's phone' heavier than 'pillow'? A: No
+Q: Is 'ivan's phone' heavier than 'keyboard'? A: No
+Q: Is 'ivan's phone' heavier than 'toaster'? A: No
+Q: Is 'ivan's phone' heavier than 'drill'? A: No
+Q: Is 'ollie the monkey' heavier than 'hair dryer'? A: No
+Q: Is 'ollie the monkey' heavier than 'dali clock'? A: No
+Q: Is 'ollie the monkey' heavier than 'umbrella'? A: No
+Q: Is 'ollie the monkey' heavier than 'pillow'? A: No
+Q: Is 'ollie the monkey' heavier than 'keyboard'? A: No
+Q: Is 'ollie the monkey' heavier than 'toaster'? A: No
+Q: Is 'ollie the monkey' heavier than 'drill'? A: No
+Q: Is 'mouse' heavier than 'hair dryer'? A: No
+Q: Is 'mouse' heavier than 'dali clock'? A: No
+Q: Is 'mouse' heavier than 'umbrella'? A: No
+Q: Is 'mouse' heavier than 'pillow'? A: No
+Q: Is 'mouse' heavier than 'keyboard'? A: No
+Q: Is 'mouse' heavier than 'toaster'? A: No
+Q: Is 'mouse' heavier than 'drill'? A: No
+Q: Is 'small bowl' heavier than 'dali clock'? A: No
+Q: Is 'small bowl' heavier than 'umbrella'? A: No
+Q: Is 'small bowl' heavier than 'pillow'? A: No
+Q: Is 'small bowl' heavier than 'keyboard'? A: No
+Q: Is 'small bowl' heavier than 'toaster'? A: No
+Q: Is 'small bowl' heavier than 'drill'? A: No
+Q: Is 'toy airplane' heavier than 'dali clock'? A: No
+Q: Is 'toy airplane' heavier than 'umbrella'? A: No
+Q: Is 'toy airplane' heavier than 'pillow'? A: No
+Q: Is 'toy airplane' heavier than 'keyboard'? A: No
+Q: Is 'toy airplane' heavier than 'toaster'? A: No
+Q: Is 'toy airplane' heavier than 'drill'? A: No
+Q: Is 'airplane clock' heavier than 'dali clock'? A: No
+Q: Is 'airplane clock' heavier than 'umbrella'? A: No
+Q: Is 'airplane clock' heavier than 'pillow'? A: No
+Q: Is 'airplane clock' heavier than 'keyboard'? A: No
+Q: Is 'airplane clock' heavier than 'toaster'? A: No
+Q: Is 'airplane clock' heavier than 'drill'? A: No
+Q: Is 'big stapler' heavier than 'dali clock'? A: No
+Q: Is 'big stapler' heavier than 'umbrella'? A: No
+Q: Is 'big stapler' heavier than 'pillow'? A: No
+Q: Is 'big stapler' heavier than 'keyboard'? A: No
+Q: Is 'big stapler' heavier than 'toaster'? A: No
+Q: Is 'big stapler' heavier than 'drill'? A: No
+Q: Is 'plate' heavier than 'umbrella'? A: No
+Q: Is 'plate' heavier than 'pillow'? A: No
+Q: Is 'plate' heavier than 'keyboard'? A: No
+Q: Is 'plate' heavier than 'toaster'? A: No
+Q: Is 'plate' heavier than 'drill'? A: No
+Q: Is 'boy doll' heavier than 'umbrella'? A: No
+Q: Is 'boy doll' heavier than 'pillow'? A: No
+Q: Is 'boy doll' heavier than 'keyboard'? A: No
+Q: Is 'boy doll' heavier than 'toaster'? A: No
+Q: Is 'boy doll' heavier than 'drill'? A: No
+Q: Is 'can opener' heavier than 'umbrella'? A: No
+Q: Is 'can opener' heavier than 'pillow'? A: No
+Q: Is 'can opener' heavier than 'keyboard'? A: No
+Q: Is 'can opener' heavier than 'toaster'? A: No
+Q: Is 'can opener' heavier than 'drill'? A: No
+Q: Is 'hose splitter' heavier than 'umbrella'? A: No
+Q: Is 'hose splitter' heavier than 'pillow'? A: No
+Q: Is 'hose splitter' heavier than 'keyboard'? A: No
+Q: Is 'hose splitter' heavier than 'toaster'? A: No
+Q: Is 'hose splitter' heavier than 'drill'? A: No
+Q: Is 'headphones' heavier than 'umbrella'? A: No
+Q: Is 'headphones' heavier than 'pillow'? A: No
+Q: Is 'headphones' heavier than 'keyboard'? A: No
+Q: Is 'headphones' heavier than 'toaster'? A: No
+Q: Is 'headphones' heavier than 'drill'? A: No
+Q: Is 'tv remote' heavier than 'umbrella'? A: No
+Q: Is 'tv remote' heavier than 'pillow'? A: No
+Q: Is 'tv remote' heavier than 'keyboard'? A: No
+Q: Is 'tv remote' heavier than 'toaster'? A: No
+Q: Is 'tv remote' heavier than 'drill'? A: No
+Q: Is 'tape measure' heavier than 'umbrella'? A: No
+Q: Is 'tape measure' heavier than 'pillow'? A: No
+Q: Is 'tape measure' heavier than 'keyboard'? A: No
+Q: Is 'tape measure' heavier than 'toaster'? A: No
+Q: Is 'tape measure' heavier than 'drill'? A: No
+Q: Is 'dust pan' heavier than 'umbrella'? A: No
+Q: Is 'dust pan' heavier than 'pillow'? A: No
+Q: Is 'dust pan' heavier than 'keyboard'? A: No
+Q: Is 'dust pan' heavier than 'toaster'? A: No
+Q: Is 'dust pan' heavier than 'drill'? A: No
+Q: Is 'sun chips' heavier than 'pillow'? A: No
+Q: Is 'sun chips' heavier than 'keyboard'? A: No
+Q: Is 'sun chips' heavier than 'toaster'? A: No
+Q: Is 'sun chips' heavier than 'drill'? A: No
+Q: Is 'marshy the elephant' heavier than 'pillow'? A: No
+Q: Is 'marshy the elephant' heavier than 'keyboard'? A: No
+Q: Is 'marshy the elephant' heavier than 'toaster'? A: No
+Q: Is 'marshy the elephant' heavier than 'drill'? A: No
+Q: Is 'pliers' heavier than 'pillow'? A: No
+Q: Is 'pliers' heavier than 'keyboard'? A: No
+Q: Is 'pliers' heavier than 'toaster'? A: No
+Q: Is 'pliers' heavier than 'drill'? A: No
+Q: Is 'swiss army knife' heavier than 'pillow'? A: No
+Q: Is 'swiss army knife' heavier than 'keyboard'? A: No
+Q: Is 'swiss army knife' heavier than 'toaster'? A: No
+Q: Is 'swiss army knife' heavier than 'drill'? A: No
+Q: Is 'block' heavier than 'pillow'? A: No
+Q: Is 'block' heavier than 'keyboard'? A: No
+Q: Is 'block' heavier than 'toaster'? A: No
+Q: Is 'block' heavier than 'drill'? A: No
+Q: Is 'small elephant toy' heavier than 'pillow'? A: No
+Q: Is 'small elephant toy' heavier than 'keyboard'? A: No
+Q: Is 'small elephant toy' heavier than 'toaster'? A: No
+Q: Is 'small elephant toy' heavier than 'drill'? A: No
+Q: Is 'gardening shears' heavier than 'keyboard'? A: No
+Q: Is 'gardening shears' heavier than 'toaster'? A: No
+Q: Is 'gardening shears' heavier than 'drill'? A: No
+Q: Is 'disk drive' heavier than 'keyboard'? A: No
+Q: Is 'disk drive' heavier than 'toaster'? A: No
+Q: Is 'disk drive' heavier than 'drill'? A: No
+Q: Is 'neck pillow' heavier than 'keyboard'? A: No
+Q: Is 'neck pillow' heavier than 'toaster'? A: No
+Q: Is 'neck pillow' heavier than 'drill'? A: No
+Q: Is 'hammer' heavier than 'red lego brick'? A: Yes
+Q: Is 'hammer' heavier than 'green lego brick'? A: Yes
+Q: Is 'hammer' heavier than 'toaster'? A: No
+Q: Is 'hammer' heavier than 'drill'? A: No
+Q: Is 'big bowl' heavier than 'red lego brick'? A: Yes
+Q: Is 'big bowl' heavier than 'green lego brick'? A: Yes
+Q: Is 'big bowl' heavier than 'safety razer'? A: Yes
+Q: Is 'big bowl' heavier than 'back scratcher'? A: Yes
+Q: Is 'big bowl' heavier than 'little stapler'? A: Yes
+Q: Is 'big bowl' heavier than 'presentaiton remote'? A: Yes
+Q: Is 'big bowl' heavier than 'wooden train track'? A: Yes
+Q: Is 'big bowl' heavier than 'wooden spoon'? A: Yes
+Q: Is 'big bowl' heavier than 'chip clip'? A: Yes
+Q: Is 'big bowl' heavier than 'rope bundle'? A: Yes
+Q: Is 'big bowl' heavier than 'google cardboard'? A: Yes
+Q: Is 'big bowl' heavier than 'baby shoe'? A: Yes
+Q: Is 'big bowl' heavier than '15 puzzle'? A: Yes
+Q: Is 'big bowl' heavier than 'lighter'? A: Yes
+Q: Is 'big bowl' heavier than 'twine'? A: Yes
+Q: Is 'big bowl' heavier than 'hat'? A: Yes
+Q: Is 'big bowl' heavier than 'kitchen knife'? A: Yes
+Q: Is 'big bowl' heavier than 'screwdriver'? A: Yes
+Q: Is 'big bowl' heavier than 'bar of soap'? A: Yes
+Q: Is 'big bowl' heavier than 'toaster'? A: No
+Q: Is 'big bowl' heavier than 'drill'? A: No
+Q: Is 'big elephant toy' heavier than 'red lego brick'? A: Yes
+Q: Is 'big elephant toy' heavier than 'green lego brick'? A: Yes
+Q: Is 'big elephant toy' heavier than 'safety razer'? A: Yes
+Q: Is 'big elephant toy' heavier than 'back scratcher'? A: Yes
+Q: Is 'big elephant toy' heavier than 'little stapler'? A: Yes
+Q: Is 'big elephant toy' heavier than 'presentaiton remote'? A: Yes
+Q: Is 'big elephant toy' heavier than 'wooden train track'? A: Yes
+Q: Is 'big elephant toy' heavier than 'wooden spoon'? A: Yes
+Q: Is 'big elephant toy' heavier than 'chip clip'? A: Yes
+Q: Is 'big elephant toy' heavier than 'rope bundle'? A: Yes
+Q: Is 'big elephant toy' heavier than 'google cardboard'? A: Yes
+Q: Is 'big elephant toy' heavier than 'baby shoe'? A: Yes
+Q: Is 'big elephant toy' heavier than '15 puzzle'? A: Yes
+Q: Is 'big elephant toy' heavier than 'lighter'? A: Yes
+Q: Is 'big elephant toy' heavier than 'twine'? A: Yes
+Q: Is 'big elephant toy' heavier than 'hat'? A: Yes
+Q: Is 'big elephant toy' heavier than 'kitchen knife'? A: Yes
+Q: Is 'big elephant toy' heavier than 'screwdriver'? A: Yes
+Q: Is 'big elephant toy' heavier than 'bar of soap'? A: Yes
+Q: Is 'big elephant toy' heavier than 'view master'? A: Yes
+Q: Is 'big elephant toy' heavier than 'box of soap'? A: Yes
+Q: Is 'big elephant toy' heavier than 'bottle brush'? A: Yes
+Q: Is 'big elephant toy' heavier than 'toaster'? A: No
+Q: Is 'big elephant toy' heavier than 'drill'? A: No
+Q: Is 'hair dryer' heavier than 'red lego brick'? A: Yes
+Q: Is 'hair dryer' heavier than 'green lego brick'? A: Yes
+Q: Is 'hair dryer' heavier than 'safety razer'? A: Yes
+Q: Is 'hair dryer' heavier than 'back scratcher'? A: Yes
+Q: Is 'hair dryer' heavier than 'little stapler'? A: Yes
+Q: Is 'hair dryer' heavier than 'presentaiton remote'? A: Yes
+Q: Is 'hair dryer' heavier than 'wooden train track'? A: Yes
+Q: Is 'hair dryer' heavier than 'wooden spoon'? A: Yes
+Q: Is 'hair dryer' heavier than 'chip clip'? A: Yes
+Q: Is 'hair dryer' heavier than 'rope bundle'? A: Yes
+Q: Is 'hair dryer' heavier than 'google cardboard'? A: Yes
+Q: Is 'hair dryer' heavier than 'baby shoe'? A: Yes
+Q: Is 'hair dryer' heavier than '15 puzzle'? A: Yes
+Q: Is 'hair dryer' heavier than 'lighter'? A: Yes
+Q: Is 'hair dryer' heavier than 'twine'? A: Yes
+Q: Is 'hair dryer' heavier than 'hat'? A: Yes
+Q: Is 'hair dryer' heavier than 'kitchen knife'? A: Yes
+Q: Is 'hair dryer' heavier than 'screwdriver'? A: Yes
+Q: Is 'hair dryer' heavier than 'bar of soap'? A: Yes
+Q: Is 'hair dryer' heavier than 'view master'? A: Yes
+Q: Is 'hair dryer' heavier than 'box of soap'? A: Yes
+Q: Is 'hair dryer' heavier than 'bottle brush'? A: Yes
+Q: Is 'hair dryer' heavier than 'ivan's phone'? A: Yes
+Q: Is 'hair dryer' heavier than 'ollie the monkey'? A: Yes
+Q: Is 'hair dryer' heavier than 'mouse'? A: Yes
+Q: Is 'hair dryer' heavier than 'toaster'? A: No
+Q: Is 'hair dryer' heavier than 'drill'? A: No
+Q: Is 'dali clock' heavier than 'red lego brick'? A: Yes
+Q: Is 'dali clock' heavier than 'green lego brick'? A: Yes
+Q: Is 'dali clock' heavier than 'safety razer'? A: Yes
+Q: Is 'dali clock' heavier than 'back scratcher'? A: Yes
+Q: Is 'dali clock' heavier than 'little stapler'? A: Yes
+Q: Is 'dali clock' heavier than 'presentaiton remote'? A: Yes
+Q: Is 'dali clock' heavier than 'wooden train track'? A: Yes
+Q: Is 'dali clock' heavier than 'wooden spoon'? A: Yes
+Q: Is 'dali clock' heavier than 'chip clip'? A: Yes
+Q: Is 'dali clock' heavier than 'rope bundle'? A: Yes
+Q: Is 'dali clock' heavier than 'google cardboard'? A: Yes
+Q: Is 'dali clock' heavier than 'baby shoe'? A: Yes
+Q: Is 'dali clock' heavier than '15 puzzle'? A: Yes
+Q: Is 'dali clock' heavier than 'lighter'? A: Yes
+Q: Is 'dali clock' heavier than 'twine'? A: Yes
+Q: Is 'dali clock' heavier than 'hat'? A: Yes
+Q: Is 'dali clock' heavier than 'kitchen knife'? A: Yes
+Q: Is 'dali clock' heavier than 'screwdriver'? A: Yes
+Q: Is 'dali clock' heavier than 'bar of soap'? A: Yes
+Q: Is 'dali clock' heavier than 'view master'? A: Yes
+Q: Is 'dali clock' heavier than 'box of soap'? A: Yes
+Q: Is 'dali clock' heavier than 'bottle brush'? A: Yes
+Q: Is 'dali clock' heavier than 'ivan's phone'? A: Yes
+Q: Is 'dali clock' heavier than 'ollie the monkey'? A: Yes
+Q: Is 'dali clock' heavier than 'mouse'? A: Yes
+Q: Is 'dali clock' heavier than 'small bowl'? A: Yes
+Q: Is 'dali clock' heavier than 'toy airplane'? A: Yes
+Q: Is 'dali clock' heavier than 'airplane clock'? A: Yes
+Q: Is 'dali clock' heavier than 'big stapler'? A: Yes
+Q: Is 'dali clock' heavier than 'toaster'? A: No
+Q: Is 'dali clock' heavier than 'drill'? A: No
+Q: Is 'umbrella' heavier than 'red lego brick'? A: Yes
+Q: Is 'umbrella' heavier than 'green lego brick'? A: Yes
+Q: Is 'umbrella' heavier than 'safety razer'? A: Yes
+Q: Is 'umbrella' heavier than 'back scratcher'? A: Yes
+Q: Is 'umbrella' heavier than 'little stapler'? A: Yes
+Q: Is 'umbrella' heavier than 'presentaiton remote'? A: Yes
+Q: Is 'umbrella' heavier than 'wooden train track'? A: Yes
+Q: Is 'umbrella' heavier than 'wooden spoon'? A: Yes
+Q: Is 'umbrella' heavier than 'chip clip'? A: Yes
+Q: Is 'umbrella' heavier than 'rope bundle'? A: Yes
+Q: Is 'umbrella' heavier than 'google cardboard'? A: Yes
+Q: Is 'umbrella' heavier than 'baby shoe'? A: Yes
+Q: Is 'umbrella' heavier than '15 puzzle'? A: Yes
+Q: Is 'umbrella' heavier than 'lighter'? A: Yes
+Q: Is 'umbrella' heavier than 'twine'? A: Yes
+Q: Is 'umbrella' heavier than 'hat'? A: Yes
+Q: Is 'umbrella' heavier than 'kitchen knife'? A: Yes
+Q: Is 'umbrella' heavier than 'screwdriver'? A: Yes
+Q: Is 'umbrella' heavier than 'bar of soap'? A: Yes
+Q: Is 'umbrella' heavier than 'view master'? A: Yes
+Q: Is 'umbrella' heavier than 'box of soap'? A: Yes
+Q: Is 'umbrella' heavier than 'bottle brush'? A: Yes
+Q: Is 'umbrella' heavier than 'ivan's phone'? A: Yes
+Q: Is 'umbrella' heavier than 'ollie the monkey'? A: Yes
+Q: Is 'umbrella' heavier than 'mouse'? A: Yes
+Q: Is 'umbrella' heavier than 'small bowl'? A: Yes
+Q: Is 'umbrella' heavier than 'toy airplane'? A: Yes
+Q: Is 'umbrella' heavier than 'airplane clock'? A: Yes
+Q: Is 'umbrella' heavier than 'big stapler'? A: Yes
+Q: Is 'umbrella' heavier than 'plate'? A: Yes
+Q: Is 'umbrella' heavier than 'boy doll'? A: Yes
+Q: Is 'umbrella' heavier than 'can opener'? A: Yes
+Q: Is 'umbrella' heavier than 'hose splitter'? A: Yes
+Q: Is 'umbrella' heavier than 'headphones'? A: Yes
+Q: Is 'umbrella' heavier than 'tv remote'? A: Yes
+Q: Is 'umbrella' heavier than 'tape measure'? A: Yes
+Q: Is 'umbrella' heavier than 'dust pan'? A: Yes
+Q: Is 'umbrella' heavier than 'drill'? A: No
+Q: Is 'pillow' heavier than 'red lego brick'? A: Yes
+Q: Is 'pillow' heavier than 'green lego brick'? A: Yes
+Q: Is 'pillow' heavier than 'safety razer'? A: Yes
+Q: Is 'pillow' heavier than 'back scratcher'? A: Yes
+Q: Is 'pillow' heavier than 'little stapler'? A: Yes
+Q: Is 'pillow' heavier than 'presentaiton remote'? A: Yes
+Q: Is 'pillow' heavier than 'wooden train track'? A: Yes
+Q: Is 'pillow' heavier than 'wooden spoon'? A: Yes
+Q: Is 'pillow' heavier than 'chip clip'? A: Yes
+Q: Is 'pillow' heavier than 'rope bundle'? A: Yes
+Q: Is 'pillow' heavier than 'google cardboard'? A: Yes
+Q: Is 'pillow' heavier than 'baby shoe'? A: Yes
+Q: Is 'pillow' heavier than '15 puzzle'? A: Yes
+Q: Is 'pillow' heavier than 'lighter'? A: Yes
+Q: Is 'pillow' heavier than 'twine'? A: Yes
+Q: Is 'pillow' heavier than 'hat'? A: Yes
+Q: Is 'pillow' heavier than 'kitchen knife'? A: Yes
+Q: Is 'pillow' heavier than 'screwdriver'? A: Yes
+Q: Is 'pillow' heavier than 'bar of soap'? A: Yes
+Q: Is 'pillow' heavier than 'view master'? A: Yes
+Q: Is 'pillow' heavier than 'box of soap'? A: Yes
+Q: Is 'pillow' heavier than 'bottle brush'? A: Yes
+Q: Is 'pillow' heavier than 'ivan's phone'? A: Yes
+Q: Is 'pillow' heavier than 'ollie the monkey'? A: Yes
+Q: Is 'pillow' heavier than 'mouse'? A: Yes
+Q: Is 'pillow' heavier than 'small bowl'? A: Yes
+Q: Is 'pillow' heavier than 'toy airplane'? A: Yes
+Q: Is 'pillow' heavier than 'airplane clock'? A: Yes
+Q: Is 'pillow' heavier than 'big stapler'? A: Yes
+Q: Is 'pillow' heavier than 'plate'? A: Yes
+Q: Is 'pillow' heavier than 'boy doll'? A: Yes
+Q: Is 'pillow' heavier than 'can opener'? A: Yes
+Q: Is 'pillow' heavier than 'hose splitter'? A: Yes
+Q: Is 'pillow' heavier than 'headphones'? A: Yes
+Q: Is 'pillow' heavier than 'tv remote'? A: Yes
+Q: Is 'pillow' heavier than 'tape measure'? A: Yes
+Q: Is 'pillow' heavier than 'dust pan'? A: Yes
+Q: Is 'pillow' heavier than 'sun chips'? A: Yes
+Q: Is 'pillow' heavier than 'marshy the elephant'? A: Yes
+Q: Is 'pillow' heavier than 'pliers'? A: Yes
+Q: Is 'pillow' heavier than 'swiss army knife'? A: Yes
+Q: Is 'pillow' heavier than 'block'? A: Yes
+Q: Is 'pillow' heavier than 'small elephant toy'? A: Yes
+Q: Is 'pillow' heavier than 'drill'? A: No
+Q: Is 'keyboard' heavier than 'red lego brick'? A: Yes
+Q: Is 'keyboard' heavier than 'green lego brick'? A: Yes
+Q: Is 'keyboard' heavier than 'safety razer'? A: Yes
+Q: Is 'keyboard' heavier than 'back scratcher'? A: Yes
+Q: Is 'keyboard' heavier than 'little stapler'? A: Yes
+Q: Is 'keyboard' heavier than 'presentaiton remote'? A: Yes
+Q: Is 'keyboard' heavier than 'wooden train track'? A: Yes
+Q: Is 'keyboard' heavier than 'wooden spoon'? A: Yes
+Q: Is 'keyboard' heavier than 'chip clip'? A: Yes
+Q: Is 'keyboard' heavier than 'rope bundle'? A: Yes
+Q: Is 'keyboard' heavier than 'google cardboard'? A: Yes
+Q: Is 'keyboard' heavier than 'baby shoe'? A: Yes
+Q: Is 'keyboard' heavier than '15 puzzle'? A: Yes
+Q: Is 'keyboard' heavier than 'lighter'? A: Yes
+Q: Is 'keyboard' heavier than 'twine'? A: Yes
+Q: Is 'keyboard' heavier than 'hat'? A: Yes
+Q: Is 'keyboard' heavier than 'kitchen knife'? A: Yes
+Q: Is 'keyboard' heavier than 'screwdriver'? A: Yes
+Q: Is 'keyboard' heavier than 'bar of soap'? A: Yes
+Q: Is 'keyboard' heavier than 'view master'? A: Yes
+Q: Is 'keyboard' heavier than 'box of soap'? A: Yes
+Q: Is 'keyboard' heavier than 'bottle brush'? A: Yes
+Q: Is 'keyboard' heavier than 'ivan's phone'? A: Yes
+Q: Is 'keyboard' heavier than 'ollie the monkey'? A: Yes
+Q: Is 'keyboard' heavier than 'mouse'? A: Yes
+Q: Is 'keyboard' heavier than 'small bowl'? A: Yes
+Q: Is 'keyboard' heavier than 'toy airplane'? A: Yes
+Q: Is 'keyboard' heavier than 'airplane clock'? A: Yes
+Q: Is 'keyboard' heavier than 'big stapler'? A: Yes
+Q: Is 'keyboard' heavier than 'plate'? A: Yes
+Q: Is 'keyboard' heavier than 'boy doll'? A: Yes
+Q: Is 'keyboard' heavier than 'can opener'? A: Yes
+Q: Is 'keyboard' heavier than 'hose splitter'? A: Yes
+Q: Is 'keyboard' heavier than 'headphones'? A: Yes
+Q: Is 'keyboard' heavier than 'tv remote'? A: Yes
+Q: Is 'keyboard' heavier than 'tape measure'? A: Yes
+Q: Is 'keyboard' heavier than 'dust pan'? A: Yes
+Q: Is 'keyboard' heavier than 'sun chips'? A: Yes
+Q: Is 'keyboard' heavier than 'marshy the elephant'? A: Yes
+Q: Is 'keyboard' heavier than 'pliers'? A: Yes
+Q: Is 'keyboard' heavier than 'swiss army knife'? A: Yes
+Q: Is 'keyboard' heavier than 'block'? A: Yes
+Q: Is 'keyboard' heavier than 'small elephant toy'? A: Yes
+Q: Is 'keyboard' heavier than 'gardening shears'? A: Yes
+Q: Is 'keyboard' heavier than 'disk drive'? A: Yes
+Q: Is 'keyboard' heavier than 'neck pillow'? A: Yes
+Q: Is 'toaster' heavier than 'red lego brick'? A: Yes
+Q: Is 'toaster' heavier than 'green lego brick'? A: Yes
+Q: Is 'toaster' heavier than 'safety razer'? A: Yes
+Q: Is 'toaster' heavier than 'back scratcher'? A: Yes
+Q: Is 'toaster' heavier than 'little stapler'? A: Yes
+Q: Is 'toaster' heavier than 'presentaiton remote'? A: Yes
+Q: Is 'toaster' heavier than 'wooden train track'? A: Yes
+Q: Is 'toaster' heavier than 'wooden spoon'? A: Yes
+Q: Is 'toaster' heavier than 'chip clip'? A: Yes
+Q: Is 'toaster' heavier than 'rope bundle'? A: Yes
+Q: Is 'toaster' heavier than 'google cardboard'? A: Yes
+Q: Is 'toaster' heavier than 'baby shoe'? A: Yes
+Q: Is 'toaster' heavier than '15 puzzle'? A: Yes
+Q: Is 'toaster' heavier than 'lighter'? A: Yes
+Q: Is 'toaster' heavier than 'twine'? A: Yes
+Q: Is 'toaster' heavier than 'hat'? A: Yes
+Q: Is 'toaster' heavier than 'kitchen knife'? A: Yes
+Q: Is 'toaster' heavier than 'screwdriver'? A: Yes
+Q: Is 'toaster' heavier than 'bar of soap'? A: Yes
+Q: Is 'toaster' heavier than 'view master'? A: Yes
+Q: Is 'toaster' heavier than 'box of soap'? A: Yes
+Q: Is 'toaster' heavier than 'bottle brush'? A: Yes
+Q: Is 'toaster' heavier than 'ivan's phone'? A: Yes
+Q: Is 'toaster' heavier than 'ollie the monkey'? A: Yes
+Q: Is 'toaster' heavier than 'mouse'? A: Yes
+Q: Is 'toaster' heavier than 'small bowl'? A: Yes
+Q: Is 'toaster' heavier than 'toy airplane'? A: Yes
+Q: Is 'toaster' heavier than 'airplane clock'? A: Yes
+Q: Is 'toaster' heavier than 'big stapler'? A: Yes
+Q: Is 'toaster' heavier than 'plate'? A: Yes
+Q: Is 'toaster' heavier than 'boy doll'? A: Yes
+Q: Is 'toaster' heavier than 'can opener'? A: Yes
+Q: Is 'toaster' heavier than 'hose splitter'? A: Yes
+Q: Is 'toaster' heavier than 'headphones'? A: Yes
+Q: Is 'toaster' heavier than 'tv remote'? A: Yes
+Q: Is 'toaster' heavier than 'tape measure'? A: Yes
+Q: Is 'toaster' heavier than 'dust pan'? A: Yes
+Q: Is 'toaster' heavier than 'sun chips'? A: Yes
+Q: Is 'toaster' heavier than 'marshy the elephant'? A: Yes
+Q: Is 'toaster' heavier than 'pliers'? A: Yes
+Q: Is 'toaster' heavier than 'swiss army knife'? A: Yes
+Q: Is 'toaster' heavier than 'block'? A: Yes
+Q: Is 'toaster' heavier than 'small elephant toy'? A: Yes
+Q: Is 'toaster' heavier than 'gardening shears'? A: Yes
+Q: Is 'toaster' heavier than 'disk drive'? A: Yes
+Q: Is 'toaster' heavier than 'neck pillow'? A: Yes
+Q: Is 'toaster' heavier than 'hammer'? A: Yes
+Q: Is 'toaster' heavier than 'big bowl'? A: Yes
+Q: Is 'toaster' heavier than 'big elephant toy'? A: Yes
+Q: Is 'toaster' heavier than 'hair dryer'? A: Yes
+Q: Is 'toaster' heavier than 'dali clock'? A: Yes
+Q: Is 'drill' heavier than 'red lego brick'? A: Yes
+Q: Is 'drill' heavier than 'green lego brick'? A: Yes
+Q: Is 'drill' heavier than 'safety razer'? A: Yes
+Q: Is 'drill' heavier than 'back scratcher'? A: Yes
+Q: Is 'drill' heavier than 'little stapler'? A: Yes
+Q: Is 'drill' heavier than 'presentaiton remote'? A: Yes
+Q: Is 'drill' heavier than 'wooden train track'? A: Yes
+Q: Is 'drill' heavier than 'wooden spoon'? A: Yes
+Q: Is 'drill' heavier than 'chip clip'? A: Yes
+Q: Is 'drill' heavier than 'rope bundle'? A: Yes
+Q: Is 'drill' heavier than 'google cardboard'? A: Yes
+Q: Is 'drill' heavier than 'baby shoe'? A: Yes
+Q: Is 'drill' heavier than '15 puzzle'? A: Yes
+Q: Is 'drill' heavier than 'lighter'? A: Yes
+Q: Is 'drill' heavier than 'twine'? A: Yes
+Q: Is 'drill' heavier than 'hat'? A: Yes
+Q: Is 'drill' heavier than 'kitchen knife'? A: Yes
+Q: Is 'drill' heavier than 'screwdriver'? A: Yes
+Q: Is 'drill' heavier than 'bar of soap'? A: Yes
+Q: Is 'drill' heavier than 'view master'? A: Yes
+Q: Is 'drill' heavier than 'box of soap'? A: Yes
+Q: Is 'drill' heavier than 'bottle brush'? A: Yes
+Q: Is 'drill' heavier than 'ivan's phone'? A: Yes
+Q: Is 'drill' heavier than 'ollie the monkey'? A: Yes
+Q: Is 'drill' heavier than 'mouse'? A: Yes
+Q: Is 'drill' heavier than 'small bowl'? A: Yes
+Q: Is 'drill' heavier than 'toy airplane'? A: Yes
+Q: Is 'drill' heavier than 'airplane clock'? A: Yes
+Q: Is 'drill' heavier than 'big stapler'? A: Yes
+Q: Is 'drill' heavier than 'plate'? A: Yes
+Q: Is 'drill' heavier than 'boy doll'? A: Yes
+Q: Is 'drill' heavier than 'can opener'? A: Yes
+Q: Is 'drill' heavier than 'hose splitter'? A: Yes
+Q: Is 'drill' heavier than 'headphones'? A: Yes
+Q: Is 'drill' heavier than 'tv remote'? A: Yes
+Q: Is 'drill' heavier than 'tape measure'? A: Yes
+Q: Is 'drill' heavier than 'dust pan'? A: Yes
+Q: Is 'drill' heavier than 'sun chips'? A: Yes
+Q: Is 'drill' heavier than 'marshy the elephant'? A: Yes
+Q: Is 'drill' heavier than 'pliers'? A: Yes
+Q: Is 'drill' heavier than 'swiss army knife'? A: Yes
+Q: Is 'drill' heavier than 'block'? A: Yes
+Q: Is 'drill' heavier than 'small elephant toy'? A: Yes
+Q: Is 'drill' heavier than 'gardening shears'? A: Yes
+Q: Is 'drill' heavier than 'disk drive'? A: Yes
+Q: Is 'drill' heavier than 'neck pillow'? A: Yes
+Q: Is 'drill' heavier than 'hammer'? A: Yes
+Q: Is 'drill' heavier than 'big bowl'? A: Yes
+Q: Is 'drill' heavier than 'big elephant toy'? A: Yes
+Q: Is 'drill' heavier than 'hair dryer'? A: Yes
+Q: Is 'drill' heavier than 'dali clock'? A: Yes
+Q: Is 'drill' heavier than 'umbrella'? A: Yes
+Q: Is 'drill' heavier than 'pillow'? A: Yes

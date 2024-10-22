@@ -1,0 +1,574 @@
+Q: What is the color of jacket: 'black' or 'purple'? A: black
+Q: What is the color of van: 'purple' or 'white'? A: white
+Q: What is the color of street light: 'black' or 'purple'? A: black
+Q: What is the color of pole: 'black' or 'blue'? A: black
+Q: What is the color of cabinet: 'white' or 'purple'? A: white
+Q: What is the color of curtain: 'white' or 'gray'? A: white
+Q: What is the color of drape: 'gray' or 'white'? A: white
+Q: What is the color of picture: 'white' or 'silver'? A: white
+Q: What is the color of apple: 'red' or 'silver'? A: red
+Q: What is the color of counter: 'white' or 'green'? A: white
+Q: What is the color of writing: 'white' or 'orange'? A: white
+Q: What is the color of headphone: 'black' or 'red'? A: black
+Q: What is the color of cup: 'white' or 'silver'? A: white
+Q: What is the color of stapler: 'yellow' or 'black'? A: black
+Q: What is the color of charger: 'orange' or 'white'? A: white
+Q: What is the color of coat: 'purple' or 'black'? A: black
+Q: What is the color of computer keyboard: 'white' or 'blue'? A: white
+Q: What is the color of water bottle: 'brown' or 'blue'? A: blue
+Q: What is the color of sticker: 'purple' or 'white'? A: white
+Q: What is the color of thing: 'white' or 'gray'? A: white
+Q: What is the color of speaker: 'black' or 'purple'? A: black
+Q: What is the color of fire alarm: 'black' or 'red'? A: red
+Q: What is the color of scarf: 'yellow' or 'red'? A: red
+Q: What is the color of trouser: 'black' or 'red'? A: black
+Q: What is the color of banner: 'white' or 'gray'? A: white
+Q: What is the color of lighting: 'silver' or 'white'? A: white
+Q: What is the color of pine tree: 'yellow' or 'green'? A: green
+Q: What is the color of vehicle: 'orange' or 'white'? A: white
+Q: What is the color of blouse: 'white' or 'gray'? A: white
+Q: What is the color of water: 'purple' or 'blue'? A: blue
+Q: What is the color of oven: 'white' or 'red'? A: white
+Q: What is the color of dishwasher: 'white' or 'pink'? A: white
+Q: What is the color of liquid: 'pink' or 'brown'? A: brown
+Q: What is the color of painting: 'white' or 'gray'? A: white
+Q: What is the color of kettle: 'silver' or 'gray'? A: silver
+Q: What is the color of fridge: 'orange' or 'white'? A: white
+Q: What is the color of mixer: 'white' or 'gray'? A: white
+Q: What is the color of kitchen drawer: 'green' or 'white'? A: white
+Q: What is the color of leg: 'red' or 'white'? A: white
+Q: What is the color of stand: 'blue' or 'black'? A: black
+Q: What is the color of traffic light: 'red' or 'silver'? A: red
+Q: What is the color of taxi cab: 'orange' or 'yellow'? A: yellow
+Q: What is the color of purse: 'orange' or 'black'? A: black
+Q: What is the color of sunglass: 'black' or 'green'? A: black
+Q: What is the color of cloud: 'brown' or 'white'? A: white
+Q: What is the color of phone: 'yellow' or 'black'? A: black
+Q: What is the color of circle: 'gray' or 'red'? A: red
+Q: What is the color of word: 'white' or 'orange'? A: white
+Q: What is the color of hinge: 'red' or 'silver'? A: silver
+Q: What is the color of counter top: 'white' or 'purple'? A: white
+Q: What is the color of tray: 'yellow' or 'silver'? A: silver
+Q: What is the color of desktop: 'pink' or 'white'? A: white
+Q: What is the color of panel: 'white' or 'purple'? A: white
+Q: What is the color of rack: 'silver' or 'pink'? A: silver
+Q: What is the color of dial: 'purple' or 'black'? A: black
+Q: What is the color of candle: 'silver' or 'white'? A: white
+Q: What is the color of lamp base: 'yellow' or 'pink'? A: yellow
+Q: What is the color of bookcase: 'brown' or 'red'? A: brown
+Q: What is the color of mattress: 'white' or 'silver'? A: white
+Q: What is the color of ottoman: 'purple' or 'brown'? A: brown
+Q: What is the color of piano: 'black' or 'blue'? A: black
+Q: What is the color of flame: 'blue' or 'gray'? A: blue
+Q: What is the color of house: 'black' or 'white'? A: white
+Q: What is the color of dirt: 'blue' or 'brown'? A: brown
+Q: What is the color of adapter: 'black' or 'white'? A: black
+Q: What is the color of trophy: 'yellow' or 'green'? A: yellow
+Q: What is the color of basket: 'pink' or 'brown'? A: brown
+Q: What is the color of countertop: 'white' or 'pink'? A: white
+Q: What is the color of foam: 'white' or 'silver'? A: white
+Q: What is the color of sand: 'brown' or 'silver'? A: brown
+Q: What is the color of marking: 'white' or 'gray'? A: white
+Q: What is the color of mulch: 'brown' or 'pink'? A: brown
+Q: What is the color of robe: 'brown' or 'white'? A: white
+Q: What is the color of rim: 'pink' or 'silver'? A: silver
+Q: What is the color of overall: 'blue' or 'gray'? A: blue
+Q: What is the color of electrical cord: 'pink' or 'black'? A: black
+Q: What is the color of fan: 'red' or 'white'? A: white
+Q: What is the color of closet: 'blue' or 'brown'? A: brown
+Q: What is the color of bikini top: 'black' or 'silver'? A: black
+Q: What is the color of lounge chair: 'yellow' or 'blue'? A: blue
+Q: What is the color of coaster: 'yellow' or 'white'? A: white
+Q: What is the color of stage: 'black' or 'pink'? A: black
+Q: What is the color of ladder: 'silver' or 'green'? A: silver
+Q: What is the color of roadway: 'white' or 'gray'? A: gray
+Q: What is the color of motorcycle: 'black' or 'brown'? A: black
+Q: What is the color of lawn: 'black' or 'green'? A: green
+Q: What is the color of cover: 'white' or 'brown'? A: white
+Q: What is the color of garage: 'white' or 'orange'? A: white
+Q: What is the color of detail: 'yellow' or 'silver'? A: yellow
+Q: What is the color of shopping bag: 'white' or 'silver'? A: white
+Q: What is the color of camera: 'purple' or 'black'? A: black
+Q: What is the color of collar: 'gray' or 'red'? A: red
+Q: What is the color of wagon: 'yellow' or 'red'? A: red
+Q: What is the color of radiator: 'brown' or 'white'? A: white
+Q: What is the color of shutter: 'gray' or 'black'? A: black
+Q: What is the color of cone: 'orange' or 'gray'? A: orange
+Q: What is the color of binder: 'orange' or 'black'? A: black
+Q: What is the color of crib: 'yellow' or 'white'? A: white
+Q: What is the color of yard: 'orange' or 'green'? A: green
+Q: What is the color of petal: 'pink' or 'brown'? A: pink
+Q: What is the color of body of water: 'blue' or 'gray'? A: blue
+Q: What is the color of cane: 'brown' or 'silver'? A: brown
+Q: What is the color of steering wheel: 'black' or 'orange'? A: black
+Q: What is the color of weed: 'green' or 'gray'? A: green
+Q: What is the color of china: 'white' or 'purple'? A: white
+Q: What is the color of design: 'gray' or 'white'? A: white
+Q: What is the color of stovetop: 'black' or 'silver'? A: black
+Q: What is the color of drawer pull: 'silver' or 'orange'? A: silver
+Q: What is the color of snow: 'silver' or 'white'? A: white
+Q: What is the color of home: 'white' or 'green'? A: white
+Q: What is the color of hoodie: 'pink' or 'black'? A: black
+Q: What is the color of meter: 'brown' or 'black'? A: black
+Q: What is the color of sandal: 'gray' or 'black'? A: black
+Q: What is the color of carpeting: 'yellow' or 'brown'? A: brown
+Q: What is the color of concrete: 'gray' or 'purple'? A: gray
+Q: What is the color of streetlight: 'red' or 'blue'? A: red
+Q: What is the color of mat: 'silver' or 'white'? A: white
+Q: What is the color of piece: 'purple' or 'white'? A: white
+Q: What is the color of seaweed: 'blue' or 'green'? A: green
+Q: What is the color of tarp: 'blue' or 'brown'? A: blue
+Q: What is the color of teddy bear: 'green' or 'brown'? A: brown
+Q: What is the color of nametag: 'white' or 'green'? A: white
+Q: What is the color of lamppost: 'black' or 'purple'? A: black
+Q: What is the color of drink: 'blue' or 'orange'? A: orange
+Q: What is the color of rubber tire: 'black' or 'purple'? A: black
+Q: What is the color of face: 'green' or 'white'? A: white
+Q: What is the color of vegetation: 'white' or 'green'? A: green
+Q: What is the color of stair: 'green' or 'gray'? A: gray
+Q: What is the color of body: 'white' or 'orange'? A: white
+Q: What is the color of ribbon: 'red' or 'purple'? A: red
+Q: What is the color of arm chair: 'brown' or 'gray'? A: brown
+Q: What is the color of bed skirt: 'white' or 'silver'? A: white
+Q: What is the color of pattern: 'orange' or 'white'? A: white
+Q: What is the color of hardware: 'purple' or 'silver'? A: silver
+Q: What is the color of quilt: 'purple' or 'white'? A: white
+Q: What is the color of hamper: 'white' or 'black'? A: white
+Q: What is the color of toy: 'black' or 'yellow'? A: yellow
+Q: What is the color of blow dryer: 'orange' or 'silver'? A: silver
+Q: What is the color of candle holder: 'black' or 'purple'? A: black
+Q: What is the color of tulip: 'red' or 'green'? A: red
+Q: What is the color of loveseat: 'white' or 'pink'? A: white
+Q: What is the color of sausage: 'silver' or 'brown'? A: brown
+Q: What is the color of i: 'yellow' or 'white'? A: white
+Q: What is the color of tall building: 'purple' or 'white'? A: white
+Q: What is the color of dispenser: 'white' or 'brown'? A: white
+Q: What is the color of taillight: 'silver' or 'red'? A: red
+Q: What is the color of tarmac: 'pink' or 'gray'? A: gray
+Q: What is the color of airplane: 'orange' or 'white'? A: white
+Q: What is the color of name: 'gray' or 'white'? A: white
+Q: What is the color of food: 'brown' or 'blue'? A: brown
+Q: What is the color of ballon: 'red' or 'gray'? A: red
+Q: What is the color of balloon: 'blue' or 'black'? A: blue
+Q: What is the color of giraffe: 'pink' or 'brown'? A: brown
+Q: What is the color of hoof: 'silver' or 'black'? A: black
+Q: What is the color of monkey: 'purple' or 'brown'? A: brown
+Q: What is the color of windmill: 'pink' or 'white'? A: white
+Q: What is the color of lace: 'white' or 'brown'? A: white
+Q: What is the color of goat: 'white' or 'red'? A: white
+Q: What is the color of tennis shoe: 'white' or 'orange'? A: white
+Q: What is the color of r: 'white' or 'silver'? A: white
+Q: What is the color of athletic shoe: 'green' or 'white'? A: white
+Q: What is the color of basketball: 'orange' or 'blue'? A: orange
+Q: What is the color of smoke stack: 'black' or 'pink'? A: black
+Q: What is the color of buoy: 'red' or 'black'? A: red
+Q: What is the color of pedestrian sign: 'yellow' or 'purple'? A: yellow
+Q: What is the color of backhoe: 'yellow' or 'green'? A: yellow
+Q: What is the color of cylinder: 'gray' or 'yellow'? A: gray
+Q: What is the color of milk carton: 'yellow' or 'white'? A: white
+Q: What is the color of racket: 'black' or 'pink'? A: black
+Q: What is the color of soda can: 'red' or 'orange'? A: red
+Q: What is the color of switch plate: 'blue' or 'white'? A: white
+Q: What is the color of ceiling tile: 'black' or 'white'? A: white
+Q: What is the color of steeple: 'yellow' or 'white'? A: white
+Q: What is the color of glove: 'black' or 'green'? A: black
+Q: What is the color of pickup: 'white' or 'pink'? A: white
+Q: What is the color of suitcase: 'black' or 'yellow'? A: black
+Q: What is the color of girl: 'gray' or 'white'? A: white
+Q: What is the color of suit jacket: 'black' or 'red'? A: black
+Q: What is the color of cake: 'white' or 'orange'? A: white
+Q: What is the color of corner: 'green' or 'black'? A: black
+Q: What is the color of bar stool: 'black' or 'pink'? A: black
+Q: What is the color of twig: 'green' or 'brown'? A: brown
+Q: What is the color of date: 'gray' or 'red'? A: red
+Q: What is the color of lane: 'pink' or 'white'? A: white
+Q: What is the color of drive: 'white' or 'yellow'? A: white
+Q: What is the color of platform: 'gray' or 'silver'? A: gray
+Q: What is the color of blue sign: 'blue' or 'white'? A: white
+Q: What is the color of star: 'silver' or 'white'? A: white
+Q: What is the color of cell: 'silver' or 'black'? A: black
+Q: What is the color of cellbar: 'brown' or 'white'? A: white
+Q: What is the color of neck: 'white' or 'silver'? A: white
+Q: What is the color of washer: 'white' or 'red'? A: white
+Q: What is the color of suit coat: 'gray' or 'white'? A: gray
+Q: What is the color of decoration: 'yellow' or 'pink'? A: yellow
+Q: What is the color of styrofoam cup: 'purple' or 'white'? A: white
+Q: What is the color of bikini: 'black' or 'orange'? A: black
+Q: What is the color of basin: 'yellow' or 'white'? A: white
+Q: What is the color of dress shirt: 'silver' or 'white'? A: white
+Q: What is the color of hardwood floor: 'brown' or 'blue'? A: brown
+Q: What is the color of boarder: 'purple' or 'white'? A: white
+Q: What is the color of french fry: 'yellow' or 'orange'? A: yellow
+Q: What is the color of packet: 'white' or 'orange'? A: white
+Q: What is the color of magnet: 'brown' or 'red'? A: red
+Q: What is the color of molding: 'white' or 'purple'? A: white
+Q: What is the color of clip: 'purple' or 'black'? A: black
+Q: What is the color of electrical outlet: 'orange' or 'white'? A: white
+Q: What is the color of alarm: 'red' or 'white'? A: red
+Q: What is the color of food truck: 'white' or 'black'? A: white
+Q: What is the color of paper cup: 'white' or 'black'? A: white
+Q: What is the color of platter: 'orange' or 'white'? A: white
+Q: What is the color of dash: 'silver' or 'white'? A: white
+Q: What is the color of open sign: 'silver' or 'blue'? A: blue
+Q: What is the color of telephone pole: 'brown' or 'red'? A: brown
+Q: What is the color of rear light: 'purple' or 'red'? A: red
+Q: What is the color of divider: 'white' or 'red'? A: white
+Q: What is the color of bracket: 'green' or 'silver'? A: silver
+Q: What is the color of box car: 'blue' or 'brown'? A: blue
+Q: What is the color of triangle: 'red' or 'brown'? A: red
+Q: What is the color of graffiti: 'orange' or 'black'? A: black
+Q: What is the color of bouquet: 'yellow' or 'white'? A: white
+Q: What is the color of text: 'pink' or 'white'? A: white
+Q: What is the color of brick wall: 'pink' or 'red'? A: red
+Q: What is the color of pamphlet: 'red' or 'blue'? A: blue
+Q: What is the color of business card: 'brown' or 'white'? A: white
+Q: What is the color of lock: 'red' or 'silver'? A: silver
+Q: What is the color of wallet: 'orange' or 'black'? A: black
+Q: What is the color of base board: 'white' or 'purple'? A: white
+Q: What is the color of framed window: 'white' or 'pink'? A: white
+Q: What is the color of sill: 'white' or 'purple'? A: white
+Q: What is the color of houseplant: 'green' or 'silver'? A: green
+Q: What is the color of cupboard: 'white' or 'silver'? A: white
+Q: What is the color of rocking chair: 'gray' or 'brown'? A: brown
+Q: What is the color of electrical box: 'gray' or 'purple'? A: gray
+Q: What is the color of grout: 'white' or 'green'? A: white
+Q: What is the color of diamond: 'white' or 'brown'? A: white
+Q: What is the color of cork: 'yellow' or 'brown'? A: brown
+Q: What is the color of muffler: 'silver' or 'brown'? A: silver
+Q: What is the color of section: 'red' or 'orange'? A: red
+Q: What is the color of pine needle: 'green' or 'orange'? A: green
+Q: What is the color of bonnet: 'white' or 'purple'? A: white
+Q: What is the color of directional sign: 'blue' or 'white'? A: white
+Q: What is the color of e: 'yellow' or 'white'? A: white
+Q: What is the color of exhaust: 'red' or 'silver'? A: silver
+Q: What is the color of horizon: 'yellow' or 'blue'? A: blue
+Q: What is the color of tanktop: 'yellow' or 'black'? A: black
+Q: What is the color of tan building: 'white' or 'brown'? A: brown
+Q: What is the color of paw: 'green' or 'white'? A: white
+Q: What is the color of deer: 'pink' or 'brown'? A: brown
+Q: What is the color of hillside: 'green' or 'gray'? A: green
+Q: What is the color of cow: 'silver' or 'brown'? A: brown
+Q: What is the color of storefront: 'blue' or 'white'? A: blue
+Q: What is the color of traffic pole: 'gray' or 'black'? A: black
+Q: What is the color of cowboy hat: 'green' or 'white'? A: white
+Q: What is the color of jersey: 'pink' or 'white'? A: white
+Q: What is the color of arch: 'purple' or 'white'? A: white
+Q: What is the color of lane divider: 'gray' or 'blue'? A: blue
+Q: What is the color of package: 'white' or 'brown'? A: white
+Q: What is the color of front tire: 'silver' or 'black'? A: black
+Q: What is the color of hoody: 'gray' or 'pink'? A: gray
+Q: What is the color of stall: 'white' or 'brown'? A: white
+Q: What is the color of mudflap: 'black' or 'blue'? A: black
+Q: What is the color of flyer: 'white' or 'black'? A: white
+Q: What is the color of bang: 'pink' or 'black'? A: black
+Q: What is the color of newspaper stand: 'red' or 'black'? A: red
+Q: What is the color of construction vehicle: 'yellow' or 'green'? A: yellow
+Q: What is the color of painted: 'purple' or 'red'? A: red
+Q: What is the color of beer bottle: 'brown' or 'pink'? A: brown
+Q: What is the color of plane tail: 'green' or 'blue'? A: blue
+Q: What is the color of trashcans: 'black' or 'gray'? A: black
+Q: What is the color of slack: 'gray' or 'orange'? A: gray
+Q: What is the color of sandles: 'white' or 'brown'? A: brown
+Q: What is the color of leave: 'pink' or 'green'? A: green
+Q: What is the color of limb: 'green' or 'orange'? A: green
+Q: What is the color of speck: 'yellow' or 'black'? A: black
+Q: What is the color of vegetable: 'green' or 'brown'? A: green
+Q: What is the color of bagel: 'brown' or 'orange'? A: brown
+Q: What is the color of truck cab: 'black' or 'white'? A: white
+Q: What is the color of winter coat: 'purple' or 'black'? A: black
+Q: What is the color of crest: 'purple' or 'white'? A: white
+Q: What is the color of podium: 'green' or 'black'? A: black
+Q: What is the color of tennis court: 'green' or 'yellow'? A: green
+Q: What is the color of bathroom toilet: 'red' or 'white'? A: white
+Q: What is the color of artwork: 'black' or 'gray'? A: black
+Q: What is the color of step stool: 'white' or 'orange'? A: white
+Q: What is the color of wheelchair: 'black' or 'white'? A: black
+Q: What is the color of siren: 'red' or 'green'? A: red
+Q: What is the color of bleacher: 'black' or 'blue'? A: blue
+Q: What is the color of banana leaf: 'yellow' or 'green'? A: green
+Q: What is the color of flower vase: 'gray' or 'green'? A: green
+Q: What is the color of cattle: 'brown' or 'pink'? A: brown
+Q: What is the color of cloudy: 'purple' or 'white'? A: white
+Q: What is the color of under shirt: 'gray' or 'white'? A: white
+Q: What is the color of car seat: 'yellow' or 'gray'? A: gray
+Q: What is the color of plank: 'orange' or 'brown'? A: brown
+Q: What is the color of streetsign: 'green' or 'purple'? A: green
+Q: What is the color of snowflake: 'white' or 'blue'? A: white
+Q: What is the color of wristband: 'pink' or 'white'? A: white
+Q: What is the color of denim jean: 'blue' or 'purple'? A: blue
+Q: What is the color of slipper: 'gray' or 'black'? A: black
+Q: What is the color of seashell: 'white' or 'purple'? A: white
+Q: What is the color of ghost: 'orange' or 'red'? A: red
+Q: What is the color of pepper shaker: 'white' or 'purple'? A: white
+Q: What is the color of freezer door: 'brown' or 'white'? A: white
+Q: What is the color of checker: 'green' or 'black'? A: black
+Q: What is the color of berry: 'red' or 'yellow'? A: red
+Q: What is the color of dalmation: 'yellow' or 'white'? A: white
+Q: What is the color of crossing sign: 'black' or 'blue'? A: black
+Q: What is the color of kite: 'red' or 'brown'? A: red
+Q: What is the color of visor: 'white' or 'purple'? A: white
+Q: What is the color of wetsuit: 'pink' or 'black'? A: black
+Q: What is the color of filling: 'blue' or 'white'? A: white
+Q: What is the color of bun: 'brown' or 'blue'? A: brown
+Q: What is the color of frisbee: 'purple' or 'white'? A: white
+Q: What is the color of skull: 'white' or 'black'? A: white
+Q: What is the color of wet suit: 'black' or 'orange'? A: black
+Q: What is the color of trash bag: 'black' or 'brown'? A: black
+Q: What is the color of cat tail: 'black' or 'green'? A: black
+Q: What is the color of window sill: 'white' or 'blue'? A: white
+Q: What is the color of loafer: 'pink' or 'brown'? A: brown
+Q: What is the color of stadium seat: 'black' or 'white'? A: white
+Q: What is the color of dandelion: 'red' or 'yellow'? A: yellow
+Q: What is the color of muzzle: 'black' or 'pink'? A: black
+Q: What is the color of tote bag: 'red' or 'silver'? A: red
+Q: What is the color of name tag: 'green' or 'white'? A: white
+Q: What is the color of snow board: 'orange' or 'white'? A: white
+Q: What is the color of ski pole: 'pink' or 'black'? A: black
+Q: What is the color of passenger car: 'gray' or 'red'? A: red
+Q: What is the color of passenger train: 'silver' or 'yellow'? A: yellow
+Q: What is the color of b: 'white' or 'gray'? A: white
+Q: What is the color of skiis: 'silver' or 'white'? A: white
+Q: What is the color of cockpit: 'white' or 'orange'? A: white
+Q: What is the color of shoelace: 'white' or 'brown'? A: white
+Q: What is the color of plane wing: 'silver' or 'white'? A: white
+Q: What is the color of saddle bag: 'yellow' or 'black'? A: black
+Q: What is the color of wii remote: 'orange' or 'white'? A: white
+Q: What is the color of water faucet: 'silver' or 'yellow'? A: silver
+Q: What is the color of camera strap: 'black' or 'pink'? A: black
+Q: What is the color of dvd player: 'green' or 'silver'? A: silver
+Q: What is the color of shirt collar: 'yellow' or 'white'? A: white
+Q: What is the color of laptop computer: 'black' or 'red'? A: black
+Q: What is the color of road cone: 'pink' or 'orange'? A: orange
+Q: What is the color of number 3: 'black' or 'brown'? A: black
+Q: What is the color of soda: 'orange' or 'purple'? A: orange
+Q: What is the color of sprinkle: 'white' or 'brown'? A: white
+Q: What is the color of flip flop: 'silver' or 'black'? A: black
+Q: What is the color of home plate: 'white' or 'blue'? A: white
+Q: What is the color of hair tie: 'blue' or 'brown'? A: blue
+Q: What is the color of bell pepper: 'red' or 'brown'? A: red
+Q: What is the color of advertising: 'white' or 'purple'? A: white
+Q: What is the color of knife blade: 'purple' or 'silver'? A: silver
+Q: What is the color of clockface: 'white' or 'orange'? A: white
+Q: What is the color of chive: 'white' or 'green'? A: green
+Q: What is the color of neon sign: 'black' or 'red'? A: red
+Q: What is the color of mint: 'green' or 'gray'? A: green
+Q: What is the color of gas pump: 'silver' or 'white'? A: white
+Q: What is the color of photograph: 'yellow' or 'white'? A: white
+Q: What is the color of toilet tank: 'white' or 'silver'? A: white
+Q: What is the color of raincoat: 'black' or 'gray'? A: black
+Q: What is the color of binding: 'blue' or 'white'? A: white
+Q: What is the color of handwash: 'white' or 'green'? A: white
+Q: What is the color of bath mat: 'brown' or 'white'? A: white
+Q: What is the color of apple logo: 'purple' or 'white'? A: white
+Q: What is the color of lifejacket: 'orange' or 'white'? A: orange
+Q: What is the color of gourd: 'green' or 'blue'? A: green
+Q: What is the color of food tray: 'red' or 'green'? A: red
+Q: What is the color of fence pole: 'gray' or 'silver'? A: silver
+Q: What is the color of spatula: 'silver' or 'orange'? A: silver
+Q: What is the color of gold line: 'yellow' or 'purple'? A: yellow
+Q: What is the color of letter a: 'blue' or 'white'? A: white
+Q: What is the color of racquet: 'brown' or 'black'? A: black
+Q: What is the color of bicycle seat: 'black' or 'purple'? A: black
+Q: What is the color of turkey: 'orange' or 'brown'? A: brown
+Q: What is the color of dirt bike: 'red' or 'blue'? A: red
+Q: What is the color of rubber: 'yellow' or 'black'? A: black
+Q: What is the color of carving: 'white' or 'yellow'? A: yellow
+Q: What is the color of knee pad: 'black' or 'yellow'? A: black
+Q: What is the color of pond: 'white' or 'blue'? A: blue
+Q: What is the color of toaster oven: 'black' or 'pink'? A: black
+Q: What is the color of pizza box: 'silver' or 'white'? A: white
+Q: What is the color of passenger bus: 'green' or 'white'? A: white
+Q: What is the color of locomotive: 'silver' or 'black'? A: black
+Q: What is the color of hotdog bun: 'brown' or 'red'? A: brown
+Q: What is the color of number 8: 'white' or 'orange'? A: white
+Q: What is the color of tin: 'purple' or 'silver'? A: silver
+Q: What is the color of overpass: 'blue' or 'black'? A: blue
+Q: What is the color of drawstring: 'gray' or 'white'? A: white
+Q: What is the color of attire: 'black' or 'pink'? A: black
+Q: What is the color of walkie talkie: 'brown' or 'black'? A: black
+Q: What is the color of calendar: 'pink' or 'white'? A: white
+Q: What is the color of register: 'purple' or 'white'? A: white
+Q: What is the color of shopping cart: 'red' or 'green'? A: red
+Q: What is the color of knit hat: 'silver' or 'black'? A: black
+Q: What is the color of tail fin: 'blue' or 'green'? A: blue
+Q: What is the color of coverlet: 'white' or 'red'? A: white
+Q: What is the color of safety marker: 'orange' or 'gray'? A: orange
+Q: What is the color of armoire: 'gray' or 'brown'? A: brown
+Q: What is the color of vas: 'white' or 'orange'? A: white
+Q: What is the color of glaze: 'white' or 'pink'? A: white
+Q: What is the color of guitar case: 'orange' or 'black'? A: black
+Q: What is the color of tank lid: 'black' or 'white'? A: white
+Q: What is the color of mesh: 'black' or 'brown'? A: black
+Q: What is the color of medallion: 'yellow' or 'purple'? A: yellow
+Q: What is the color of plantain: 'gray' or 'green'? A: green
+Q: What is the color of plantation: 'green' or 'white'? A: green
+Q: What is the color of men: 'orange' or 'white'? A: white
+Q: What is the color of snap: 'silver' or 'black'? A: silver
+Q: What is the color of catchers mitt: 'white' or 'brown'? A: brown
+Q: What is the color of baseball uniform: 'white' or 'yellow'? A: white
+Q: What is the color of space: 'green' or 'yellow'? A: green
+Q: What is the color of swirl: 'silver' or 'white'? A: white
+Q: What is the color of brake: 'blue' or 'silver'? A: silver
+Q: What is the color of handicapped sign: 'blue' or 'orange'? A: blue
+Q: What is the color of h: 'white' or 'gray'? A: white
+Q: What is the color of high heel: 'black' or 'green'? A: black
+Q: What is the color of thigh: 'white' or 'blue'? A: white
+Q: What is the color of spinach: 'gray' or 'green'? A: green
+Q: What is the color of cleaner: 'red' or 'white'? A: white
+Q: What is the color of beer: 'yellow' or 'brown'? A: brown
+Q: What is the color of toast: 'black' or 'brown'? A: brown
+Q: What is the color of earbud: 'orange' or 'white'? A: white
+Q: What is the color of turf: 'white' or 'green'? A: green
+Q: What is the color of broccoli floret: 'blue' or 'green'? A: green
+Q: What is the color of scrunchie: 'black' or 'orange'? A: black
+Q: What is the color of duvet: 'white' or 'yellow'? A: white
+Q: What is the color of winter hat: 'black' or 'gray'? A: black
+Q: What is the color of electric pole: 'brown' or 'purple'? A: brown
+Q: What is the color of green grass: 'orange' or 'brown'? A: brown
+Q: What is the color of cat eye: 'green' or 'white'? A: green
+Q: What is the color of ruler: 'green' or 'white'? A: white
+Q: What is the color of giraffe's eye: 'pink' or 'black'? A: black
+Q: What is the color of crumb: 'brown' or 'silver'? A: brown
+Q: What is the color of wrapping: 'white' or 'brown'? A: white
+Q: What is the color of hot dog: 'yellow' or 'brown'? A: brown
+Q: What is the color of screw: 'silver' or 'brown'? A: silver
+Q: What is the color of traffic line: 'white' or 'black'? A: white
+Q: What is the color of landing gear: 'black' or 'purple'? A: black
+Q: What is the color of sign board: 'white' or 'red'? A: white
+Q: What is the color of baseline: 'white' or 'black'? A: white
+Q: What is the color of head gear: 'orange' or 'black'? A: black
+Q: What is the color of shin guard: 'silver' or 'black'? A: black
+Q: What is the color of mist: 'white' or 'yellow'? A: white
+Q: What is the color of basil: 'yellow' or 'green'? A: green
+Q: What is the color of shinguard: 'black' or 'green'? A: black
+Q: What is the color of 1: 'black' or 'pink'? A: black
+Q: What is the color of caution cone: 'orange' or 'purple'? A: orange
+Q: What is the color of toilet brush: 'pink' or 'white'? A: white
+Q: What is the color of substance: 'purple' or 'white'? A: white
+Q: What is the color of frog: 'white' or 'green'? A: green
+Q: What is the color of guard: 'black' or 'orange'? A: black
+Q: What is the color of coconut: 'pink' or 'white'? A: white
+Q: What is the color of football: 'orange' or 'brown'? A: brown
+Q: What is the color of smoke trail: 'white' or 'brown'? A: white
+Q: What is the color of baseball cleat: 'purple' or 'black'? A: black
+Q: What is the color of shin pad: 'orange' or 'red'? A: red
+Q: What is the color of chalk: 'white' or 'red'? A: white
+Q: What is the color of lobster: 'red' or 'white'? A: red
+Q: What is the color of flush: 'purple' or 'silver'? A: silver
+Q: What is the color of second hand: 'silver' or 'red'? A: red
+Q: What is the color of surf: 'red' or 'white'? A: white
+Q: What is the color of daffodil: 'yellow' or 'black'? A: yellow
+Q: What is the color of opening: 'black' or 'orange'? A: black
+Q: What is the color of letter b: 'white' or 'black'? A: white
+Q: What is the color of bridal: 'black' or 'pink'? A: black
+Q: What is the color of dashboard: 'brown' or 'black'? A: black
+Q: What is the color of wakeboard: 'silver' or 'red'? A: red
+Q: What is the color of connector: 'purple' or 'black'? A: black
+Q: What is the color of wall plate: 'orange' or 'white'? A: white
+Q: What is the color of tomato sauce: 'orange' or 'red'? A: red
+Q: What is the color of arugula: 'green' or 'gray'? A: green
+Q: What is the color of cilantro: 'green' or 'pink'? A: green
+Q: What is the color of pony: 'pink' or 'brown'? A: brown
+Q: What is the color of front paw: 'white' or 'silver'? A: white
+Q: What is the color of string bean: 'blue' or 'green'? A: green
+Q: What is the color of dugout: 'green' or 'brown'? A: green
+Q: What is the color of boundary line: 'white' or 'blue'? A: white
+Q: What is the color of wooden door: 'brown' or 'orange'? A: brown
+Q: What is the color of computer key: 'gray' or 'white'? A: white
+Q: What is the color of icon: 'white' or 'orange'? A: white
+Q: What is the color of smartphone: 'black' or 'purple'? A: black
+Q: What is the color of house plant: 'green' or 'black'? A: green
+Q: What is the color of sport shoe: 'white' or 'purple'? A: white
+Q: What is the color of rear wheel: 'black' or 'silver'? A: black
+Q: What is the color of bison: 'purple' or 'brown'? A: brown
+Q: What is the color of windowsill: 'white' or 'black'? A: white
+Q: What is the color of tofu: 'orange' or 'white'? A: white
+Q: What is the color of font: 'gray' or 'white'? A: white
+Q: What is the color of slit: 'black' or 'pink'? A: black
+Q: What is the color of melon: 'blue' or 'green'? A: green
+Q: What is the color of lillie: 'silver' or 'green'? A: green
+Q: What is the color of bedsheets: 'white' or 'silver'? A: white
+Q: What is the color of grandfather clock: 'brown' or 'yellow'? A: brown
+Q: What is the color of cargo pant: 'white' or 'brown'? A: brown
+Q: What is the color of cloak: 'white' or 'red'? A: red
+Q: What is the color of ankle: 'white' or 'brown'? A: white
+Q: What is the color of tomatoe: 'red' or 'black'? A: red
+Q: What is the color of ski glove: 'black' or 'purple'? A: black
+Q: What is the color of letter l: 'white' or 'yellow'? A: white
+Q: What is the color of letter n: 'green' or 'white'? A: white
+Q: What is the color of carrying case: 'black' or 'yellow'? A: black
+Q: What is the color of crossing: 'silver' or 'white'? A: white
+Q: What is the color of front of train: 'orange' or 'yellow'? A: yellow
+Q: What is the color of post it note: 'green' or 'yellow'? A: yellow
+Q: What is the color of ski stick: 'gray' or 'green'? A: green
+Q: What is the color of pizza pan: 'silver' or 'blue'? A: silver
+Q: What is the color of duckling: 'brown' or 'yellow'? A: brown
+Q: What is the color of chunk: 'red' or 'white'? A: white
+Q: What is the color of fog: 'silver' or 'gray'? A: gray
+Q: What is the color of coin slot: 'gray' or 'red'? A: gray
+Q: What is the color of check: 'white' or 'brown'? A: white
+Q: What is the color of tent top: 'yellow' or 'white'? A: white
+Q: What is the color of steak: 'gray' or 'brown'? A: brown
+Q: What is the color of toilet cover: 'purple' or 'white'? A: white
+Q: What is the color of piercing: 'blue' or 'silver'? A: silver
+Q: What is the color of grafitti: 'silver' or 'blue'? A: blue
+Q: What is the color of cowboy boot: 'brown' or 'white'? A: brown
+Q: What is the color of link: 'silver' or 'green'? A: silver
+Q: What is the color of hot dog bun: 'red' or 'brown'? A: brown
+Q: What is the color of baseball mitt: 'purple' or 'brown'? A: brown
+Q: What is the color of woman's shirt: 'blue' or 'black'? A: black
+Q: What is the color of message: 'green' or 'white'? A: white
+Q: What is the color of fang: 'black' or 'white'? A: white
+Q: What is the color of bedsheet: 'white' or 'orange'? A: white
+Q: What is the color of dog's nose: 'yellow' or 'black'? A: black
+Q: What is the color of ceramic bowl: 'red' or 'white'? A: white
+Q: What is the color of video camera: 'black' or 'red'? A: black
+Q: What is the color of silhouette: 'black' or 'white'? A: black
+Q: What is the color of wildebeest: 'red' or 'brown'? A: brown
+Q: What is the color of sea gull: 'red' or 'white'? A: white
+Q: What is the color of fir tree: 'green' or 'black'? A: green
+Q: What is the color of headscarf: 'brown' or 'blue'? A: blue
+Q: What is the color of shuttle: 'white' or 'gray'? A: white
+Q: What is the color of numbering: 'brown' or 'black'? A: black
+Q: What is the color of dirt road: 'brown' or 'white'? A: brown
+Q: What is the color of serving plate: 'pink' or 'white'? A: white
+Q: What is the color of copyright: 'blue' or 'white'? A: white
+Q: What is the color of broccoli spear: 'green' or 'orange'? A: green
+Q: What is the color of croissant: 'silver' or 'brown'? A: brown
+Q: What is the color of santa hat: 'red' or 'blue'? A: red
+Q: What is the color of restaurant logo: 'brown' or 'red'? A: red
+Q: What is the color of banana bunch: 'yellow' or 'red'? A: yellow
+Q: What is the color of golf ball: 'purple' or 'yellow'? A: yellow
+Q: What is the color of eggplant: 'silver' or 'purple'? A: purple
+Q: What is the color of foal: 'purple' or 'brown'? A: brown
+Q: What is the color of ski track: 'blue' or 'white'? A: white
+Q: What is the color of cake server: 'white' or 'silver'? A: silver
+Q: What is the color of gull: 'white' or 'green'? A: white
+Q: What is the color of jet engine: 'blue' or 'white'? A: blue
+Q: What is the color of go signal: 'green' or 'gray'? A: green
+Q: What is the color of clock arm: 'orange' or 'black'? A: black
+Q: What is the color of rashguard: 'brown' or 'black'? A: black
+Q: What is the color of caution line: 'yellow' or 'purple'? A: yellow
+Q: What is the color of carrot top: 'brown' or 'green'? A: green
+Q: What is the color of tan short: 'orange' or 'brown'? A: brown
+Q: What is the color of tick: 'red' or 'black'? A: black
+Q: What is the color of zebra stripe: 'black' or 'pink'? A: black
+Q: What is the color of flower pedal: 'white' or 'purple'? A: purple
+Q: What is the color of tan hat: 'brown' or 'yellow'? A: brown
+Q: What is the color of snow glove: 'gray' or 'black'? A: black
+Q: What is the color of tan brick: 'brown' or 'blue'? A: brown
+Q: What is the color of wave crest: 'white' or 'gray'? A: white
+Q: What is the color of polygon: 'brown' or 'green'? A: brown
+Q: What is the color of tiled floor: 'white' or 'black'? A: white
+Q: What is the color of traffic barrel: 'purple' or 'orange'? A: orange
+Q: What is the color of baby zebra: 'white' or 'orange'? A: white
+Q: What is the color of sink bowl: 'gray' or 'white'? A: white
+Q: What is the color of bathroom wall: 'purple' or 'white'? A: white
+Q: What is the color of bird wing: 'black' or 'green'? A: black
+Q: What is the color of sprinkler: 'pink' or 'blue'? A: blue
+Q: What is the color of wild animal: 'black' or 'red'? A: black
+Q: What is the color of shoe tip: 'orange' or 'black'? A: black
+Q: What is the color of metal tip: 'silver' or 'black'? A: silver
+Q: What is the color of river wave: 'gray' or 'blue'? A: gray
+Q: What is the color of flood light: 'silver' or 'gray'? A: silver
+Q: What is the color of banana cluster: 'green' or 'white'? A: green

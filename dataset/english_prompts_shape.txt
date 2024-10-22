@@ -1,0 +1,140 @@
+Q: What is the shape of table top: 'rectangle' or 'round'? A: round
+Q: What is the shape of top: 'round' or 'octagon'? A: round
+Q: What is the shape of pot: 'round' or 'heart'? A: round
+Q: What is the shape of nose: 'round' or 'cross'? A: round
+Q: What is the shape of mirror: 'semicircle' or 'round'? A: round
+Q: What is the shape of door: 'star' or 'square'? A: square
+Q: What is the shape of recepticle: 'round' or 'star'? A: round
+Q: What is the shape of clock: 'round' or 'semicircle'? A: round
+Q: What is the shape of coffee table: 'octagon' or 'round'? A: round
+Q: What is the shape of sewer: 'round' or 'square'? A: round
+Q: What is the shape of planter: 'rhombus' or 'round'? A: round
+Q: What is the shape of tile: 'polygon' or 'square'? A: square
+Q: What is the shape of glass: 'round' or 'semicircle'? A: round
+Q: What is the shape of chair: 'rhombus' or 'round'? A: round
+Q: What is the shape of lemon: 'round' or 'triangle'? A: round
+Q: What is the shape of ceiling light: 'round' or 'heart'? A: round
+Q: What is the shape of fence: 'square' or 'polygon'? A: square
+Q: What is the shape of emblem: 'rectangle' or 'round'? A: round
+Q: What is the shape of grate: 'triangle' or 'round'? A: round
+Q: What is the shape of drain: 'oval' or 'round'? A: round
+Q: What is the shape of lamp shade: 'rectangle' or 'round'? A: round
+Q: What is the shape of wooden table: 'round' or 'polygon'? A: round
+Q: What is the shape of tree: 'round' or 'semicircle'? A: round
+Q: What is the shape of tower: 'round' or 'star'? A: round
+Q: What is the shape of manhole cover: 'round' or 'rectangle'? A: round
+Q: What is the shape of front tire: 'round' or 'heart'? A: round
+Q: What is the shape of bucket: 'round' or 'octagon'? A: round
+Q: What is the shape of phone: 'octagon' or 'square'? A: square
+Q: What is the shape of petal: 'rhombus' or 'oval'? A: oval
+Q: What is the shape of life saver: 'round' or 'oval'? A: round
+Q: What is the shape of log: 'round' or 'rhombus'? A: round
+Q: What is the shape of logo: 'rectangle' or 'round'? A: round
+Q: What is the shape of comforter: 'round' or 'star'? A: round
+Q: What is the shape of hubcap: 'heart' or 'round'? A: round
+Q: What is the shape of sticker: 'round' or 'octagon'? A: round
+Q: What is the shape of faucet: 'round' or 'heart'? A: round
+Q: What is the shape of knee: 'round' or 'heart'? A: round
+Q: What is the shape of front headlight: 'round' or 'star'? A: round
+Q: What is the shape of card: 'square' or 'round'? A: square
+Q: What is the shape of spoon: 'round' or 'rhombus'? A: round
+Q: What is the shape of stem: 'round' or 'semicircle'? A: round
+Q: What is the shape of mousepad: 'round' or 'oval'? A: round
+Q: What is the shape of bus: 'polygon' or 'square'? A: square
+Q: What is the shape of banana: 'heart' or 'round'? A: round
+Q: What is the shape of container: 'round' or 'polygon'? A: round
+Q: What is the shape of cd: 'round' or 'oval'? A: round
+Q: What is the shape of pizza: 'round' or 'octagon'? A: round
+Q: What is the shape of green ball: 'oval' or 'round'? A: round
+Q: What is the shape of line: 'round' or 'cross'? A: round
+Q: What is the shape of drawer: 'semicircle' or 'rectangle'? A: rectangle
+Q: What is the shape of sunglass: 'oval' or 'triangle'? A: oval
+Q: What is the shape of stove: 'round' or 'semicircle'? A: round
+Q: What is the shape of exercise ball: 'octagon' or 'round'? A: round
+Q: What is the shape of white plate: 'round' or 'rectangle'? A: round
+Q: What is the shape of hexagon shape: 'heart' or 'polygon'? A: polygon
+Q: What is the shape of gauge: 'oval' or 'round'? A: round
+Q: What is the shape of train: 'heart' or 'round'? A: round
+Q: What is the shape of item: 'polygon' or 'round'? A: round
+Q: What is the shape of vase: 'round' or 'rhombus'? A: round
+Q: What is the shape of pupil: 'octagon' or 'oval'? A: oval
+Q: What is the shape of apple: 'oval' or 'round'? A: round
+Q: What is the shape of keyhole: 'round' or 'rectangle'? A: round
+Q: What is the shape of floor: 'triangle' or 'square'? A: square
+Q: What is the shape of sprinkle: 'star' or 'octagon'? A: star
+Q: What is the shape of tail: 'rhombus' or 'round'? A: round
+Q: What is the shape of indentation: 'rhombus' or 'oval'? A: oval
+Q: What is the shape of corner: 'polygon' or 'square'? A: square
+Q: What is the shape of knot: 'octagon' or 'round'? A: round
+Q: What is the shape of luggage: 'polygon' or 'round'? A: round
+Q: What is the shape of piece: 'square' or 'cross'? A: square
+Q: What is the shape of tablecloth: 'square' or 'semicircle'? A: square
+Q: What is the shape of block: 'square' or 'octagon'? A: square
+Q: What is the shape of meat: 'heart' or 'round'? A: round
+Q: What is the shape of bracelet: 'oval' or 'rhombus'? A: rhombus
+Q: What is the shape of soap: 'square' or 'round'? A: round
+Q: What is the shape of sculpture: 'polygon' or 'round'? A: round
+Q: What is the shape of metal: 'round' or 'rectangle'? A: round
+Q: What is the shape of cheese pizza: 'rectangle' or 'round'? A: round
+Q: What is the shape of step: 'cross' or 'round'? A: round
+Q: What is the shape of magnet: 'octagon' or 'square'? A: square
+Q: What is the shape of blanket: 'rhombus' or 'square'? A: square
+Q: What is the shape of hamburger: 'cross' or 'round'? A: round
+Q: What is the shape of drawer pull: 'round' or 'octagon'? A: round
+Q: What is the shape of grill: 'rectangle' or 'round'? A: round
+Q: What is the shape of reflector: 'octagon' or 'square'? A: square
+Q: What is the shape of topping: 'octagon' or 'round'? A: round
+Q: What is the shape of front light: 'rectangle' or 'round'? A: round
+Q: What is the shape of connector: 'oval' or 'round'? A: round
+Q: What is the shape of garbage can: 'round' or 'heart'? A: round
+Q: What is the shape of placard: 'square' or 'round'? A: square
+Q: What is the shape of switch: 'square' or 'octagon'? A: square
+Q: What is the shape of hanger: 'square' or 'round'? A: round
+Q: What is the shape of foot: 'round' or 'heart'? A: round
+Q: What is the shape of toe: 'round' or 'octagon'? A: round
+Q: What is the shape of cap: 'star' or 'round'? A: round
+Q: What is the shape of utensil: 'round' or 'triangle'? A: round
+Q: What is the shape of onion: 'round' or 'cross'? A: round
+Q: What is the shape of shelf: 'octagon' or 'rectangle'? A: rectangle
+Q: What is the shape of table.: 'round' or 'triangle'? A: round
+Q: What is the shape of egg: 'oval' or 'polygon'? A: oval
+Q: What is the shape of chocolate piece: 'polygon' or 'round'? A: round
+Q: What is the shape of flower bed: 'rectangle' or 'round'? A: round
+Q: What is the shape of melon: 'heart' or 'round'? A: round
+Q: What is the shape of necklace: 'square' or 'rhombus'? A: rhombus
+Q: What is the shape of pitcher's mound: 'polygon' or 'round'? A: round
+Q: What is the shape of gas cap: 'octagon' or 'round'? A: round
+Q: What is the shape of plum: 'semicircle' or 'round'? A: round
+Q: What is the shape of bear: 'star' or 'round'? A: round
+Q: What is the shape of sail: 'triangle' or 'square'? A: triangle
+Q: What is the shape of meter: 'cross' or 'round'? A: round
+Q: What is the shape of meatball: 'semicircle' or 'round'? A: round
+Q: What is the shape of candy: 'round' or 'star'? A: round
+Q: What is the shape of port: 'star' or 'round'? A: round
+Q: What is the shape of kitchen table: 'star' or 'round'? A: round
+Q: What is the shape of tomatoe: 'cross' or 'round'? A: round
+Q: What is the shape of left wheel: 'round' or 'cross'? A: round
+Q: What is the shape of parking meter: 'round' or 'rhombus'? A: round
+Q: What is the shape of detail: 'square' or 'semicircle'? A: square
+Q: What is the shape of ceramic tile: 'square' or 'star'? A: square
+Q: What is the shape of toast: 'triangle' or 'square'? A: triangle
+Q: What is the shape of pepper: 'rectangle' or 'round'? A: round
+Q: What is the shape of canvas: 'rectangle' or 'square'? A: square
+Q: What is the shape of cardboard sign: 'square' or 'heart'? A: square
+Q: What is the shape of white frisbee: 'polygon' or 'round'? A: round
+Q: What is the shape of cooler: 'round' or 'semicircle'? A: round
+Q: What is the shape of lighting: 'semicircle' or 'round'? A: round
+Q: What is the shape of right ear: 'round' or 'octagon'? A: round
+Q: What is the shape of graphic: 'square' or 'round'? A: round
+Q: What is the shape of diamond shape: 'rhombus' or 'square'? A: rhombus
+Q: What is the shape of cracker w/cheese: 'round' or 'octagon'? A: round
+Q: What is the shape of copyright symbol: 'triangle' or 'round'? A: round
+Q: What is the shape of touchpad: 'square' or 'semicircle'? A: square
+Q: What is the shape of hay: 'square' or 'star'? A: square
+Q: What is the shape of cherry tomato: 'cross' or 'round'? A: round
+Q: What is the shape of light globe: 'semicircle' or 'round'? A: round
+Q: What is the shape of cord: 'rhombus' or 'round'? A: round
+Q: What is the shape of knife: 'triangle' or 'round'? A: round
+Q: What is the shape of towel ring: 'round' or 'octagon'? A: round
+Q: What is the shape of metal armrest: 'round' or 'octagon'? A: round
+Q: What is the shape of necktie: 'heart' or 'octagon'? A: heart
