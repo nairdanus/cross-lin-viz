@@ -65,7 +65,7 @@ def all_concepts(tgt_lan: str, model: str):
     for c in ['color', 'size', 'shape', 'height', 'material', 'mass', 'temperature', 'hardness']:
         file_name = os.path.join(dir_name,c + ".txt")
         if os.path.exists(file_name):
-            pritn("Hallo, das gibt es schon!")
+            print("Hallo, das gibt es schon!")
             continue
         
         for response in main(tgt_lan, c, model):
