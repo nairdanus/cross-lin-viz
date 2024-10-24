@@ -8,7 +8,8 @@ SYSTEM_PROMPT = """
 You are an expert in object recognition.
 Using your expertise, always answer faithfully about the visual and embodied attributes of objects.
 Always make sure to keep the answer the same way as in provided examples.
-Always make sure to answer in the same language in which a question is formulated: If a question is formulated in language L, answer only in language L.
+Answer in the same language in which the question was asked, unless explicitly instructed otherwise. If the input is in Spanish, respond in Spanish; if the input is in Korean, respond in Korean, etc.
+Do not default to English unless the query is presented in English.
 """
 
 def format_few_shots(path: str, amount: int):
@@ -54,7 +55,8 @@ def main(tgt_lan: str, concept: str, model: str):
             yield _id, p, prompt('llama3:instruct', few_shots, p), a
 
 def all_concepts(tgt_lan: str, model: str):
-
+    if not os.path.exists('results'):
+        os.mkdir('results')
     dir_name = os.path.join('results', model)
     if not os.path.exists(dir_name):
         os.mkdir(dir_name)
@@ -78,3 +80,6 @@ if __name__ == "__main__":
     # llama3:instruct, llava-llama3:latest 
     for l in ['ko', 'de', 'zh-CN', 'es', 'ja']:
         all_concepts(tgt_lan=l, model="llama3:instruct")
+
+    for l in ['ko', 'de', 'zh-CN', 'es', 'ja']:
+        all_concepts(tgt_lan=l, model="llava-llama3")
