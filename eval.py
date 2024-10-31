@@ -49,7 +49,7 @@ def test_all():
             lan = os.path.join(model, lan)
             for file in os.listdir(lan):
                 file = os.path.join(lan, file)
-                if file.endswith("RESULT.txt"):
+                if file.endswith("RESULT.txt") or file.endswith("RESULTS.txt"):
                     continue
                 write_metrics(file)
 
@@ -74,15 +74,15 @@ def main():
 
                 with open(file, 'r') as f:
                     # Read the file line by line and extract the metrics
-                    for line in file:
+                    for line in f:
                         if line.startswith('Accuracy:'):
-                            total_accuracy += float(line.split(':')[1].strip())
+                            total_accuracy += float(line.split(': ')[1].strip())
                         elif line.startswith('Precision:'):
-                            total_precision += float(line.split(':')[1].strip())
+                            total_precision += float(line.split(': ')[1].strip())
                         elif line.startswith('Recall:'):
-                            total_recall += float(line.split(':')[1].strip())
+                            total_recall += float(line.split(': ')[1].strip())
                         elif line.startswith('F1 Score:'):
-                            total_f1 += float(line.split(':')[1].strip())
+                            total_f1 += float(line.split(': ')[1].strip())
                     
                 # Increment the file counter
                 file_count += 1

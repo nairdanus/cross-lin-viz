@@ -1,5 +1,5 @@
-Avg Accuracy: 0.0
-Avg Precision: 0.0
-Avg Recall: 0.0
-Avg F1 Score: 0.0
+Avg Accuracy: 0.02403846153846154
+Avg Precision: 0.0014854426619132501
+Avg Recall: 0.01893939393939394
+Avg F1 Score: 0.0027548209366391185
 
