@@ -46,3 +46,4 @@
 ('49', "¿Cuál es el material de descenso: 'oro' o 'metal'?", 'metal', 'metal')
 ('50', "¿Cuál es el material de cubo de la basura: 'metal' o 'jade'?", 'metal', 'metal')
 ('51', "¿Cuál es el material de polo de servicios públicos: 'dril' o 'madera'?", 'dril', 'madera')
+('52', "¿Cuál es el material de junta: 'cuero' o 'madera'?", 'madera', 'madera')
