@@ -12,15 +12,13 @@ import deepl
 
 from huggingface_hub import login
 
-from decouple import config
+from decouple import config as secret_config
 
-hf_token = config("HF")
-deepl_token = config("DEEPL")
+hf_token = secret_config("HF")
+deepl_token = secret_config("DEEPL")
 
 login(hf_token)
 deepl_client = deepl.DeepLClient(deepl_token)
-
-from tqdm import tqdm
 
 
 if not os.path.exists("translations.json"):
@@ -29,8 +27,8 @@ else:
     with open("translations.json", "r") as f:
         TRANSLATION_DICT = json.load(f)
 
-TGT_LANGS = ["es", "de", "ja", "ko", "zh-hans", "ru"]
-
+import config
+TGT_LANGS = config.TGT_LANGS
 
 def translate_func(
         text: str,
