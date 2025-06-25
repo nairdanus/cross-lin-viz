@@ -2,27 +2,12 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 from datasets import load_dataset
 import torch
 import json
+import os
 
+import config
 
-class ModelConfig:
-    def __init__(
-        self, 
-        max_len: int = 10, 
-        number_few_shots: int = 5, 
-        no_repeat_ngram_size: int = 2, 
-        top_k: int = 50, 
-        top_p: float = 0.95, 
-        temperature: float = 0.7,
-        do_sample: bool = True
-    ):
+from config import MODEL_CONFIG, ModelConfig
 
-        self.max_len = max_len
-        self.number_few_shots = number_few_shots
-        self.no_repeat_ngram_size = no_repeat_ngram_size
-        self.top_k = top_k
-        self.top_p = top_p
-        self.temperature = temperature
-        self.do_sample = do_sample
 
 
 class ModelTester:
@@ -33,6 +18,7 @@ class ModelTester:
                 dataset_name: str,
                 dataset_dir: str = "",
                 dataset_split: str = "test",
+                cpu : bool = False,
                 model_config: ModelConfig = ModelConfig()):
                 
         self.device = torch.device('cuda' if torch.cuda.is_available() and not cpu else 'cpu')
@@ -45,16 +31,25 @@ class ModelTester:
         self.dataset = load_dataset(dataset_name, dataset_dir)[dataset_split]
 
         self.config = model_config
+        
+        self.few_shots, self.excluded_datapoints = self.create_fewshots(model_config.number_few_shots)
 
-        self.answer_path = "_".join(model_name.split("/")[1], dataset_name.split("_")[-1].upper(), dataset_dir)
+        self.answer_path = "_".join(["ANS", model_name.split("/")[1], dataset_name.split("_")[-1].upper(), dataset_dir, ".json"])
 
         if not os.path.exists(self.answer_path):
             with open(self.answer_path, "w") as f:
-                json.dump(f, {
-                    "model_config": model_config,
+                json.dump({
+                    "config": model_config.to_dict(),
                     "model": model_name,
                     "answers": dict(),
-                })
+                }, f)
+
+    def __str__(self):
+        return f"""
+--------------------------------        
+Model Tester {self.answer_path}
+--------------------------------
+"""
 
 
     def generate_text(self, prompt: str):
@@ -67,7 +62,7 @@ class ModelTester:
 
         outputs = self.model.generate(
             inputs,
-            max_length=self.config.max_len,
+            max_new_tokens=self.config.max_len,
             num_return_sequences=1,
             no_repeat_ngram_size=self.config.no_repeat_ngram_size,
             top_k=self.config.top_k,
@@ -80,6 +75,22 @@ class ModelTester:
         generated_text = self.tokenizer.decode(outputs[0], skip_special_tokens=True)
         return generated_text
 
+    def create_fewshots(self, n):
+        few_shots = ""
+        excluded = []
+        for _ in range(self.few_shots):
+            shot = random.choice(self.dataset)
+            few_shots += f"Q: {shot['Q']}\nA: {shot['A']}\n\n"
+            excluded.append(shot["id"])
+        return few_shots, excluded
+
+
+    def format_prompt(self, question):
+        prompt = SYSTEM_PROMPT + "\n"
+        prompt += self.few_shots
+        prompt += f"Q: {question}\nA: "
+        return prompt
+
 
     def test(self):
             """
@@ -88,9 +99,11 @@ class ModelTester:
             for data_point in self.dataset:
 
                 with open(self.answer_path, "r") as f:
-                    answers = json.read(f)
+                    answers = json.load(f)
             
-                ident = (data_point["id"], data_point["Q"])
+                ident = str((data_point["id"], data_point["Q"]))
+
+                prompt = self.format_prompt(data_point["Q"])
 
                 if ident in answers["answers"]:
                     generated_text = answers["answers"][ident]
@@ -99,27 +112,21 @@ class ModelTester:
                     answers["answers"][ident] = generated_text
 
                 with open(self.answer_path, "w") as f:
-                    json.dump(f, answers)
+                    json.dump(answers, f)
 
 
 
 if __name__ == "__main__":
 
-    config = ModelConfig({
-        "max_len": 10, 
-        "number_few_shots": 5, 
-        "no_repeat_ngram_size": 2, 
-        "top_k": 50, 
-        "top_p": 0.95, 
-        "temperature": 0.7,
-        "do_sample": True
-    })
+    config = MODEL_CONFIG
 
     tester = ModelTester(
         model_name = "Qwen/Qwen2.5-3B-Instruct", 
         dataset_name = "nairdanus/VEC_prompt_en",
         dataset_dir = "color",
         model_config=config)
+    
+    print(tester)
 
     tester.test()
     
