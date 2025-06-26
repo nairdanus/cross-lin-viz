@@ -9,4 +9,4 @@
 #SBATCH --ntasks=1
 
 source venv/bin/activate
-python3 -u test_model.py
+python3 -u test_model.py --model "Qwen/Qwen2.5-3B-Instruct" --dataset "nairdanus/VEC_prompt_en" --category "color"

@@ -1,0 +1,24 @@
+### EXAMPLES
+Q: What is the color of 'washing machine': 'white' or 'green'?
+A: white
+
+Q: What is harder: 'tungsten' or 'leather'?
+A: tungsten
+
+Q: What is the material of 'bike handle': 'wood' or 'rubber'?
+A: rubber
+
+Q: What is hotter: 'tea' or 'apple juice'?
+A: tea
+
+Q: What is taller: 'human' or 'giraffe'?
+A: giraffe
+
+Q: What is heavier: 'rock' or 'toothbrush'?
+A: rock
+
+Q: What is the shape of 'honeycomb cell': 'polygon' or 'circle'?
+A: polygon
+
+Q: What is bigger: 'motorcycle' or 'car'?
+A: car
