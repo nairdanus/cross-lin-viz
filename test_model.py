@@ -7,6 +7,8 @@ import os
 import sys
 import argparse
 from tqdm import tqdm
+import re
+import guidance
 
 from config import MODEL_CONFIG, ModelConfig
 
@@ -67,44 +69,19 @@ class ModelTester:
         return f"""Model Tester {self.answer_path}"""
 
     def load_model(self):
-        try:
-            self.model = AutoModelForCausalLM.from_pretrained(self.model_name)
-        except ValueError as e:
-            try:
-                self.model = AutoModelForVision2Seq.from_pretrained(self.model_name)
-            except Exception as e:
-                raise ValueError("Issue Loading Model:\n", e)
-                
-        self.model.to(self.device)
-        self.model.eval()
-        self.tokenizer = AutoTokenizer.from_pretrained(self.model_name)
+        self.model = guidance.models.Transformers(self.model_name)
 
 
-    def generate_text(self, prompt: str):
+    def generate_text(self, prompt: str, choices: list):
         """
         Generate text based on the prompt using model's configuration.
         """
-        
+
         if self.model is None:
             self.load_model()
 
-        inputs = self.tokenizer.encode(prompt, return_tensors='pt')
-        inputs.to(self.device)
-
-        outputs = self.model.generate(
-            inputs,
-            max_new_tokens=self.config.max_len,
-            num_return_sequences=1,
-            no_repeat_ngram_size=self.config.no_repeat_ngram_size,
-            top_k=self.config.top_k,
-            top_p=self.config.top_p,
-            temperature=self.config.temperature,
-            do_sample=self.config.do_sample,
-            pad_token_id=self.tokenizer.eos_token_id
-        )
-
-        generated_text = self.tokenizer.decode(outputs[0], skip_special_tokens=True)
-        return generated_text
+        lm = self.model + prompt + guidance.select(choices)
+        return str(lm)
 
 
     def format_prompt(self, question):
@@ -132,7 +109,8 @@ class ModelTester:
             if ident in answers["answers"]:
                 generated_text = answers["answers"][ident]
             else:
-                generated_text = self.generate_text(prompt)
+                choice1, choice2 = re.findall(r"('\w+')", prompt)[-2:]
+                generated_text = self.generate_text(prompt, choices=[choice1, choice2])
                 answers["answers"][ident] = generated_text
 
             if (i != 0 and i % 10 == 0) or i == len(self.dataset)-1:
@@ -140,12 +118,13 @@ class ModelTester:
                     json.dump(answers, f)
 
             try:
-                answer = generated_text[len(prompt):]
-            except IndexOutofRangeError as e:
+                pass
+                # answer = generated_text[len(prompt):]
+            except Exception as e:
                 print("INDEX ERROR:", generated_text, len(prompt), len(generated_text))
                 raise e
 
-            pred = self.extract_answer(answer, data_point["A"])
+            pred = self.extract_answer(generated_text, data_point["A"])
             gold = data_point["A"].lower()
 
             if pred == "UNK":
@@ -166,18 +145,7 @@ class ModelTester:
 
 
     def extract_answer(self, pred, gold):
-        pred = pred.lower().strip()
-        
-        if pred.split()[0] in self.all_gold:
-            return pred.split()[0]
-
-        for g in self.all_gold:
-            if g in pred:
-                has_2_labels = any(g2 in pred for g2 in self.all_gold - {g})
-                if not has_2_labels:
-                    return g
-
-        return "UNK"
+        return pred.split()[-1].strip("'")
     
 
     def get_metrics(self, gold_labels, pred_labels):
