@@ -1,15 +1,24 @@
-from transformers import AutoModelForCausalLM, AutoTokenizer
+from transformers import AutoModelForCausalLM, AutoModelForVision2Seq, AutoTokenizer
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, confusion_matrix
 from datasets import load_dataset
 import torch
 import json
 import os
 import sys
-
-import config
+import argparse
+from tqdm import tqdm
 
 from config import MODEL_CONFIG, ModelConfig
 
+
+if not os.path.exists("RESULTS"):
+    os.mkdir("RESULTS")
+
+if not os.path.exists(os.path.join("RESULTS", "ANS")):
+    os.mkdir(os.path.join("RESULTS", "ANS"))
+
+if not os.path.exists(os.path.join("RESULTS", "METRICS")):
+    os.mkdir(os.path.join("RESULTS", "METRICS"))
 
 
 class ModelTester:
@@ -38,12 +47,12 @@ class ModelTester:
 
         with open(system_prompt_path, "r") as f:
             self.system_prompt = f.read()
-        if config.use_few_shots:
+        if self.config.use_few_shots:
             with open (few_shot_path, "r") as f:
                 self.system_prompt += "\n" + f.read()
         self.system_prompt += "\n### YOUR TASK\n"
 
-        self.answer_file_name = "_".join(["ANS", model_name.split("/")[1], dataset_name.split("_")[-1].upper(), dataset_dir, "fewshot" if config.use_few_shots else "zeroshot"]) + ".json"
+        self.answer_file_name = "_".join(["ANS", model_name.split("/")[1], dataset_name.split("_")[-1].upper(), dataset_dir, "fewshot" if self.config.use_few_shots else "zeroshot"]) + ".json"
         self.answer_path = os.path.join("RESULTS", "ANS",  self.answer_file_name)
 
         if not os.path.exists(self.answer_path):
@@ -55,14 +64,17 @@ class ModelTester:
                 }, f)
 
     def __str__(self):
-        return f"""
---------------------------------        
-Model Tester {self.answer_path}
---------------------------------
-"""
+        return f"""Model Tester {self.answer_path}"""
 
     def load_model(self):
-        self.model = AutoModelForCausalLM.from_pretrained(self.model_name)
+        try:
+            self.model = AutoModelForCausalLM.from_pretrained(self.model_name)
+        except ValueError as e:
+            try:
+                self.model = AutoModelForVision2Seq.from_pretrained(self.model_name)
+            except Exception as e:
+                raise ValueError("Issue Loading Model:\n", e)
+                
         self.model.to(self.device)
         self.model.eval()
         self.tokenizer = AutoTokenizer.from_pretrained(self.model_name)
@@ -111,7 +123,7 @@ Model Tester {self.answer_path}
         with open(self.answer_path, "r") as f:
             answers = json.load(f)
 
-        for i, data_point in enumerate(self.dataset):
+        for i, data_point in tqdm(enumerate(self.dataset), desc="Iterating dataset", ncols=100, total=len(self.dataset)):
 
             ident = str((data_point["id"], data_point["Q"]))
 
@@ -127,11 +139,20 @@ Model Tester {self.answer_path}
                 with open(self.answer_path, "w") as f:
                     json.dump(answers, f)
 
-            answer = generated_text[len(prompt):]
-            
+            try:
+                answer = generated_text[len(prompt):]
+            except IndexOutofRangeError as e:
+                print("INDEX ERROR:", generated_text, len(prompt), len(generated_text))
+                raise e
+
             pred = self.extract_answer(answer, data_point["A"])
             gold = data_point["A"].lower()
 
+            if pred == "UNK":
+                print("\n__________________________________")
+                print("NO LABEL EXTRACTION:")
+                print(generated_text)
+                
             gold_labels.append(gold)
             pred_labels.append(pred)
 
@@ -150,8 +171,13 @@ Model Tester {self.answer_path}
         if pred.split()[0] in self.all_gold:
             return pred.split()[0]
 
-        print(f"CANNOT FIND GOLD LABEL {gold} IN ", f"'''{pred}'''")
-        return pred.split()[0]
+        for g in self.all_gold:
+            if g in pred:
+                has_2_labels = any(g2 in pred for g2 in self.all_gold - {g})
+                if not has_2_labels:
+                    return g
+
+        return "UNK"
     
 
     def get_metrics(self, gold_labels, pred_labels):
@@ -187,8 +213,6 @@ Accuracy: {accuracy}
 Precision: {precision_text}
 Recall: {recall_text}
 F1: {f1_text}
-----
-{conf_matrix}
 ----------------------------------
 
 """
@@ -218,26 +242,29 @@ if __name__ == "__main__":
         description="Test a model on a dataset with a given category."
     )
     parser.add_argument(
-        "model",
+        "--model",
         type=str,
+        required=True,
         help="The name or path of the model (e.g., Qwen/Qwen2.5-3B-Instruct)"
     )
     parser.add_argument(
-        "dataset",
+        "--dataset",
         type=str,
+        required=True,
         help="The name of the dataset (e.g., nairdanus/VEC_prompt_en)"
     )
     parser.add_argument(
-        "category",
+        "--category",
         type=str,
+        required=True,
         help="The category to test (e.g., color)"
     )
     args = parser.parse_args()
 
     try:
         main(
-            model_name=args.model_name,
-            dataset_name=args.dataset_name,
+            model_name=args.model,
+            dataset_name=args.dataset,
             category=args.category
         )
     except Exception as e:

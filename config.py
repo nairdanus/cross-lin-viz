@@ -31,7 +31,7 @@ class ModelConfig:
 
 MODEL_CONFIG = ModelConfig(**{
         "max_len": 10, 
-        "use_few_shots": False, 
+        "use_few_shots": True, 
         "no_repeat_ngram_size": 2, 
         "top_k": 50, 
         "top_p": 0.95, 

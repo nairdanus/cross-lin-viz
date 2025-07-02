@@ -139,113 +139,116 @@ def prompt_format(e, lan):
     def write_de(e):
         match e['relation']:
             case 'temperature':
-                question_format = "Was ist heißer: '{}' or '{}'?"
+                question_format = "Was ist heißer: '{}' oder '{}'?"
             case 'size':
-                question_format = "Was ist größer: '{}' or '{}'?"
+                question_format = "Was ist größer: '{}' oder '{}'?"
             case 'mass':
-                question_format = "Was ist schwerer: '{}' or '{}'?"
+                question_format = "Was ist schwerer: '{}' oder '{}'?"
             case 'height':
-                question_format = "Was ist höher: '{}' or '{}'?"
+                question_format = "Was ist höher: '{}' oder '{}'?"
             case 'hardness':
-                question_format = "Was ist härter: '{}' or '{}'?"
+                question_format = "Was ist härter: '{}' oder '{}'?"
             case 'color':
-                question_format = "Welche Farbe hat '" + e['obj'] + "': '{}' or '{}'?"
+                question_format = "Welche Farbe hat '" + e['obj'] + "': '{}' oder '{}'?"
             case 'material':
-                question_format = "Aus welchem Material besteht '" + e['obj'] + "': '{}' or '{}'?"
+                question_format = "Aus welchem Material besteht '" + e['obj'] + "': '{}' oder '{}'?"
             case 'shape':
-                question_format = "Welche Form hat '" + e['obj'] + "': '{}' or '{}'?"
+                question_format = "Welche Form hat '" + e['obj'] + "': '{}' oder '{}'?"
             case _:
                 raise ValueError("Wrong relation!")
 
         return make_question_and_answer(e, question_format)
 
 
-    def write_zh(e): #TODO
-        if "obj1" in e: # Comparing data (obj1 v obj2)
-            match e['relation']:
-                case 'temperature':
-                    return f"'{e['obj1']}'比'{e['obj2']}'热吗?", f"{'是' if e['label'] else '否'}"
-                case 'size':
-                    return f"'{e['obj1']}'比'{e['obj2']}'大吗?", f"{'是' if e['label'] else '否'}"
-                case 'mass':
-                    return f"'{e['obj1']}'比'{e['obj2']}'重吗?", f"{'是' if e['label'] else '否'}"
-                case 'height':
-                    return f"'{e['obj1']}'比'{e['obj2']}'高吗?", f"{'是' if e['label'] else '否'}"
-                case 'hardness':
-                    return f"'{e['obj1']}'比'{e['obj2']}'硬吗?", f"{'是' if e['label'] else '否'}"
-                case _:
-                    raise ValueError("Wrong relation!")
-        
-        else: # color, material, shape
-            if random.random() > 0.5:
-                return f"{e['obj']}是什么{translate_relation(e['relation'], 'zh')}: 是'{e['positive']}'还是'{e['negative']}'?", f"{e['positive']}" 
-            else:
-                return f"{e['obj']}是什么{translate_relation(e['relation'], 'zh')}: 是'{e['negative']}'还是'{e['positive']}'?", f"{e['positive']}" 
-    
-    def write_es(e): # TODO
-        if "obj1" in e: # Comparing data (obj1 v obj2)
-            match e['relation']:
-                case 'temperature':
-                    return f"¿Es '{e['obj1'].lower()}' más caliente que '{e['obj2'].lower()}'?", f"{'Sí' if e['label'] else 'No'}"
-                case 'size':
-                    return f"¿Es '{e['obj1'].lower()}' más grande que '{e['obj2'].lower()}'?", f"{'Sí' if e['label'] else 'No'}"
-                case 'mass':
-                    return f"¿Es '{e['obj1'].lower()}' más pesado que '{e['obj2'].lower()}'?", f"{'Sí' if e['label'] else 'No'}"
-                case 'height':
-                    return f"¿Es '{e['obj1'].lower()}' más alto que '{e['obj2'].lower()}'?", f"{'Sí' if e['label'] else 'No'}"
-                case 'hardness':
-                    return f"¿Es '{e['obj1'].lower()}' más duro que '{e['obj2'].lower()}'?", f"{'Sí' if e['label'] else 'No'}"
-                case _:
-                    raise ValueError("Wrong relation!")
-        
-        else: # color, material, shape
-            if random.random() > 0.5: 
-                return f"¿Cuál es {translate_relation(e['relation'], 'es')} de {e['obj']}: '{e['positive'].lower()}' o '{e['negative'].lower()}'?", f"{e['positive'].lower()}" 
-            else:
-                return f"¿Cuál es {translate_relation(e['relation'], 'es')} de {e['obj']}: '{e['negative'].lower()}' o '{e['positive'].lower()}'?", f"{e['positive'].lower()}" 
-    
-    def write_ja(e): # TODO
-        if "obj1" in e: # Comparing data (obj1 v obj2)
-            match e['relation']:
-                case 'temperature':
-                    return f"'{e['obj1']}'は'{e['obj2']}'より熱いか?", f"{'はい' if e['label'] else 'いいえ'}"
-                case 'size':
-                    return f"'{e['obj1']}'は'{e['obj2']}'より大きいか?", f"{'はい' if e['label'] else 'いいえ'}"
-                case 'mass':
-                    return f"'{e['obj1']}'は'{e['obj2']}'より重いか?", f"{'はい' if e['label'] else 'いいえ'}"
-                case 'height':
-                    return f"'{e['obj1']}'は'{e['obj2']}'より高いか?", f"{'はい' if e['label'] else 'いいえ'}"
-                case 'hardness':
-                    return f"'{e['obj1']}'は'{e['obj2']}'より固いか?", f"{'はい' if e['label'] else 'いいえ'}"
-                case _:
-                    raise ValueError("Wrong relation!")
-        
-        else: # color 色, material材質, shape 形
-            if random.random() > 0.5:
-                return f"{e['obj']}の{translate_relation(e['relation'], 'ja')}は何ですか: '{e['positive']}'のか?'{e['negative']}'のか?", f"{e['positive']}です" 
-            else:
-                return f"{e['obj']}の{translate_relation(e['relation'], 'ja')}は何ですか: '{e['negative']}'のか?'{e['positive']}'のか?", f"{e['positive']}です" 
-
-    def write_ru(e): # TODO
-        raise NotImplementedError(f"No prompt template for Russian!")
-
+    def write_zh(e):
         match e['relation']:
             case 'temperature':
-                question_format = "Was ist heißer: '{}' or '{}'?"
+                question_format = "哪个比较热，'{}'还是'{}'?"
             case 'size':
-                question_format = "Was ist größer: '{}' or '{}'?"
+                question_format = "哪个比较大，'{}'还是'{}'?"
             case 'mass':
-                question_format = "Was ist schwerer: '{}' or '{}'?"
+                question_format = "哪个比较重，'{}'还是'{}'?"
             case 'height':
-                question_format = "Was ist höher: '{}' or '{}'?"
+                question_format = "哪个比较高，'{}'还是'{}'?"
             case 'hardness':
-                question_format = "Was ist härter: '{}' or '{}'?"
-            case 'color':
-                question_format = "Welche Farbe hat '" + e['obj'] + "': '{}' or '{}'?"
+                question_format = "哪个比较硬，'{}'还是'{}'?"
             case 'material':
-                question_format = "Aus welchem Material besteht '" + e['obj'] + "': '{}' or '{}'?"
+                question_format = "'" + e['obj'] + "'是什么材料: '{}'还是'{}'?"
+            case 'color':
+                question_format = "'" + e['obj'] + "'是什么颜色: '{}'还是'{}'?"
             case 'shape':
-                question_format = "Welche Form hat '" + e['obj'] + "': '{}' or '{}'?"
+                question_format = "'" + e['obj'] + "'是什么形状: '{}'还是'{}'?"
+            case _:
+                raise ValueError("Wrong relation!")
+
+        return make_question_and_answer(e, question_format)
+        
+    
+    def write_es(e):
+        match e['relation']:
+            case 'temperature':
+                question_format = "¿Cuál es más caliente '{}' o '{}'?"
+            case 'size':
+                question_format = "¿Cuál es más grande '{}' o '{}'?"
+            case 'mass':
+                question_format = "¿Cuál es más pesado '{}' o '{}'?"
+            case 'height':
+                question_format = "¿Cuál es más alto '{}' o '{}'?"
+            case 'hardness':
+                question_format = "¿Cuál es más duro '{}' o '{}'?"
+            case 'color':
+                question_format = "¿Cuál es el color de '" + e['obj'] + "': '{}' o '{}'?"
+            case 'material':
+                question_format = "¿Cuál es el material de '" + e['obj'] + "': '{}' o '{}'?"
+            case 'shape':
+                question_format = "¿Cuál es la forma de '" + e['obj'] + "': '{}' o '{}'?"
+            case _:
+                raise ValueError("Wrong relation!")
+        
+        return make_question_and_answer(e, question_format)
+
+    
+    def write_ja(e):
+        match e['relation']:
+            case 'temperature':
+                question_format = "{}と{}ではどちらが熱いでしょうか?"
+            case 'size':
+                question_format = "{}と{}ではどちらが大きいでしょうか?"
+            case 'mass':
+                question_format = "{}と{}ではどちらが重いでしょうか?"
+            case 'height':
+                question_format = "{}と{}ではどちらが高いでしょうか?"
+            case 'hardness':
+                question_format = "{}と{}ではどちらが固いでしょうか?"
+            case 'color':
+                question_format = "'" + e['obj'] + "'の色は何ですか: '{}'のか?'{}'のか?"
+            case 'material':
+                question_format = "'" + e['obj'] + "'の材質は何ですか: '{}'のか?'{}'のか?"
+            case 'shape':
+                question_format = "'" + e['obj'] + "'の形は何ですか: '{}'のか?'{}'のか?"
+            case _:
+                raise ValueError("Wrong relation!")
+
+        return make_question_and_answer(e, question_format)
+
+    def write_ru(e):
+        match e['relation']:
+            case 'temperature':
+                question_format = "Что жарче: '{}' или '{}'?"
+            case 'size':
+                question_format = "Что больше: '{}' или '{}'?"
+            case 'mass':
+                question_format = "Что тяжелее: '{}' или '{}'?"
+            case 'height':
+                question_format = "Что выше: '{}' или '{}'?"
+            case 'hardness':
+                question_format = "Что жёстче: '{}' или '{}'?"
+            case 'color':
+                question_format = "Какого цвета'" + e['obj'] + "': '{}' или '{}'?"
+            case 'material':
+                question_format = "Из какого материала '" + e['obj'] + "': '{}' или '{}'?"
+            case 'shape':
+                question_format = "Какую форму имеет'" + e['obj'] + "': '{}' или '{}'?"
             case _:
                 raise ValueError("Wrong relation!")
 
